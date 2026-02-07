@@ -3,7 +3,7 @@ import tailwind from '@astrojs/tailwind';
 import react from '@astrojs/react';
 
 export default defineConfig({
-  site: 'https://pitazo.github.io',
-  base: '/',
+  site: 'https://gomflo.github.io',
+  base: '/pitazo.github.io/',
   integrations: [tailwind(), react()],
 });
