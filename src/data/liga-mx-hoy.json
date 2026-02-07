@@ -1,0 +1,1105 @@
+{
+  "updatedAt": "2026-02-07T22:48:25.715Z",
+  "matchesByDate": {
+    "2026-02-07": [
+      {
+        "time": "17:00",
+        "home": "Toluca",
+        "away": "Cruz Azul",
+        "channels": [
+          "TV Azteca",
+          "FOX One",
+          "ViX Premium",
+          "Azteca Deportes Network",
+          "FOX",
+          "Azteca 7"
+        ]
+      },
+      {
+        "time": "17:00",
+        "home": "Querétaro",
+        "away": "Club León",
+        "channels": [
+          "FOX One",
+          "FOX+"
+        ]
+      },
+      {
+        "time": "19:05",
+        "home": "Atlas",
+        "away": "Pumas UNAM",
+        "channels": [
+          "TUDN",
+          "ViX Premium",
+          "Layvtime YouTube",
+          "Canal 5"
+        ]
+      },
+      {
+        "time": "19:06",
+        "home": "Pachuca",
+        "away": "FC Juárez",
+        "channels": [
+          "FOX One",
+          "FOX+"
+        ]
+      },
+      {
+        "time": "21:10",
+        "home": "América",
+        "away": "Monterrey",
+        "channels": [
+          "TUDN",
+          "ViX Premium",
+          "Layvtime YouTube",
+          "Canal 5"
+        ]
+      }
+    ],
+    "2026-02-13": [
+      {
+        "time": "19:00",
+        "home": "Puebla",
+        "away": "Pumas UNAM",
+        "channels": [
+          "FOX One",
+          "TV Azteca"
+        ]
+      },
+      {
+        "time": "21:00",
+        "home": "Toluca",
+        "away": "Tijuana",
+        "channels": [
+          "TV Azteca",
+          "FOX One"
+        ]
+      }
+    ],
+    "2026-02-14": [
+      {
+        "time": "17:00",
+        "home": "Pachuca",
+        "away": "Atlas",
+        "channels": [
+          "FOX One"
+        ]
+      },
+      {
+        "time": "17:00",
+        "home": "Atlético San Luis",
+        "away": "Querétaro",
+        "channels": [
+          "ESPN",
+          "Disney+ Premium"
+        ]
+      },
+      {
+        "time": "19:00",
+        "home": "Monterrey",
+        "away": "Club León",
+        "channels": [
+          "TUDN",
+          "ViX Premium",
+          "Layvtime YouTube"
+        ]
+      },
+      {
+        "time": "19:00",
+        "home": "FC Juárez",
+        "away": "Necaxa",
+        "channels": [
+          "FOX One",
+          "TV Azteca"
+        ]
+      },
+      {
+        "time": "21:07",
+        "home": "Chivas Guadalajara",
+        "away": "América",
+        "channels": [
+          "Amazon Prime Video (Míralo en vivo)"
+        ]
+      }
+    ],
+    "2026-02-15": [
+      {
+        "time": "17:00",
+        "home": "Santos Laguna",
+        "away": "Mazatlán FC",
+        "channels": [
+          "ViX Premium",
+          "Layvtime YouTube"
+        ]
+      },
+      {
+        "time": "19:00",
+        "home": "Cruz Azul",
+        "away": "Tigres UANL",
+        "channels": [
+          "TUDN",
+          "ViX Premium",
+          "Layvtime YouTube"
+        ]
+      }
+    ],
+    "2026-02-20": [
+      {
+        "time": "19:00",
+        "home": "Tigres UANL",
+        "away": "Pachuca",
+        "channels": [
+          "FOX One",
+          "TV Azteca"
+        ]
+      },
+      {
+        "time": "21:06",
+        "home": "Puebla",
+        "away": "América",
+        "channels": [
+          "FOX One",
+          "TV Azteca"
+        ]
+      }
+    ],
+    "2026-02-21": [
+      {
+        "time": "17:00",
+        "home": "Atlas",
+        "away": "Atlético San Luis",
+        "channels": [
+          "ViX Premium",
+          "Layvtime YouTube"
+        ]
+      },
+      {
+        "time": "19:00",
+        "home": "Club León",
+        "away": "Santos Laguna",
+        "channels": [
+          "FOX One"
+        ]
+      },
+      {
+        "time": "19:00",
+        "home": "Necaxa",
+        "away": "Toluca",
+        "channels": [
+          "Claro Sports",
+          "TV Azteca",
+          "ViX Premium",
+          "Clarosports.com",
+          "Claro Sports YouTube",
+          "Pluto TV"
+        ]
+      },
+      {
+        "time": "21:00",
+        "home": "Cruz Azul",
+        "away": "Chivas Guadalajara",
+        "channels": [
+          "TUDN",
+          "ViX Premium",
+          "Layvtime YouTube"
+        ]
+      }
+    ],
+    "2026-02-22": [
+      {
+        "time": "17:00",
+        "home": "Pumas UNAM",
+        "away": "Monterrey",
+        "channels": [
+          "TUDN",
+          "ViX Premium"
+        ]
+      },
+      {
+        "time": "19:00",
+        "home": "Querétaro",
+        "away": "FC Juárez",
+        "channels": [
+          "FOX One"
+        ]
+      },
+      {
+        "time": "21:06",
+        "home": "Tijuana",
+        "away": "Mazatlán FC",
+        "channels": [
+          "FOX One"
+        ]
+      }
+    ],
+    "2026-02-27": [
+      {
+        "time": "19:00",
+        "home": "Querétaro",
+        "away": "Santos Laguna",
+        "channels": [
+          "FOX One"
+        ]
+      },
+      {
+        "time": "19:00",
+        "home": "Mazatlán FC",
+        "away": "Pachuca",
+        "channels": [
+          "FOX One",
+          "TV Azteca"
+        ]
+      },
+      {
+        "time": "21:00",
+        "home": "FC Juárez",
+        "away": "Atlas",
+        "channels": [
+          "FOX One",
+          "TV Azteca"
+        ]
+      },
+      {
+        "time": "21:06",
+        "home": "Tijuana",
+        "away": "Pumas UNAM",
+        "channels": [
+          "FOX One"
+        ]
+      }
+    ],
+    "2026-02-28": [
+      {
+        "time": "17:00",
+        "home": "Toluca",
+        "away": "Chivas Guadalajara",
+        "channels": [
+          "TUDN",
+          "TV Azteca",
+          "FOX One"
+        ]
+      },
+      {
+        "time": "17:00",
+        "home": "Atlético San Luis",
+        "away": "Puebla",
+        "channels": [
+          "ESPN",
+          "Disney+ Premium"
+        ]
+      },
+      {
+        "time": "19:00",
+        "home": "Monterrey",
+        "away": "Cruz Azul",
+        "channels": [
+          "TUDN",
+          "ViX Premium",
+          "Layvtime YouTube"
+        ]
+      },
+      {
+        "time": "19:00",
+        "home": "Club León",
+        "away": "Necaxa",
+        "channels": [
+          "FOX One"
+        ]
+      },
+      {
+        "time": "21:00",
+        "home": "América",
+        "away": "Tigres UANL",
+        "channels": [
+          "TUDN",
+          "ViX Premium",
+          "Layvtime YouTube"
+        ]
+      }
+    ],
+    "2026-03-03": [
+      {
+        "time": "19:00",
+        "home": "Santos Laguna",
+        "away": "Cruz Azul",
+        "channels": [
+          "TUDN",
+          "ViX Premium"
+        ]
+      },
+      {
+        "time": "19:00",
+        "home": "Pachuca",
+        "away": "Necaxa",
+        "channels": [
+          "FOX One"
+        ]
+      },
+      {
+        "time": "21:00",
+        "home": "Pumas UNAM",
+        "away": "Toluca",
+        "channels": [
+          "TUDN",
+          "ViX Premium"
+        ]
+      },
+      {
+        "time": "21:00",
+        "home": "Atlético San Luis",
+        "away": "Mazatlán FC",
+        "channels": [
+          "ESPN",
+          "Disney+ Premium"
+        ]
+      }
+    ],
+    "2026-03-04": [
+      {
+        "time": "19:00",
+        "home": "Monterrey",
+        "away": "Querétaro",
+        "channels": [
+          "TUDN",
+          "ViX Premium"
+        ]
+      },
+      {
+        "time": "19:00",
+        "home": "Puebla",
+        "away": "Tigres UANL",
+        "channels": [
+          "FOX One",
+          "TV Azteca"
+        ]
+      },
+      {
+        "time": "21:00",
+        "home": "América",
+        "away": "FC Juárez",
+        "channels": [
+          "TUDN",
+          "ViX Premium"
+        ]
+      },
+      {
+        "time": "21:00",
+        "home": "Atlas",
+        "away": "Tijuana",
+        "channels": [
+          "TUDN",
+          "ViX Premium"
+        ]
+      }
+    ],
+    "2026-03-06": [
+      {
+        "time": "19:00",
+        "home": "Mazatlán FC",
+        "away": "Club León",
+        "channels": [
+          "FOX One",
+          "TV Azteca"
+        ]
+      },
+      {
+        "time": "21:00",
+        "home": "Necaxa",
+        "away": "Pumas UNAM",
+        "channels": [
+          "Claro Sports",
+          "TV Azteca",
+          "ViX Premium",
+          "Clarosports.com",
+          "Claro Sports YouTube",
+          "Pluto TV"
+        ]
+      }
+    ],
+    "2026-03-07": [
+      {
+        "time": "17:00",
+        "home": "Cruz Azul",
+        "away": "Atlético San Luis",
+        "channels": [
+          "TUDN",
+          "ViX Premium"
+        ]
+      },
+      {
+        "time": "17:00",
+        "home": "Pachuca",
+        "away": "Puebla",
+        "channels": [
+          "FOX One"
+        ]
+      },
+      {
+        "time": "19:00",
+        "home": "Atlas",
+        "away": "Chivas Guadalajara",
+        "channels": [
+          "TUDN",
+          "ViX Premium"
+        ]
+      },
+      {
+        "time": "21:00",
+        "home": "Tigres UANL",
+        "away": "Monterrey",
+        "channels": [
+          "FOX One",
+          "TV Azteca"
+        ]
+      }
+    ],
+    "2026-03-08": [
+      {
+        "time": "17:00",
+        "home": "Querétaro",
+        "away": "América",
+        "channels": [
+          "FOX One"
+        ]
+      },
+      {
+        "time": "19:00",
+        "home": "Toluca",
+        "away": "FC Juárez",
+        "channels": [
+          "TUDN",
+          "TV Azteca",
+          "FOX One"
+        ]
+      },
+      {
+        "time": "21:00",
+        "home": "Tijuana",
+        "away": "Santos Laguna",
+        "channels": [
+          "FOX One"
+        ]
+      }
+    ],
+    "2026-03-13": [
+      {
+        "time": "19:00",
+        "home": "Tigres UANL",
+        "away": "Querétaro",
+        "channels": [
+          "FOX One",
+          "TV Azteca"
+        ]
+      },
+      {
+        "time": "19:00",
+        "home": "Puebla",
+        "away": "Necaxa",
+        "channels": [
+          "FOX One",
+          "TV Azteca"
+        ]
+      },
+      {
+        "time": "21:00",
+        "home": "FC Juárez",
+        "away": "Monterrey",
+        "channels": [
+          "FOX One",
+          "TV Azteca"
+        ]
+      }
+    ],
+    "2026-03-14": [
+      {
+        "time": "17:00",
+        "home": "Atlético San Luis",
+        "away": "Pachuca",
+        "channels": [
+          "ESPN",
+          "Disney+ Premium"
+        ]
+      },
+      {
+        "time": "17:07",
+        "home": "Chivas Guadalajara",
+        "away": "Santos Laguna",
+        "channels": [
+          "Amazon Prime Video (Míralo en vivo)"
+        ]
+      },
+      {
+        "time": "19:00",
+        "home": "Toluca",
+        "away": "Atlas",
+        "channels": [
+          "TUDN",
+          "TV Azteca",
+          "FOX One"
+        ]
+      },
+      {
+        "time": "19:00",
+        "home": "Club León",
+        "away": "Tijuana",
+        "channels": [
+          "FOX One"
+        ]
+      },
+      {
+        "time": "21:00",
+        "home": "Pumas UNAM",
+        "away": "Cruz Azul",
+        "channels": [
+          "TUDN",
+          "ViX Premium"
+        ]
+      }
+    ],
+    "2026-03-15": [
+      {
+        "time": "19:00",
+        "home": "América",
+        "away": "Mazatlán FC",
+        "channels": [
+          "TUDN",
+          "ViX Premium"
+        ]
+      }
+    ],
+    "2026-03-18": [
+      {
+        "time": "20:07",
+        "home": "Chivas Guadalajara",
+        "away": "Club León",
+        "channels": [
+          "Amazon Prime Video (Míralo en vivo)"
+        ]
+      }
+    ],
+    "2026-03-20": [
+      {
+        "time": "19:00",
+        "home": "Necaxa",
+        "away": "Tijuana",
+        "channels": [
+          "Claro Sports",
+          "TV Azteca",
+          "ViX Premium",
+          "Clarosports.com",
+          "Claro Sports YouTube",
+          "Pluto TV"
+        ]
+      },
+      {
+        "time": "21:06",
+        "home": "Mazatlán FC",
+        "away": "Cruz Azul",
+        "channels": [
+          "FOX One",
+          "TV Azteca"
+        ]
+      }
+    ],
+    "2026-03-21": [
+      {
+        "time": "17:00",
+        "home": "Atlas",
+        "away": "Querétaro",
+        "channels": [
+          "TUDN",
+          "ViX Premium"
+        ]
+      },
+      {
+        "time": "17:00",
+        "home": "Pachuca",
+        "away": "Toluca",
+        "channels": [
+          "FOX One"
+        ]
+      },
+      {
+        "time": "19:00",
+        "home": "Monterrey",
+        "away": "Chivas Guadalajara",
+        "channels": [
+          "TUDN",
+          "ViX Premium"
+        ]
+      },
+      {
+        "time": "19:00",
+        "home": "Atlético San Luis",
+        "away": "Club León",
+        "channels": [
+          "ESPN",
+          "Disney+ Premium"
+        ]
+      },
+      {
+        "time": "21:00",
+        "home": "Pumas UNAM",
+        "away": "América",
+        "channels": [
+          "TUDN",
+          "ViX Premium"
+        ]
+      }
+    ],
+    "2026-03-22": [
+      {
+        "time": "17:00",
+        "home": "Santos Laguna",
+        "away": "Puebla",
+        "channels": [
+          "TUDN",
+          "ViX Premium"
+        ]
+      },
+      {
+        "time": "19:00",
+        "home": "FC Juárez",
+        "away": "Tigres UANL",
+        "channels": [
+          "FOX One",
+          "TV Azteca"
+        ]
+      }
+    ],
+    "2026-04-03": [
+      {
+        "time": "20:00",
+        "home": "Puebla",
+        "away": "FC Juárez",
+        "channels": [
+          "FOX One",
+          "TV Azteca"
+        ]
+      },
+      {
+        "time": "22:00",
+        "home": "Necaxa",
+        "away": "Mazatlán FC",
+        "channels": [
+          "Claro Sports",
+          "TV Azteca",
+          "ViX Premium",
+          "Clarosports.com",
+          "Claro Sports YouTube",
+          "Pluto TV"
+        ]
+      },
+      {
+        "time": "22:06",
+        "home": "Tijuana",
+        "away": "Tigres UANL",
+        "channels": [
+          "FOX One"
+        ]
+      }
+    ],
+    "2026-04-04": [
+      {
+        "time": "18:00",
+        "home": "Monterrey",
+        "away": "Atlético San Luis",
+        "channels": [
+          "TUDN",
+          "ViX Premium"
+        ]
+      },
+      {
+        "time": "20:00",
+        "home": "Cruz Azul",
+        "away": "Pachuca",
+        "channels": [
+          "TUDN",
+          "ViX Premium"
+        ]
+      },
+      {
+        "time": "20:00",
+        "home": "Club León",
+        "away": "Atlas",
+        "channels": [
+          "FOX One"
+        ]
+      },
+      {
+        "time": "22:00",
+        "home": "Santos Laguna",
+        "away": "América",
+        "channels": [
+          "TUDN",
+          "ViX Premium"
+        ]
+      }
+    ],
+    "2026-04-05": [
+      {
+        "time": "19:00",
+        "home": "Querétaro",
+        "away": "Toluca",
+        "channels": [
+          "FOX One"
+        ]
+      },
+      {
+        "time": "21:07",
+        "home": "Chivas Guadalajara",
+        "away": "Pumas UNAM",
+        "channels": [
+          "Amazon Prime Video (Míralo en vivo)"
+        ]
+      }
+    ],
+    "2026-04-10": [
+      {
+        "time": "20:00",
+        "home": "Puebla",
+        "away": "Club León",
+        "channels": [
+          "FOX One",
+          "TV Azteca"
+        ]
+      },
+      {
+        "time": "22:06",
+        "home": "FC Juárez",
+        "away": "Tijuana",
+        "channels": [
+          "FOX One",
+          "TV Azteca"
+        ]
+      }
+    ],
+    "2026-04-11": [
+      {
+        "time": "18:00",
+        "home": "Querétaro",
+        "away": "Necaxa",
+        "channels": [
+          "FOX One"
+        ]
+      },
+      {
+        "time": "18:00",
+        "home": "Tigres UANL",
+        "away": "Chivas Guadalajara",
+        "channels": [
+          "FOX One",
+          "TV Azteca"
+        ]
+      },
+      {
+        "time": "20:00",
+        "home": "Atlas",
+        "away": "Monterrey",
+        "channels": [
+          "TUDN",
+          "ViX Premium"
+        ]
+      },
+      {
+        "time": "20:00",
+        "home": "Pachuca",
+        "away": "Santos Laguna",
+        "channels": [
+          "FOX One"
+        ]
+      },
+      {
+        "time": "22:00",
+        "home": "América",
+        "away": "Cruz Azul",
+        "channels": [
+          "TUDN",
+          "ViX Premium"
+        ]
+      }
+    ],
+    "2026-04-12": [
+      {
+        "time": "13:00",
+        "home": "Pumas UNAM",
+        "away": "Mazatlán FC",
+        "channels": [
+          "TUDN",
+          "ViX Premium"
+        ]
+      },
+      {
+        "time": "20:00",
+        "home": "Toluca",
+        "away": "Atlético San Luis",
+        "channels": [
+          "TUDN",
+          "TV Azteca",
+          "FOX One"
+        ]
+      }
+    ],
+    "2026-04-17": [
+      {
+        "time": "20:00",
+        "home": "Atlético San Luis",
+        "away": "Pumas UNAM",
+        "channels": [
+          "ESPN",
+          "Disney+ Premium"
+        ]
+      },
+      {
+        "time": "20:00",
+        "home": "Mazatlán FC",
+        "away": "Querétaro",
+        "channels": [
+          "FOX One",
+          "TV Azteca"
+        ]
+      },
+      {
+        "time": "22:00",
+        "home": "Necaxa",
+        "away": "Tigres UANL",
+        "channels": [
+          "Claro Sports",
+          "TV Azteca",
+          "ViX Premium",
+          "Clarosports.com",
+          "Claro Sports YouTube",
+          "Pluto TV"
+        ]
+      }
+    ],
+    "2026-04-18": [
+      {
+        "time": "18:00",
+        "home": "Cruz Azul",
+        "away": "Tijuana",
+        "channels": [
+          "TUDN",
+          "ViX Premium"
+        ]
+      },
+      {
+        "time": "20:00",
+        "home": "Monterrey",
+        "away": "Pachuca",
+        "channels": [
+          "TUDN",
+          "ViX Premium"
+        ]
+      },
+      {
+        "time": "20:07",
+        "home": "Chivas Guadalajara",
+        "away": "Puebla",
+        "channels": [
+          "Amazon Prime Video (Míralo en vivo)"
+        ]
+      },
+      {
+        "time": "22:00",
+        "home": "América",
+        "away": "Toluca",
+        "channels": [
+          "TUDN",
+          "ViX Premium"
+        ]
+      },
+      {
+        "time": "22:00",
+        "home": "Club León",
+        "away": "FC Juárez",
+        "channels": [
+          "FOX One"
+        ]
+      }
+    ],
+    "2026-04-19": [
+      {
+        "time": "18:00",
+        "home": "Santos Laguna",
+        "away": "Atlas",
+        "channels": [
+          "TUDN",
+          "ViX Premium"
+        ]
+      }
+    ],
+    "2026-04-21": [
+      {
+        "time": "20:00",
+        "home": "Pumas UNAM",
+        "away": "FC Juárez",
+        "channels": [
+          "TUDN",
+          "ViX Premium"
+        ]
+      },
+      {
+        "time": "20:00",
+        "home": "Querétaro",
+        "away": "Cruz Azul",
+        "channels": [
+          "FOX One"
+        ]
+      },
+      {
+        "time": "22:00",
+        "home": "Monterrey",
+        "away": "Puebla",
+        "channels": [
+          "TUDN",
+          "ViX Premium"
+        ]
+      },
+      {
+        "time": "22:06",
+        "home": "Club León",
+        "away": "América",
+        "channels": [
+          "FOX One"
+        ]
+      }
+    ],
+    "2026-04-22": [
+      {
+        "time": "20:00",
+        "home": "Atlas",
+        "away": "Tigres UANL",
+        "channels": [
+          "TUDN",
+          "ViX Premium"
+        ]
+      },
+      {
+        "time": "20:00",
+        "home": "Atlético San Luis",
+        "away": "Santos Laguna",
+        "channels": [
+          "ESPN",
+          "Disney+ Premium"
+        ]
+      },
+      {
+        "time": "20:00",
+        "home": "Mazatlán FC",
+        "away": "Toluca",
+        "channels": [
+          "FOX One",
+          "TV Azteca"
+        ]
+      },
+      {
+        "time": "22:00",
+        "home": "Tijuana",
+        "away": "Pachuca",
+        "channels": [
+          "FOX One"
+        ]
+      },
+      {
+        "time": "22:00",
+        "home": "Necaxa",
+        "away": "Chivas Guadalajara",
+        "channels": [
+          "Claro Sports",
+          "TV Azteca",
+          "ViX Premium",
+          "Clarosports.com",
+          "Claro Sports YouTube",
+          "Pluto TV"
+        ]
+      }
+    ],
+    "2026-04-24": [
+      {
+        "time": "22:00",
+        "home": "Puebla",
+        "away": "Querétaro",
+        "channels": [
+          "FOX One",
+          "TV Azteca"
+        ]
+      }
+    ],
+    "2026-04-25": [
+      {
+        "time": "18:00",
+        "home": "Pachuca",
+        "away": "Pumas UNAM",
+        "channels": [
+          "FOX One"
+        ]
+      },
+      {
+        "time": "18:00",
+        "home": "Tigres UANL",
+        "away": "Mazatlán FC",
+        "channels": [
+          "FOX One",
+          "TV Azteca"
+        ]
+      },
+      {
+        "time": "20:00",
+        "home": "Toluca",
+        "away": "Club León",
+        "channels": [
+          "TUDN",
+          "TV Azteca",
+          "FOX One"
+        ]
+      },
+      {
+        "time": "20:07",
+        "home": "Chivas Guadalajara",
+        "away": "Tijuana",
+        "channels": [
+          "Amazon Prime Video (Míralo en vivo)"
+        ]
+      },
+      {
+        "time": "22:00",
+        "home": "América",
+        "away": "Atlas",
+        "channels": [
+          "TUDN",
+          "ViX Premium"
+        ]
+      },
+      {
+        "time": "22:00",
+        "home": "FC Juárez",
+        "away": "Atlético San Luis",
+        "channels": [
+          "FOX One",
+          "TV Azteca"
+        ]
+      }
+    ],
+    "2026-04-26": [
+      {
+        "time": "18:00",
+        "home": "Santos Laguna",
+        "away": "Monterrey",
+        "channels": [
+          "TUDN",
+          "ViX Premium"
+        ]
+      },
+      {
+        "time": "20:00",
+        "home": "Cruz Azul",
+        "away": "Necaxa",
+        "channels": [
+          "TUDN",
+          "ViX Premium"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,107 @@
+---
+import Layout from "../layouts/Layout.astro";
+import MatchCard from "../components/MatchCard.astro";
+import { DayPickerCarousel } from "../components/DayPickerCarousel";
+import type { LigaMx } from "../types/liga-mx";
+
+const data: LigaMx = await import("../data/liga-mx-hoy.json").then(
+  (m) => m.default,
+);
+
+const formatDate = (dateStr: string) => {
+  const d = new Date(dateStr + "T12:00:00");
+  return d.toLocaleDateString("es-MX", {
+    weekday: "long",
+    day: "numeric",
+    month: "long",
+    year: "numeric",
+  });
+};
+
+const formatShortDate = (dateStr: string) => {
+  const d = new Date(dateStr + "T12:00:00");
+  return d.toLocaleDateString("es-MX", { day: "numeric", month: "short" });
+};
+
+const sortedDates = Object.keys(data.matchesByDate).sort();
+const firstDate = sortedDates[0] ?? "";
+const todayIso = new Date().toISOString().slice(0, 10);
+const defaultDate = sortedDates.includes(todayIso) ? todayIso : firstDate;
+---
+
+<Layout title="Liga MX">
+  <header class="mb-4">
+    <DayPickerCarousel
+      client:load
+      sortedDates={sortedDates}
+      defaultDate={defaultDate}
+    />
+    <p id="date-subtitle" class="mt-1 text-neutral-500 text-sm">
+      Liga MX · {formatDate(defaultDate)}
+    </p>
+  </header>
+
+  <div id="matches-container">
+    {
+      sortedDates.map((dateIso) => {
+        const matches = data.matchesByDate[dateIso] ?? [];
+        const isDefault = dateIso === defaultDate;
+        return (
+          <div
+            data-date={dateIso}
+            class:list={["date-matches", !isDefault && "hidden"]}
+            role="tabpanel"
+            aria-hidden={!isDefault}
+            aria-label={`Partidos del ${formatDate(dateIso)}`}
+          >
+            {matches.length === 0 ? (
+              <p class="text-neutral-500 py-8 border border-neutral-200 rounded-none">
+                No hay partidos de Liga MX este día.
+              </p>
+            ) : (
+              <ul class="flex flex-col gap-4 list-none p-0 m-0" role="list">
+                {matches.map((match) => (
+                  <li>
+                    <MatchCard match={match} />
+                  </li>
+                ))}
+              </ul>
+            )}
+          </div>
+        );
+      })
+    }
+  </div>
+
+  <script define:vars={{ sortedDates, defaultDate }}>
+    const dateSubtitle = document.getElementById("date-subtitle");
+    const panels = document.querySelectorAll(".date-matches");
+
+    const formatDate = (dateStr) => {
+      const d = new Date(dateStr + "T12:00:00");
+      return d.toLocaleDateString("es-MX", {
+        weekday: "long",
+        day: "numeric",
+        month: "long",
+        year: "numeric",
+      });
+    };
+
+    const handleDayChange = (e) => {
+      const dateIso = e.detail?.date;
+      if (!dateIso) return;
+
+      panels.forEach((panel) => {
+        const isActive = panel.getAttribute("data-date") === dateIso;
+        panel.classList.toggle("hidden", !isActive);
+        panel.setAttribute("aria-hidden", !isActive);
+      });
+
+      if (dateSubtitle) {
+        dateSubtitle.textContent = `Liga MX · ${formatDate(dateIso)}`;
+      }
+    };
+
+    window.addEventListener("day-change", handleDayChange);
+  </script>
+</Layout>
