@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-09T07:03:03.969Z",
+  "updatedAt": "2026-02-10T07:02:52.305Z",
   "matchesByDate": {
     "2026-02-13": [
       {
@@ -8,7 +8,8 @@
         "away": "Pumas UNAM",
         "channels": [
           "FOX One",
-          "TV Azteca"
+          "TV Azteca",
+          "Azteca Deportes Network"
         ]
       },
       {
@@ -17,7 +18,8 @@
         "away": "Tijuana",
         "channels": [
           "TV Azteca",
-          "FOX One"
+          "FOX One",
+          "Azteca Deportes Network"
         ]
       }
     ],
