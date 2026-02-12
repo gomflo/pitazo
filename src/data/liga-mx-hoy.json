@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-11T06:59:43.190Z",
+  "updatedAt": "2026-02-12T07:00:42.386Z",
   "matchesByDate": {
     "2026-02-13": [
       {
@@ -9,7 +9,8 @@
         "channels": [
           "FOX One",
           "TV Azteca",
-          "Azteca Deportes Network"
+          "Azteca Deportes Network",
+          "Azteca 7"
         ]
       },
       {
@@ -19,7 +20,8 @@
         "channels": [
           "TV Azteca",
           "FOX One",
-          "Azteca Deportes Network"
+          "Azteca Deportes Network",
+          "Azteca 7"
         ]
       }
     ],
@@ -38,7 +40,8 @@
         "away": "Querétaro",
         "channels": [
           "ESPN",
-          "Disney+ Premium"
+          "Disney+ Premium",
+          "ViX Premium"
         ]
       },
       {
@@ -48,7 +51,8 @@
         "channels": [
           "TUDN",
           "ViX Premium",
-          "Layvtime YouTube"
+          "Layvtime YouTube",
+          "Canal 5"
         ]
       },
       {
@@ -99,7 +103,8 @@
         "away": "Pachuca",
         "channels": [
           "FOX One",
-          "TV Azteca"
+          "TV Azteca",
+          "Azteca Deportes Network"
         ]
       },
       {
@@ -108,7 +113,8 @@
         "away": "América",
         "channels": [
           "FOX One",
-          "TV Azteca"
+          "TV Azteca",
+          "Azteca Deportes Network"
         ]
       }
     ],
@@ -140,7 +146,8 @@
           "ViX Premium",
           "Clarosports.com",
           "Claro Sports YouTube",
-          "Pluto TV"
+          "Pluto TV",
+          "Azteca Deportes Network"
         ]
       },
       {
