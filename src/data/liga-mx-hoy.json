@@ -1,31 +1,6 @@
 {
-  "updatedAt": "2026-02-13T06:58:14.229Z",
+  "updatedAt": "2026-02-14T06:42:43.239Z",
   "matchesByDate": {
-    "2026-02-13": [
-      {
-        "time": "19:00",
-        "home": "Puebla",
-        "away": "Pumas UNAM",
-        "channels": [
-          "FOX One",
-          "TV Azteca",
-          "Azteca Deportes Network",
-          "FOX",
-          "Azteca 7"
-        ]
-      },
-      {
-        "time": "21:00",
-        "home": "Toluca",
-        "away": "Tijuana",
-        "channels": [
-          "TV Azteca",
-          "FOX One",
-          "Azteca Deportes Network",
-          "Azteca 7"
-        ]
-      }
-    ],
     "2026-02-14": [
       {
         "time": "17:00",
@@ -57,12 +32,11 @@
         ]
       },
       {
-        "time": "19:00",
+        "time": "19:06",
         "home": "FC Juárez",
         "away": "Necaxa",
         "channels": [
-          "FOX One",
-          "TV Azteca"
+          "FOX One"
         ]
       },
       {
@@ -76,6 +50,17 @@
     ],
     "2026-02-15": [
       {
+        "time": "16:30",
+        "home": "Cruz Azul",
+        "away": "Tigres UANL",
+        "channels": [
+          "TUDN",
+          "ViX Premium",
+          "Layvtime YouTube",
+          "Canal 5"
+        ]
+      },
+      {
         "time": "17:00",
         "home": "Santos Laguna",
         "away": "Mazatlán FC",
@@ -84,16 +69,6 @@
           "Layvtime YouTube",
           "Disney+ Premium",
           "ESPN 2"
-        ]
-      },
-      {
-        "time": "19:00",
-        "home": "Cruz Azul",
-        "away": "Tigres UANL",
-        "channels": [
-          "TUDN",
-          "ViX Premium",
-          "Layvtime YouTube"
         ]
       }
     ],
@@ -160,6 +135,14 @@
           "ViX Premium",
           "Layvtime YouTube"
         ]
+      },
+      {
+        "time": "23:00",
+        "home": "Tijuana",
+        "away": "Mazatlán FC",
+        "channels": [
+          "FOX One"
+        ]
       }
     ],
     "2026-02-22": [
@@ -176,14 +159,6 @@
         "time": "19:00",
         "home": "Querétaro",
         "away": "FC Juárez",
-        "channels": [
-          "FOX One"
-        ]
-      },
-      {
-        "time": "21:06",
-        "home": "Tijuana",
-        "away": "Mazatlán FC",
         "channels": [
           "FOX One"
         ]
@@ -703,7 +678,7 @@
         ]
       },
       {
-        "time": "21:07",
+        "time": "21:00",
         "home": "Chivas Guadalajara",
         "away": "Pumas UNAM",
         "channels": [
@@ -850,7 +825,7 @@
         ]
       },
       {
-        "time": "20:07",
+        "time": "20:00",
         "home": "Chivas Guadalajara",
         "away": "Puebla",
         "channels": [
@@ -1012,7 +987,7 @@
         ]
       },
       {
-        "time": "20:07",
+        "time": "20:00",
         "home": "Chivas Guadalajara",
         "away": "Tijuana",
         "channels": [
