@@ -1,53 +1,6 @@
 {
-  "updatedAt": "2026-02-14T06:42:43.239Z",
+  "updatedAt": "2026-02-15T06:51:13.168Z",
   "matchesByDate": {
-    "2026-02-14": [
-      {
-        "time": "17:00",
-        "home": "Pachuca",
-        "away": "Atlas",
-        "channels": [
-          "FOX One"
-        ]
-      },
-      {
-        "time": "17:00",
-        "home": "Atlético San Luis",
-        "away": "Querétaro",
-        "channels": [
-          "ESPN",
-          "Disney+ Premium",
-          "ViX Premium"
-        ]
-      },
-      {
-        "time": "19:00",
-        "home": "Monterrey",
-        "away": "Club León",
-        "channels": [
-          "TUDN",
-          "ViX Premium",
-          "Layvtime YouTube",
-          "Canal 5"
-        ]
-      },
-      {
-        "time": "19:06",
-        "home": "FC Juárez",
-        "away": "Necaxa",
-        "channels": [
-          "FOX One"
-        ]
-      },
-      {
-        "time": "21:07",
-        "home": "Chivas Guadalajara",
-        "away": "América",
-        "channels": [
-          "Amazon Prime Video (Míralo en vivo)"
-        ]
-      }
-    ],
     "2026-02-15": [
       {
         "time": "16:30",
@@ -137,7 +90,7 @@
         ]
       },
       {
-        "time": "23:00",
+        "time": "23:10",
         "home": "Tijuana",
         "away": "Mazatlán FC",
         "channels": [
@@ -206,7 +159,6 @@
         "home": "Toluca",
         "away": "Chivas Guadalajara",
         "channels": [
-          "TUDN",
           "TV Azteca",
           "FOX One"
         ]
