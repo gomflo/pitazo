@@ -1,30 +1,6 @@
 {
-  "updatedAt": "2026-02-15T06:51:13.168Z",
+  "updatedAt": "2026-02-16T07:01:47.024Z",
   "matchesByDate": {
-    "2026-02-15": [
-      {
-        "time": "16:30",
-        "home": "Cruz Azul",
-        "away": "Tigres UANL",
-        "channels": [
-          "TUDN",
-          "ViX Premium",
-          "Layvtime YouTube",
-          "Canal 5"
-        ]
-      },
-      {
-        "time": "17:00",
-        "home": "Santos Laguna",
-        "away": "Mazatlán FC",
-        "channels": [
-          "ViX Premium",
-          "Layvtime YouTube",
-          "Disney+ Premium",
-          "ESPN 2"
-        ]
-      }
-    ],
     "2026-02-20": [
       {
         "time": "19:00",
