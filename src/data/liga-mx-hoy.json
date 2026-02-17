@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-16T07:01:47.024Z",
+  "updatedAt": "2026-02-17T06:58:04.112Z",
   "matchesByDate": {
     "2026-02-20": [
       {
@@ -9,7 +9,9 @@
         "channels": [
           "FOX One",
           "TV Azteca",
-          "Azteca Deportes Network"
+          "Azteca Deportes Network",
+          "FOX",
+          "Azteca 7"
         ]
       },
       {
@@ -19,7 +21,8 @@
         "channels": [
           "FOX One",
           "TV Azteca",
-          "Azteca Deportes Network"
+          "Azteca Deportes Network",
+          "Azteca 7"
         ]
       }
     ],
@@ -52,7 +55,8 @@
           "Clarosports.com",
           "Claro Sports YouTube",
           "Pluto TV",
-          "Azteca Deportes Network"
+          "Azteca Deportes Network",
+          "Azteca 7"
         ]
       },
       {
