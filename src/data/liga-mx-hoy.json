@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-18T07:00:10.795Z",
+  "updatedAt": "2026-02-19T06:58:48.009Z",
   "matchesByDate": {
     "2026-02-20": [
       {
@@ -60,13 +60,14 @@
         ]
       },
       {
-        "time": "21:00",
+        "time": "21:05",
         "home": "Cruz Azul",
         "away": "Chivas Guadalajara",
         "channels": [
           "TUDN",
           "ViX Premium",
-          "Layvtime YouTube"
+          "Layvtime YouTube",
+          "Canal 5"
         ]
       },
       {
@@ -85,7 +86,8 @@
         "away": "Monterrey",
         "channels": [
           "TUDN",
-          "ViX Premium"
+          "ViX Premium",
+          "Canal 5"
         ]
       },
       {
@@ -112,7 +114,8 @@
         "away": "Pachuca",
         "channels": [
           "FOX One",
-          "TV Azteca"
+          "TV Azteca",
+          "Azteca Deportes Network"
         ]
       },
       {
@@ -121,7 +124,8 @@
         "away": "Atlas",
         "channels": [
           "FOX One",
-          "TV Azteca"
+          "TV Azteca",
+          "Azteca Deportes Network"
         ]
       },
       {
@@ -140,7 +144,8 @@
         "away": "Chivas Guadalajara",
         "channels": [
           "TV Azteca",
-          "FOX One"
+          "FOX One",
+          "Azteca Deportes Network"
         ]
       },
       {
@@ -476,14 +481,6 @@
         ]
       },
       {
-        "time": "17:00",
-        "home": "Pachuca",
-        "away": "Toluca",
-        "channels": [
-          "FOX One"
-        ]
-      },
-      {
         "time": "19:00",
         "home": "Monterrey",
         "away": "Chivas Guadalajara",
@@ -519,6 +516,14 @@
         "channels": [
           "TUDN",
           "ViX Premium"
+        ]
+      },
+      {
+        "time": "17:00",
+        "home": "Pachuca",
+        "away": "Toluca",
+        "channels": [
+          "FOX One"
         ]
       },
       {
@@ -610,7 +615,7 @@
         ]
       },
       {
-        "time": "21:00",
+        "time": "21:07",
         "home": "Chivas Guadalajara",
         "away": "Pumas UNAM",
         "channels": [
