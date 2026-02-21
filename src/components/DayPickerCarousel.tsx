@@ -53,7 +53,7 @@ export const DayPickerCarousel = ({
           variant="outline"
           size="sm"
           className={cn(
-            "shrink-0 rounded-none border px-3 py-1.5 text-sm font-medium transition-colors",
+            "shrink-0 cursor-pointer rounded-md border px-3 py-1.5 text-sm font-medium transition-colors duration-200",
             dateIso === selectedDate
               ? "border-primary bg-primary text-primary-foreground hover:bg-primary/90 hover:text-primary-foreground"
               : "border-input bg-background hover:bg-accent hover:text-accent-foreground"

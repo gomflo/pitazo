@@ -36,7 +36,7 @@ const defaultDate = sortedDates.includes(todayIso) ? todayIso : firstDate;
       sortedDates={sortedDates}
       defaultDate={defaultDate}
     />
-    <p id="date-subtitle" class="mt-1 text-neutral-500 text-sm">
+    <p id="date-subtitle" class="mt-1 text-muted-foreground text-sm">
       Liga MX · {formatDate(defaultDate)}
     </p>
   </header>
@@ -55,7 +55,7 @@ const defaultDate = sortedDates.includes(todayIso) ? todayIso : firstDate;
             aria-label={`Partidos del ${formatDate(dateIso)}`}
           >
             {matches.length === 0 ? (
-              <p class="text-neutral-500 py-8 border border-neutral-200 rounded-none">
+              <p class="text-muted-foreground py-8 border border-border rounded-md text-center">
                 No hay partidos de Liga MX este día.
               </p>
             ) : (

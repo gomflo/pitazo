@@ -12,49 +12,49 @@ const homeLogo = getTeamLogoUrl(match.home);
 const awayLogo = getTeamLogoUrl(match.away);
 ---
 <article
-  class="border border-neutral-200 bg-neutral-50 p-4 rounded-none"
+  class="border border-border bg-card text-card-foreground p-4 rounded-md shadow-sm transition-shadow duration-200 hover:shadow-md"
   aria-label={`Partido: ${match.home} vs ${match.away} a las ${match.time}`}
 >
-  <div class="mb-3 text-sm font-mono text-neutral-500">{match.time}</div>
-  <div class="flex flex-wrap items-center gap-3 border-b border-neutral-200 pb-3 rounded-none">
+  <div class="mb-3 text-sm font-mono text-muted-foreground tabular-nums">{match.time}</div>
+  <div class="flex flex-wrap items-center gap-3 border-b border-border pb-3">
     <div class="flex items-center gap-2 min-w-0 flex-1">
       {homeLogo ? (
         <img
           src={homeLogo}
-          alt=""
+          alt={`Logo de ${match.home}`}
           width="40"
           height="40"
           class="h-10 w-10 object-contain flex-shrink-0 rounded-none"
           loading="lazy"
         />
       ) : (
-        <span class="h-10 w-10 flex-shrink-0 bg-neutral-200 rounded-none" aria-hidden="true" />
+        <span class="h-10 w-10 flex-shrink-0 bg-muted rounded-none" aria-hidden="true" />
       )}
       <span class="font-medium truncate">{match.home}</span>
     </div>
-    <span class="text-neutral-400 flex-shrink-0">vs</span>
+    <span class="text-muted-foreground flex-shrink-0 font-medium">vs</span>
     <div class="flex items-center gap-2 min-w-0 flex-1 justify-end">
       <span class="font-medium truncate text-right">{match.away}</span>
       {awayLogo ? (
         <img
           src={awayLogo}
-          alt=""
+          alt={`Logo de ${match.away}`}
           width="40"
           height="40"
           class="h-10 w-10 object-contain flex-shrink-0 rounded-none"
           loading="lazy"
         />
       ) : (
-        <span class="h-10 w-10 flex-shrink-0 bg-neutral-200 rounded-none" aria-hidden="true" />
+        <span class="h-10 w-10 flex-shrink-0 bg-muted rounded-none" aria-hidden="true" />
       )}
     </div>
   </div>
   <div class="mt-2">
-    <span class="text-xs text-neutral-500 uppercase tracking-wide">Canales</span>
+    <span class="text-xs text-muted-foreground uppercase tracking-wide">Canales</span>
     <ul class="mt-1 flex flex-wrap gap-2 list-none p-0 m-0" aria-label="Canales de televisión">
       {match.channels.map((channel) => (
         <li>
-          <span class="inline-block border border-neutral-300 px-2 py-0.5 text-sm rounded-none">
+          <span class="inline-block border border-border bg-muted/50 px-2 py-0.5 text-sm rounded">
             {channel}
           </span>
         </li>
