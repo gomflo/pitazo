@@ -66,6 +66,15 @@
   .dark {
     color-scheme: dark;
   }
+  .theme-icon-dark {
+    display: none;
+  }
+  .dark .theme-icon-light {
+    display: none;
+  }
+  .dark .theme-icon-dark {
+    display: block;
+  }
   * {
     @apply border-border;
   }
