@@ -1,31 +1,6 @@
 {
-  "updatedAt": "2026-02-20T06:55:12.332Z",
+  "updatedAt": "2026-02-21T06:40:18.088Z",
   "matchesByDate": {
-    "2026-02-20": [
-      {
-        "time": "19:00",
-        "home": "Tigres UANL",
-        "away": "Pachuca",
-        "channels": [
-          "FOX One",
-          "TV Azteca",
-          "Azteca Deportes Network",
-          "FOX",
-          "Azteca 7"
-        ]
-      },
-      {
-        "time": "21:06",
-        "home": "Puebla",
-        "away": "América",
-        "channels": [
-          "FOX One",
-          "TV Azteca",
-          "Azteca Deportes Network",
-          "Azteca 7"
-        ]
-      }
-    ],
     "2026-02-21": [
       {
         "time": "17:00",
@@ -51,7 +26,6 @@
         "away": "Toluca",
         "channels": [
           "Claro Sports",
-          "TV Azteca",
           "ViX Premium",
           "Clarosports.com",
           "Claro Sports YouTube",
