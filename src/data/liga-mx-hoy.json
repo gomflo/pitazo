@@ -1,60 +1,6 @@
 {
-  "updatedAt": "2026-02-21T06:40:18.088Z",
+  "updatedAt": "2026-02-22T06:45:44.160Z",
   "matchesByDate": {
-    "2026-02-21": [
-      {
-        "time": "17:00",
-        "home": "Atlas",
-        "away": "Atlético San Luis",
-        "channels": [
-          "ViX Premium",
-          "Layvtime YouTube"
-        ]
-      },
-      {
-        "time": "19:00",
-        "home": "Club León",
-        "away": "Santos Laguna",
-        "channels": [
-          "FOX One",
-          "FOX+"
-        ]
-      },
-      {
-        "time": "19:00",
-        "home": "Necaxa",
-        "away": "Toluca",
-        "channels": [
-          "Claro Sports",
-          "ViX Premium",
-          "Clarosports.com",
-          "Claro Sports YouTube",
-          "Pluto TV",
-          "Azteca Deportes Network",
-          "Azteca 7"
-        ]
-      },
-      {
-        "time": "21:05",
-        "home": "Cruz Azul",
-        "away": "Chivas Guadalajara",
-        "channels": [
-          "TUDN",
-          "ViX Premium",
-          "Layvtime YouTube",
-          "Canal 5"
-        ]
-      },
-      {
-        "time": "23:10",
-        "home": "Tijuana",
-        "away": "Mazatlán FC",
-        "channels": [
-          "FOX One",
-          "FOX+"
-        ]
-      }
-    ],
     "2026-02-22": [
       {
         "time": "17:00",
