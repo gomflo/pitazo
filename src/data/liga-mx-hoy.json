@@ -1,27 +1,6 @@
 {
-  "updatedAt": "2026-02-22T06:45:44.160Z",
+  "updatedAt": "2026-02-23T07:03:04.859Z",
   "matchesByDate": {
-    "2026-02-22": [
-      {
-        "time": "17:00",
-        "home": "Pumas UNAM",
-        "away": "Monterrey",
-        "channels": [
-          "TUDN",
-          "ViX Premium",
-          "Canal 5"
-        ]
-      },
-      {
-        "time": "19:00",
-        "home": "Querétaro",
-        "away": "FC Juárez",
-        "channels": [
-          "FOX One",
-          "FOX+"
-        ]
-      }
-    ],
     "2026-02-27": [
       {
         "time": "19:00",
@@ -116,7 +95,9 @@
         "away": "Cruz Azul",
         "channels": [
           "TUDN",
-          "ViX Premium"
+          "ViX Premium",
+          "ESPN",
+          "Disney+ Premium"
         ]
       },
       {
