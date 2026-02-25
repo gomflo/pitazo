@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-24T06:58:54.757Z",
+  "updatedAt": "2026-02-25T07:01:00.601Z",
   "matchesByDate": {
     "2026-02-27": [
       {
@@ -7,7 +7,8 @@
         "home": "Querétaro",
         "away": "Santos Laguna",
         "channels": [
-          "FOX One"
+          "FOX One",
+          "FOX+"
         ]
       },
       {
@@ -17,7 +18,8 @@
         "channels": [
           "FOX One",
           "TV Azteca",
-          "Azteca Deportes Network"
+          "Azteca Deportes Network",
+          "FOX"
         ]
       },
       {
@@ -27,7 +29,8 @@
         "channels": [
           "FOX One",
           "TV Azteca",
-          "Azteca Deportes Network"
+          "Azteca Deportes Network",
+          "FOX"
         ]
       },
       {
@@ -35,7 +38,8 @@
         "home": "Tijuana",
         "away": "Pumas UNAM",
         "channels": [
-          "FOX One"
+          "FOX One",
+          "FOX+"
         ]
       }
     ],
@@ -47,7 +51,8 @@
         "channels": [
           "TV Azteca",
           "FOX One",
-          "Azteca Deportes Network"
+          "Azteca Deportes Network",
+          "FOX"
         ]
       },
       {
@@ -66,7 +71,8 @@
         "channels": [
           "TUDN",
           "ViX Premium",
-          "Layvtime YouTube"
+          "Layvtime YouTube",
+          "Canal 5"
         ]
       },
       {
@@ -74,7 +80,8 @@
         "home": "Club León",
         "away": "Necaxa",
         "channels": [
-          "FOX One"
+          "FOX One",
+          "FOX+"
         ]
       },
       {
@@ -84,7 +91,8 @@
         "channels": [
           "TUDN",
           "ViX Premium",
-          "Layvtime YouTube"
+          "Layvtime YouTube",
+          "Canal 5"
         ]
       }
     ],
