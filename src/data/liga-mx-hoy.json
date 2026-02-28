@@ -1,57 +1,12 @@
 {
-  "updatedAt": "2026-02-27T06:52:45.863Z",
+  "updatedAt": "2026-02-28T06:37:15.276Z",
   "matchesByDate": {
-    "2026-02-27": [
-      {
-        "time": "19:00",
-        "home": "Querétaro",
-        "away": "Santos Laguna",
-        "channels": [
-          "FOX One",
-          "FOX+"
-        ]
-      },
-      {
-        "time": "19:00",
-        "home": "Mazatlán FC",
-        "away": "Pachuca",
-        "channels": [
-          "FOX One",
-          "TV Azteca",
-          "Azteca Deportes Network",
-          "FOX",
-          "Azteca 7"
-        ]
-      },
-      {
-        "time": "21:00",
-        "home": "FC Juárez",
-        "away": "Atlas",
-        "channels": [
-          "FOX One",
-          "TV Azteca",
-          "Azteca Deportes Network",
-          "FOX",
-          "Azteca 7"
-        ]
-      },
-      {
-        "time": "21:06",
-        "home": "Tijuana",
-        "away": "Pumas UNAM",
-        "channels": [
-          "FOX One",
-          "FOX+"
-        ]
-      }
-    ],
     "2026-02-28": [
       {
         "time": "17:00",
         "home": "Toluca",
         "away": "Chivas Guadalajara",
         "channels": [
-          "TV Azteca",
           "FOX One",
           "Azteca Deportes Network",
           "FOX",
