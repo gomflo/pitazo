@@ -1,59 +1,6 @@
 {
-  "updatedAt": "2026-02-28T06:37:15.276Z",
+  "updatedAt": "2026-03-01T06:43:47.918Z",
   "matchesByDate": {
-    "2026-02-28": [
-      {
-        "time": "17:00",
-        "home": "Toluca",
-        "away": "Chivas Guadalajara",
-        "channels": [
-          "FOX One",
-          "Azteca Deportes Network",
-          "FOX",
-          "Azteca 7"
-        ]
-      },
-      {
-        "time": "17:00",
-        "home": "Atlético San Luis",
-        "away": "Puebla",
-        "channels": [
-          "ESPN",
-          "Disney+ Premium"
-        ]
-      },
-      {
-        "time": "19:00",
-        "home": "Monterrey",
-        "away": "Cruz Azul",
-        "channels": [
-          "TUDN",
-          "ViX Premium",
-          "Layvtime YouTube",
-          "Canal 5"
-        ]
-      },
-      {
-        "time": "19:00",
-        "home": "Club León",
-        "away": "Necaxa",
-        "channels": [
-          "FOX One",
-          "FOX+"
-        ]
-      },
-      {
-        "time": "21:00",
-        "home": "América",
-        "away": "Tigres UANL",
-        "channels": [
-          "TUDN",
-          "ViX Premium",
-          "Layvtime YouTube",
-          "Canal 5"
-        ]
-      }
-    ],
     "2026-03-03": [
       {
         "time": "19:00",
