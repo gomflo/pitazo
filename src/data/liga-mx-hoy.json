@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-01T06:43:47.918Z",
+  "updatedAt": "2026-03-02T06:56:36.270Z",
   "matchesByDate": {
     "2026-03-03": [
       {
@@ -10,7 +10,8 @@
           "TUDN",
           "ViX Premium",
           "ESPN",
-          "Disney+ Premium"
+          "Disney+ Premium",
+          "Canal 5"
         ]
       },
       {
@@ -23,20 +24,22 @@
       },
       {
         "time": "21:00",
-        "home": "Pumas UNAM",
-        "away": "Toluca",
-        "channels": [
-          "TUDN",
-          "ViX Premium"
-        ]
-      },
-      {
-        "time": "21:00",
         "home": "Atlético San Luis",
         "away": "Mazatlán FC",
         "channels": [
           "ESPN",
-          "Disney+ Premium"
+          "Disney+ Premium",
+          "ViX Premium"
+        ]
+      },
+      {
+        "time": "21:10",
+        "home": "Pumas UNAM",
+        "away": "Toluca",
+        "channels": [
+          "TUDN",
+          "ViX Premium",
+          "Canal 5"
         ]
       }
     ],
@@ -111,8 +114,8 @@
       },
       {
         "time": "17:00",
-        "home": "Pachuca",
-        "away": "Puebla",
+        "home": "Querétaro",
+        "away": "América",
         "channels": [
           "FOX One"
         ]
@@ -127,6 +130,14 @@
         ]
       },
       {
+        "time": "19:00",
+        "home": "Pachuca",
+        "away": "Puebla",
+        "channels": [
+          "FOX One"
+        ]
+      },
+      {
         "time": "21:00",
         "home": "Tigres UANL",
         "away": "Monterrey",
@@ -137,14 +148,6 @@
       }
     ],
     "2026-03-08": [
-      {
-        "time": "17:00",
-        "home": "Querétaro",
-        "away": "América",
-        "channels": [
-          "FOX One"
-        ]
-      },
       {
         "time": "19:00",
         "home": "Toluca",
