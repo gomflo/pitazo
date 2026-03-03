@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-02T06:56:36.270Z",
+  "updatedAt": "2026-03-03T06:50:58.135Z",
   "matchesByDate": {
     "2026-03-03": [
       {
@@ -19,7 +19,8 @@
         "home": "Pachuca",
         "away": "Necaxa",
         "channels": [
-          "FOX One"
+          "FOX One",
+          "FOX+"
         ]
       },
       {
@@ -85,7 +86,9 @@
         "away": "Club León",
         "channels": [
           "FOX One",
-          "TV Azteca"
+          "TV Azteca",
+          "Azteca Deportes Network",
+          "Azteca 7"
         ]
       },
       {
@@ -98,7 +101,9 @@
           "ViX Premium",
           "Clarosports.com",
           "Claro Sports YouTube",
-          "Pluto TV"
+          "Pluto TV",
+          "Azteca Deportes Network",
+          "Azteca 7"
         ]
       }
     ],
@@ -143,7 +148,9 @@
         "away": "Monterrey",
         "channels": [
           "FOX One",
-          "TV Azteca"
+          "TV Azteca",
+          "Azteca Deportes Network",
+          "Azteca 7"
         ]
       }
     ],
