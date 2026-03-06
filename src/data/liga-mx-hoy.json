@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-05T06:51:16.059Z",
+  "updatedAt": "2026-03-06T06:46:21.722Z",
   "matchesByDate": {
     "2026-03-06": [
       {
@@ -8,7 +8,6 @@
         "away": "Club León",
         "channels": [
           "FOX One",
-          "TV Azteca",
           "Azteca Deportes Network",
           "FOX",
           "Azteca 7"
@@ -20,7 +19,6 @@
         "away": "Pumas UNAM",
         "channels": [
           "Claro Sports",
-          "TV Azteca",
           "ViX Premium",
           "Clarosports.com",
           "Claro Sports YouTube",
@@ -37,7 +35,8 @@
         "away": "Atlético San Luis",
         "channels": [
           "TUDN",
-          "ViX Premium"
+          "ViX Premium",
+          "Canal 5"
         ]
       },
       {
@@ -46,7 +45,8 @@
         "away": "América",
         "channels": [
           "FOX One",
-          "FOX"
+          "FOX",
+          "FOX+"
         ]
       },
       {
@@ -55,7 +55,8 @@
         "away": "Chivas Guadalajara",
         "channels": [
           "TUDN",
-          "ViX Premium"
+          "ViX Premium",
+          "Canal 5"
         ]
       },
       {
@@ -63,7 +64,8 @@
         "home": "Pachuca",
         "away": "Puebla",
         "channels": [
-          "FOX One"
+          "FOX One",
+          "FOX+"
         ]
       },
       {
@@ -72,7 +74,6 @@
         "away": "Monterrey",
         "channels": [
           "FOX One",
-          "TV Azteca",
           "Azteca Deportes Network",
           "FOX",
           "Azteca 7"
@@ -85,8 +86,7 @@
         "home": "Toluca",
         "away": "FC Juárez",
         "channels": [
-          "TV Azteca",
-          "FOX One"
+          "ViX Premium"
         ]
       },
       {
@@ -95,7 +95,8 @@
         "away": "Santos Laguna",
         "channels": [
           "FOX One",
-          "FOX"
+          "FOX",
+          "FOX+"
         ]
       }
     ],
