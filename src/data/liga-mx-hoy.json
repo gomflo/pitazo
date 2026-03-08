@@ -1,58 +1,6 @@
 {
-  "updatedAt": "2026-03-07T06:39:07.401Z",
+  "updatedAt": "2026-03-08T06:40:55.210Z",
   "matchesByDate": {
-    "2026-03-07": [
-      {
-        "time": "17:00",
-        "home": "Cruz Azul",
-        "away": "Atlético San Luis",
-        "channels": [
-          "TUDN",
-          "ViX Premium",
-          "Canal 5"
-        ]
-      },
-      {
-        "time": "17:00",
-        "home": "Querétaro",
-        "away": "América",
-        "channels": [
-          "FOX One",
-          "FOX",
-          "FOX+"
-        ]
-      },
-      {
-        "time": "19:05",
-        "home": "Atlas",
-        "away": "Chivas Guadalajara",
-        "channels": [
-          "TUDN",
-          "ViX Premium",
-          "Canal 5"
-        ]
-      },
-      {
-        "time": "19:06",
-        "home": "Pachuca",
-        "away": "Puebla",
-        "channels": [
-          "FOX One",
-          "FOX+"
-        ]
-      },
-      {
-        "time": "21:00",
-        "home": "Tigres UANL",
-        "away": "Monterrey",
-        "channels": [
-          "FOX One",
-          "Azteca Deportes Network",
-          "FOX",
-          "Azteca 7"
-        ]
-      }
-    ],
     "2026-03-08": [
       {
         "time": "17:00",
@@ -202,7 +150,6 @@
         "home": "Atlas",
         "away": "Querétaro",
         "channels": [
-          "TUDN",
           "ViX Premium"
         ]
       },
@@ -240,7 +187,6 @@
         "home": "Santos Laguna",
         "away": "Puebla",
         "channels": [
-          "TUDN",
           "ViX Premium"
         ]
       },
