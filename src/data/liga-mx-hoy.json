@@ -1,26 +1,6 @@
 {
-  "updatedAt": "2026-03-08T06:40:55.210Z",
+  "updatedAt": "2026-03-09T07:00:26.765Z",
   "matchesByDate": {
-    "2026-03-08": [
-      {
-        "time": "17:00",
-        "home": "Toluca",
-        "away": "FC Juárez",
-        "channels": [
-          "ViX Premium"
-        ]
-      },
-      {
-        "time": "21:06",
-        "home": "Tijuana",
-        "away": "Santos Laguna",
-        "channels": [
-          "FOX One",
-          "FOX",
-          "FOX+"
-        ]
-      }
-    ],
     "2026-03-13": [
       {
         "time": "19:00",
