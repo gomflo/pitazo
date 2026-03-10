@@ -1,17 +1,7 @@
 {
-  "updatedAt": "2026-03-09T07:00:26.765Z",
+  "updatedAt": "2026-03-10T06:48:12.088Z",
   "matchesByDate": {
     "2026-03-13": [
-      {
-        "time": "19:00",
-        "home": "Tigres UANL",
-        "away": "Querétaro",
-        "channels": [
-          "FOX One",
-          "TV Azteca",
-          "Azteca Deportes Network"
-        ]
-      },
       {
         "time": "19:00",
         "home": "Puebla",
@@ -19,7 +9,8 @@
         "channels": [
           "FOX One",
           "TV Azteca",
-          "Azteca Deportes Network"
+          "Azteca Deportes Network",
+          "Azteca 7"
         ]
       },
       {
@@ -29,7 +20,8 @@
         "channels": [
           "FOX One",
           "TV Azteca",
-          "Azteca Deportes Network"
+          "Azteca Deportes Network",
+          "Azteca 7"
         ]
       }
     ],
@@ -80,6 +72,16 @@
       }
     ],
     "2026-03-15": [
+      {
+        "time": "17:00",
+        "home": "Tigres UANL",
+        "away": "Querétaro",
+        "channels": [
+          "FOX One",
+          "TV Azteca",
+          "Azteca Deportes Network"
+        ]
+      },
       {
         "time": "19:00",
         "home": "América",
