@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-10T06:48:12.088Z",
+  "updatedAt": "2026-03-11T06:52:24.549Z",
   "matchesByDate": {
     "2026-03-13": [
       {
@@ -10,6 +10,7 @@
           "FOX One",
           "TV Azteca",
           "Azteca Deportes Network",
+          "FOX",
           "Azteca 7"
         ]
       },
@@ -21,6 +22,7 @@
           "FOX One",
           "TV Azteca",
           "Azteca Deportes Network",
+          "FOX",
           "Azteca 7"
         ]
       }
@@ -50,7 +52,8 @@
         "channels": [
           "TUDN",
           "TV Azteca",
-          "FOX One"
+          "Canal 5",
+          "ViX Premium"
         ]
       },
       {
@@ -58,7 +61,8 @@
         "home": "Club León",
         "away": "Tijuana",
         "channels": [
-          "FOX One"
+          "FOX One",
+          "FOX+"
         ]
       },
       {
@@ -79,7 +83,8 @@
         "channels": [
           "FOX One",
           "TV Azteca",
-          "Azteca Deportes Network"
+          "Azteca Deportes Network",
+          "FOX"
         ]
       },
       {
