@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-12T06:54:17.764Z",
+  "updatedAt": "2026-03-13T06:52:32.616Z",
   "matchesByDate": {
     "2026-03-13": [
       {
@@ -8,7 +8,6 @@
         "away": "Necaxa",
         "channels": [
           "FOX One",
-          "TV Azteca",
           "Azteca Deportes Network",
           "FOX",
           "Azteca 7"
@@ -20,7 +19,6 @@
         "away": "Monterrey",
         "channels": [
           "FOX One",
-          "TV Azteca",
           "Azteca Deportes Network",
           "FOX",
           "Azteca 7"
@@ -34,7 +32,8 @@
         "away": "Pachuca",
         "channels": [
           "ESPN",
-          "Disney+ Premium"
+          "Disney+ Premium",
+          "ViX Premium"
         ]
       },
       {
@@ -66,12 +65,13 @@
         ]
       },
       {
-        "time": "21:00",
+        "time": "21:10",
         "home": "Pumas UNAM",
         "away": "Cruz Azul",
         "channels": [
           "TUDN",
-          "ViX Premium"
+          "ViX Premium",
+          "Canal 5"
         ]
       }
     ],
@@ -82,9 +82,9 @@
         "away": "Querétaro",
         "channels": [
           "FOX One",
-          "TV Azteca",
           "Azteca Deportes Network",
-          "FOX"
+          "FOX",
+          "Canal a+"
         ]
       },
       {
@@ -93,7 +93,8 @@
         "away": "Mazatlán FC",
         "channels": [
           "TUDN",
-          "ViX Premium"
+          "ViX Premium",
+          "Canal 5"
         ]
       }
     ],
@@ -424,7 +425,7 @@
         ]
       },
       {
-        "time": "20:00",
+        "time": "20:07",
         "home": "Chivas Guadalajara",
         "away": "Puebla",
         "channels": [
