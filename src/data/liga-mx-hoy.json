@@ -1,29 +1,6 @@
 {
-  "updatedAt": "2026-03-15T06:55:35.493Z",
+  "updatedAt": "2026-03-16T07:15:30.166Z",
   "matchesByDate": {
-    "2026-03-15": [
-      {
-        "time": "17:00",
-        "home": "Tigres UANL",
-        "away": "Querétaro",
-        "channels": [
-          "FOX One",
-          "Azteca Deportes Network",
-          "FOX",
-          "Canal a+"
-        ]
-      },
-      {
-        "time": "19:00",
-        "home": "América",
-        "away": "Mazatlán FC",
-        "channels": [
-          "TUDN",
-          "ViX Premium",
-          "Canal 5"
-        ]
-      }
-    ],
     "2026-03-18": [
       {
         "time": "20:07",
@@ -55,7 +32,9 @@
         "channels": [
           "FOX One",
           "TV Azteca",
-          "Azteca Deportes Network"
+          "Azteca Deportes Network",
+          "FOX",
+          "Tubi"
         ]
       }
     ],
@@ -112,7 +91,8 @@
         "home": "Pachuca",
         "away": "Toluca",
         "channels": [
-          "FOX One"
+          "FOX One",
+          "FOX"
         ]
       },
       {
