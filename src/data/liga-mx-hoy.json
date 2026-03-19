@@ -1,16 +1,6 @@
 {
-  "updatedAt": "2026-03-18T07:00:53.719Z",
+  "updatedAt": "2026-03-19T06:57:10.049Z",
   "matchesByDate": {
-    "2026-03-18": [
-      {
-        "time": "20:07",
-        "home": "Chivas Guadalajara",
-        "away": "Club León",
-        "channels": [
-          "Amazon Prime Video (Míralo en vivo)"
-        ]
-      }
-    ],
     "2026-03-20": [
       {
         "time": "19:00",
@@ -54,7 +44,8 @@
         "away": "Club León",
         "channels": [
           "ESPN",
-          "Disney+ Premium"
+          "Disney+ Premium",
+          "ViX Premium"
         ]
       },
       {
@@ -64,7 +55,8 @@
         "channels": [
           "TUDN",
           "ViX Premium",
-          "Layvtime YouTube"
+          "Layvtime YouTube",
+          "Canal 5"
         ]
       },
       {
@@ -74,7 +66,8 @@
         "channels": [
           "TUDN",
           "ViX Premium",
-          "Layvtime YouTube"
+          "Layvtime YouTube",
+          "Canal 5"
         ]
       }
     ],
