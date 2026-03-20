@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-19T06:57:10.049Z",
+  "updatedAt": "2026-03-20T06:53:48.711Z",
   "matchesByDate": {
     "2026-03-20": [
       {
@@ -88,7 +88,8 @@
         "away": "Toluca",
         "channels": [
           "FOX One",
-          "FOX"
+          "FOX",
+          "Tubi"
         ]
       },
       {
@@ -97,7 +98,8 @@
         "away": "Tigres UANL",
         "channels": [
           "FOX One",
-          "TV Azteca"
+          "TV Azteca",
+          "FOX+"
         ]
       }
     ],
