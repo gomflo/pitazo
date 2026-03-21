@@ -1,34 +1,6 @@
 {
-  "updatedAt": "2026-03-20T06:53:48.711Z",
+  "updatedAt": "2026-03-21T06:41:24.522Z",
   "matchesByDate": {
-    "2026-03-20": [
-      {
-        "time": "19:00",
-        "home": "Necaxa",
-        "away": "Tijuana",
-        "channels": [
-          "Claro Sports",
-          "TV Azteca",
-          "ViX Premium",
-          "Clarosports.com",
-          "Claro Sports YouTube",
-          "Pluto TV"
-        ]
-      },
-      {
-        "time": "21:06",
-        "home": "Mazatlán FC",
-        "away": "Cruz Azul",
-        "channels": [
-          "FOX One",
-          "TV Azteca",
-          "Azteca Deportes Network",
-          "FOX",
-          "Tubi",
-          "Azteca 7"
-        ]
-      }
-    ],
     "2026-03-21": [
       {
         "time": "17:00",
@@ -98,7 +70,6 @@
         "away": "Tigres UANL",
         "channels": [
           "FOX One",
-          "TV Azteca",
           "FOX+"
         ]
       }
