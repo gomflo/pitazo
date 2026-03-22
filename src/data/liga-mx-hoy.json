@@ -1,48 +1,6 @@
 {
-  "updatedAt": "2026-03-21T06:41:24.522Z",
+  "updatedAt": "2026-03-22T06:50:39.645Z",
   "matchesByDate": {
-    "2026-03-21": [
-      {
-        "time": "17:00",
-        "home": "Atlas",
-        "away": "Querétaro",
-        "channels": [
-          "ViX Premium"
-        ]
-      },
-      {
-        "time": "19:00",
-        "home": "Atlético San Luis",
-        "away": "Club León",
-        "channels": [
-          "ESPN",
-          "Disney+ Premium",
-          "ViX Premium"
-        ]
-      },
-      {
-        "time": "19:05",
-        "home": "Monterrey",
-        "away": "Chivas Guadalajara",
-        "channels": [
-          "TUDN",
-          "ViX Premium",
-          "Layvtime YouTube",
-          "Canal 5"
-        ]
-      },
-      {
-        "time": "21:10",
-        "home": "Pumas UNAM",
-        "away": "América",
-        "channels": [
-          "TUDN",
-          "ViX Premium",
-          "Layvtime YouTube",
-          "Canal 5"
-        ]
-      }
-    ],
     "2026-03-22": [
       {
         "time": "17:00",
