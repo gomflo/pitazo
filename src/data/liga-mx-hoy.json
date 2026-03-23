@@ -1,37 +1,6 @@
 {
-  "updatedAt": "2026-03-22T06:50:39.645Z",
+  "updatedAt": "2026-03-23T07:08:33.005Z",
   "matchesByDate": {
-    "2026-03-22": [
-      {
-        "time": "17:00",
-        "home": "Santos Laguna",
-        "away": "Puebla",
-        "channels": [
-          "ViX Premium",
-          "ESPN",
-          "Disney+ Premium"
-        ]
-      },
-      {
-        "time": "17:00",
-        "home": "Pachuca",
-        "away": "Toluca",
-        "channels": [
-          "FOX One",
-          "FOX",
-          "Tubi"
-        ]
-      },
-      {
-        "time": "19:00",
-        "home": "FC Juárez",
-        "away": "Tigres UANL",
-        "channels": [
-          "FOX One",
-          "FOX+"
-        ]
-      }
-    ],
     "2026-04-03": [
       {
         "time": "20:00",
