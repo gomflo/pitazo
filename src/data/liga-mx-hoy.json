@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-27T07:05:35.304Z",
+  "updatedAt": "2026-03-28T06:58:03.737Z",
   "matchesByDate": {
     "2026-04-03": [
       {
@@ -8,8 +8,9 @@
         "away": "FC Juárez",
         "channels": [
           "FOX One",
-          "TV Azteca",
-          "Azteca Deportes Network"
+          "Azteca Deportes Network",
+          "aztecadeportes.com",
+          "Azteca 7"
         ]
       },
       {
@@ -18,12 +19,13 @@
         "away": "Mazatlán FC",
         "channels": [
           "Claro Sports",
-          "TV Azteca",
           "ViX Premium",
           "Clarosports.com",
           "Claro Sports YouTube",
           "Pluto TV",
-          "Azteca Deportes Network"
+          "Azteca Deportes Network",
+          "aztecadeportes.com",
+          "Azteca 7"
         ]
       },
       {
@@ -31,7 +33,8 @@
         "home": "Tijuana",
         "away": "Tigres UANL",
         "channels": [
-          "FOX One"
+          "FOX One",
+          "FOX+"
         ]
       }
     ],
@@ -42,7 +45,8 @@
         "away": "Atlético San Luis",
         "channels": [
           "TUDN",
-          "ViX Premium"
+          "ViX Premium",
+          "Canal 5"
         ]
       },
       {
@@ -51,7 +55,8 @@
         "away": "Pachuca",
         "channels": [
           "TUDN",
-          "ViX Premium"
+          "ViX Premium",
+          "Canal 5"
         ]
       },
       {
@@ -70,7 +75,8 @@
           "TUDN",
           "ViX Premium",
           "ESPN",
-          "Disney+ Premium"
+          "Disney+ Premium",
+          "Canal 5"
         ]
       }
     ],
@@ -80,7 +86,8 @@
         "home": "Querétaro",
         "away": "Toluca",
         "channels": [
-          "FOX One"
+          "FOX One",
+          "FOX"
         ]
       },
       {
