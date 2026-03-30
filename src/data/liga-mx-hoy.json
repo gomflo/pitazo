@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-03-29T07:02:09.569Z",
+  "updatedAt": "2026-03-30T07:25:52.288Z",
   "matchesByDate": {
     "2026-04-03": [
       {
-        "time": "20:00",
+        "time": "19:00",
         "home": "Puebla",
         "away": "FC Juárez",
         "channels": [
@@ -14,7 +14,7 @@
         ]
       },
       {
-        "time": "22:00",
+        "time": "21:00",
         "home": "Necaxa",
         "away": "Mazatlán FC",
         "channels": [
@@ -29,7 +29,7 @@
         ]
       },
       {
-        "time": "22:06",
+        "time": "21:06",
         "home": "Tijuana",
         "away": "Tigres UANL",
         "channels": [
@@ -40,7 +40,7 @@
     ],
     "2026-04-04": [
       {
-        "time": "18:00",
+        "time": "17:00",
         "home": "Monterrey",
         "away": "Atlético San Luis",
         "channels": [
@@ -50,7 +50,7 @@
         ]
       },
       {
-        "time": "20:00",
+        "time": "19:00",
         "home": "Cruz Azul",
         "away": "Pachuca",
         "channels": [
@@ -60,7 +60,7 @@
         ]
       },
       {
-        "time": "20:00",
+        "time": "19:00",
         "home": "Club León",
         "away": "Atlas",
         "channels": [
@@ -68,7 +68,7 @@
         ]
       },
       {
-        "time": "22:00",
+        "time": "21:00",
         "home": "Santos Laguna",
         "away": "América",
         "channels": [
@@ -82,7 +82,7 @@
     ],
     "2026-04-05": [
       {
-        "time": "19:00",
+        "time": "18:00",
         "home": "Querétaro",
         "away": "Toluca",
         "channels": [
@@ -91,7 +91,7 @@
         ]
       },
       {
-        "time": "21:07",
+        "time": "20:07",
         "home": "Chivas Guadalajara",
         "away": "Pumas UNAM",
         "channels": [
@@ -101,7 +101,7 @@
     ],
     "2026-04-10": [
       {
-        "time": "20:00",
+        "time": "19:00",
         "home": "Puebla",
         "away": "Club León",
         "channels": [
@@ -110,7 +110,7 @@
         ]
       },
       {
-        "time": "22:06",
+        "time": "21:06",
         "home": "FC Juárez",
         "away": "Tijuana",
         "channels": [
@@ -121,7 +121,7 @@
     ],
     "2026-04-11": [
       {
-        "time": "18:00",
+        "time": "17:00",
         "home": "Querétaro",
         "away": "Necaxa",
         "channels": [
@@ -129,7 +129,7 @@
         ]
       },
       {
-        "time": "18:00",
+        "time": "17:00",
         "home": "Tigres UANL",
         "away": "Chivas Guadalajara",
         "channels": [
@@ -138,7 +138,7 @@
         ]
       },
       {
-        "time": "20:00",
+        "time": "19:00",
         "home": "Atlas",
         "away": "Monterrey",
         "channels": [
@@ -147,7 +147,7 @@
         ]
       },
       {
-        "time": "20:00",
+        "time": "19:00",
         "home": "Pachuca",
         "away": "Santos Laguna",
         "channels": [
@@ -155,7 +155,7 @@
         ]
       },
       {
-        "time": "22:00",
+        "time": "21:00",
         "home": "América",
         "away": "Cruz Azul",
         "channels": [
@@ -166,7 +166,7 @@
     ],
     "2026-04-12": [
       {
-        "time": "13:00",
+        "time": "12:00",
         "home": "Pumas UNAM",
         "away": "Mazatlán FC",
         "channels": [
@@ -175,7 +175,7 @@
         ]
       },
       {
-        "time": "20:00",
+        "time": "19:00",
         "home": "Toluca",
         "away": "Atlético San Luis",
         "channels": [
@@ -187,7 +187,7 @@
     ],
     "2026-04-17": [
       {
-        "time": "20:00",
+        "time": "19:00",
         "home": "Atlético San Luis",
         "away": "Pumas UNAM",
         "channels": [
@@ -196,7 +196,7 @@
         ]
       },
       {
-        "time": "20:00",
+        "time": "19:00",
         "home": "Mazatlán FC",
         "away": "Querétaro",
         "channels": [
@@ -205,7 +205,7 @@
         ]
       },
       {
-        "time": "22:00",
+        "time": "21:00",
         "home": "Necaxa",
         "away": "Tigres UANL",
         "channels": [
@@ -220,7 +220,7 @@
     ],
     "2026-04-18": [
       {
-        "time": "18:00",
+        "time": "17:00",
         "home": "Cruz Azul",
         "away": "Tijuana",
         "channels": [
@@ -229,7 +229,7 @@
         ]
       },
       {
-        "time": "20:00",
+        "time": "19:00",
         "home": "Monterrey",
         "away": "Pachuca",
         "channels": [
@@ -238,7 +238,7 @@
         ]
       },
       {
-        "time": "20:07",
+        "time": "19:07",
         "home": "Chivas Guadalajara",
         "away": "Puebla",
         "channels": [
@@ -246,7 +246,7 @@
         ]
       },
       {
-        "time": "22:00",
+        "time": "21:00",
         "home": "América",
         "away": "Toluca",
         "channels": [
@@ -255,7 +255,7 @@
         ]
       },
       {
-        "time": "22:00",
+        "time": "21:00",
         "home": "Club León",
         "away": "FC Juárez",
         "channels": [
@@ -265,7 +265,7 @@
     ],
     "2026-04-19": [
       {
-        "time": "18:00",
+        "time": "17:00",
         "home": "Santos Laguna",
         "away": "Atlas",
         "channels": [
@@ -276,7 +276,7 @@
     ],
     "2026-04-21": [
       {
-        "time": "20:00",
+        "time": "19:00",
         "home": "Pumas UNAM",
         "away": "FC Juárez",
         "channels": [
@@ -285,7 +285,7 @@
         ]
       },
       {
-        "time": "20:00",
+        "time": "19:00",
         "home": "Querétaro",
         "away": "Cruz Azul",
         "channels": [
@@ -293,7 +293,7 @@
         ]
       },
       {
-        "time": "22:00",
+        "time": "21:00",
         "home": "Monterrey",
         "away": "Puebla",
         "channels": [
@@ -302,7 +302,7 @@
         ]
       },
       {
-        "time": "22:06",
+        "time": "21:06",
         "home": "Club León",
         "away": "América",
         "channels": [
@@ -312,7 +312,7 @@
     ],
     "2026-04-22": [
       {
-        "time": "20:00",
+        "time": "19:00",
         "home": "Atlas",
         "away": "Tigres UANL",
         "channels": [
@@ -321,7 +321,7 @@
         ]
       },
       {
-        "time": "20:00",
+        "time": "19:00",
         "home": "Atlético San Luis",
         "away": "Santos Laguna",
         "channels": [
@@ -330,7 +330,7 @@
         ]
       },
       {
-        "time": "20:00",
+        "time": "19:00",
         "home": "Mazatlán FC",
         "away": "Toluca",
         "channels": [
@@ -339,7 +339,7 @@
         ]
       },
       {
-        "time": "22:00",
+        "time": "21:00",
         "home": "Tijuana",
         "away": "Pachuca",
         "channels": [
@@ -347,7 +347,7 @@
         ]
       },
       {
-        "time": "22:00",
+        "time": "21:00",
         "home": "Necaxa",
         "away": "Chivas Guadalajara",
         "channels": [
@@ -362,7 +362,7 @@
     ],
     "2026-04-24": [
       {
-        "time": "22:00",
+        "time": "21:00",
         "home": "Puebla",
         "away": "Querétaro",
         "channels": [
@@ -373,7 +373,7 @@
     ],
     "2026-04-25": [
       {
-        "time": "18:00",
+        "time": "17:00",
         "home": "Pachuca",
         "away": "Pumas UNAM",
         "channels": [
@@ -381,7 +381,7 @@
         ]
       },
       {
-        "time": "18:00",
+        "time": "17:00",
         "home": "Tigres UANL",
         "away": "Mazatlán FC",
         "channels": [
@@ -390,7 +390,7 @@
         ]
       },
       {
-        "time": "20:00",
+        "time": "19:00",
         "home": "Toluca",
         "away": "Club León",
         "channels": [
@@ -400,7 +400,7 @@
         ]
       },
       {
-        "time": "20:07",
+        "time": "19:07",
         "home": "Chivas Guadalajara",
         "away": "Tijuana",
         "channels": [
@@ -408,7 +408,7 @@
         ]
       },
       {
-        "time": "22:00",
+        "time": "21:00",
         "home": "América",
         "away": "Atlas",
         "channels": [
@@ -417,7 +417,7 @@
         ]
       },
       {
-        "time": "22:00",
+        "time": "21:00",
         "home": "FC Juárez",
         "away": "Atlético San Luis",
         "channels": [
@@ -428,7 +428,7 @@
     ],
     "2026-04-26": [
       {
-        "time": "18:00",
+        "time": "17:00",
         "home": "Santos Laguna",
         "away": "Monterrey",
         "channels": [
@@ -437,7 +437,7 @@
         ]
       },
       {
-        "time": "20:00",
+        "time": "19:00",
         "home": "Cruz Azul",
         "away": "Necaxa",
         "channels": [
