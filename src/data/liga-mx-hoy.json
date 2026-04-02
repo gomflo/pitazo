@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-01T07:19:03.475Z",
+  "updatedAt": "2026-04-02T07:10:52.880Z",
   "matchesByDate": {
     "2026-04-03": [
       {
@@ -41,22 +41,22 @@
     "2026-04-04": [
       {
         "time": "17:00",
+        "home": "Querétaro",
+        "away": "Toluca",
+        "channels": [
+          "FOX One",
+          "FOX"
+        ]
+      },
+      {
+        "time": "17:00",
         "home": "Monterrey",
         "away": "Atlético San Luis",
         "channels": [
           "TUDN",
           "ViX Premium",
-          "Canal 5"
-        ]
-      },
-      {
-        "time": "19:00",
-        "home": "Cruz Azul",
-        "away": "Pachuca",
-        "channels": [
-          "TUDN",
-          "ViX Premium",
-          "Canal 5"
+          "Canal 5",
+          "Layvtime YouTube"
         ]
       },
       {
@@ -68,7 +68,18 @@
         ]
       },
       {
-        "time": "21:00",
+        "time": "19:05",
+        "home": "Cruz Azul",
+        "away": "Pachuca",
+        "channels": [
+          "TUDN",
+          "ViX Premium",
+          "Canal 5",
+          "Layvtime YouTube"
+        ]
+      },
+      {
+        "time": "21:10",
         "home": "Santos Laguna",
         "away": "América",
         "channels": [
@@ -76,26 +87,28 @@
           "ViX Premium",
           "ESPN",
           "Disney+ Premium",
-          "Canal 5"
+          "Canal 5",
+          "Layvtime YouTube"
         ]
       }
     ],
     "2026-04-05": [
-      {
-        "time": "18:00",
-        "home": "Querétaro",
-        "away": "Toluca",
-        "channels": [
-          "FOX One",
-          "FOX"
-        ]
-      },
       {
         "time": "20:07",
         "home": "Chivas Guadalajara",
         "away": "Pumas UNAM",
         "channels": [
           "Amazon Prime Video (Míralo en vivo)"
+        ]
+      }
+    ],
+    "2026-04-07": [
+      {
+        "time": "18:00",
+        "home": "Querétaro",
+        "away": "FC Juárez",
+        "channels": [
+          "APLAZADO"
         ]
       }
     ],
@@ -106,7 +119,8 @@
         "away": "Club León",
         "channels": [
           "FOX One",
-          "TV Azteca"
+          "TV Azteca",
+          "Azteca Deportes Network"
         ]
       },
       {
@@ -115,7 +129,8 @@
         "away": "Tijuana",
         "channels": [
           "FOX One",
-          "TV Azteca"
+          "TV Azteca",
+          "Azteca Deportes Network"
         ]
       }
     ],
@@ -134,7 +149,8 @@
         "away": "Chivas Guadalajara",
         "channels": [
           "FOX One",
-          "TV Azteca"
+          "TV Azteca",
+          "Azteca Deportes Network"
         ]
       },
       {
@@ -143,7 +159,8 @@
         "away": "Monterrey",
         "channels": [
           "TUDN",
-          "ViX Premium"
+          "ViX Premium",
+          "Layvtime YouTube"
         ]
       },
       {
@@ -160,7 +177,8 @@
         "away": "Cruz Azul",
         "channels": [
           "TUDN",
-          "ViX Premium"
+          "ViX Premium",
+          "Layvtime YouTube"
         ]
       }
     ],
@@ -225,7 +243,8 @@
         "away": "Tijuana",
         "channels": [
           "TUDN",
-          "ViX Premium"
+          "ViX Premium",
+          "Layvtime YouTube"
         ]
       },
       {
@@ -234,7 +253,8 @@
         "away": "Pachuca",
         "channels": [
           "TUDN",
-          "ViX Premium"
+          "ViX Premium",
+          "Layvtime YouTube"
         ]
       },
       {
@@ -251,7 +271,8 @@
         "away": "Toluca",
         "channels": [
           "TUDN",
-          "ViX Premium"
+          "ViX Premium",
+          "Layvtime YouTube"
         ]
       },
       {
@@ -317,7 +338,8 @@
         "away": "Tigres UANL",
         "channels": [
           "TUDN",
-          "ViX Premium"
+          "ViX Premium",
+          "Layvtime YouTube"
         ]
       },
       {
@@ -413,7 +435,8 @@
         "away": "Atlas",
         "channels": [
           "TUDN",
-          "ViX Premium"
+          "ViX Premium",
+          "Layvtime YouTube"
         ]
       },
       {
@@ -433,7 +456,8 @@
         "away": "Monterrey",
         "channels": [
           "TUDN",
-          "ViX Premium"
+          "ViX Premium",
+          "Layvtime YouTube"
         ]
       },
       {
@@ -442,7 +466,8 @@
         "away": "Necaxa",
         "channels": [
           "TUDN",
-          "ViX Premium"
+          "ViX Premium",
+          "Layvtime YouTube"
         ]
       }
     ]
