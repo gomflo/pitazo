@@ -1,43 +1,6 @@
 {
-  "updatedAt": "2026-04-03T07:06:43.415Z",
+  "updatedAt": "2026-04-04T06:59:26.260Z",
   "matchesByDate": {
-    "2026-04-03": [
-      {
-        "time": "19:00",
-        "home": "Puebla",
-        "away": "FC Juárez",
-        "channels": [
-          "FOX One",
-          "Azteca Deportes Network",
-          "aztecadeportes.com",
-          "Azteca 7"
-        ]
-      },
-      {
-        "time": "21:00",
-        "home": "Necaxa",
-        "away": "Mazatlán FC",
-        "channels": [
-          "Claro Sports",
-          "ViX Premium",
-          "Clarosports.com",
-          "Claro Sports YouTube",
-          "Pluto TV",
-          "Azteca Deportes Network",
-          "aztecadeportes.com",
-          "Azteca 7"
-        ]
-      },
-      {
-        "time": "21:06",
-        "home": "Tijuana",
-        "away": "Tigres UANL",
-        "channels": [
-          "FOX One",
-          "FOX+"
-        ]
-      }
-    ],
     "2026-04-04": [
       {
         "time": "17:00",
@@ -64,7 +27,8 @@
         "home": "Club León",
         "away": "Atlas",
         "channels": [
-          "FOX One"
+          "FOX One",
+          "FOX+"
         ]
       },
       {
