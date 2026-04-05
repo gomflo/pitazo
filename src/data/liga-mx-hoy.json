@@ -1,61 +1,6 @@
 {
-  "updatedAt": "2026-04-04T06:59:26.260Z",
+  "updatedAt": "2026-04-05T07:04:36.244Z",
   "matchesByDate": {
-    "2026-04-04": [
-      {
-        "time": "17:00",
-        "home": "Querétaro",
-        "away": "Toluca",
-        "channels": [
-          "FOX One",
-          "FOX"
-        ]
-      },
-      {
-        "time": "17:00",
-        "home": "Monterrey",
-        "away": "Atlético San Luis",
-        "channels": [
-          "TUDN",
-          "ViX Premium",
-          "Canal 5",
-          "Layvtime YouTube"
-        ]
-      },
-      {
-        "time": "19:00",
-        "home": "Club León",
-        "away": "Atlas",
-        "channels": [
-          "FOX One",
-          "FOX+"
-        ]
-      },
-      {
-        "time": "19:05",
-        "home": "Cruz Azul",
-        "away": "Pachuca",
-        "channels": [
-          "TUDN",
-          "ViX Premium",
-          "Canal 5",
-          "Layvtime YouTube"
-        ]
-      },
-      {
-        "time": "21:10",
-        "home": "Santos Laguna",
-        "away": "América",
-        "channels": [
-          "TUDN",
-          "ViX Premium",
-          "ESPN",
-          "Disney+ Premium",
-          "Canal 5",
-          "Layvtime YouTube"
-        ]
-      }
-    ],
     "2026-04-05": [
       {
         "time": "20:07",
@@ -254,8 +199,9 @@
         "home": "Santos Laguna",
         "away": "Atlas",
         "channels": [
-          "TUDN",
-          "ViX Premium"
+          "ViX Premium",
+          "ESPN",
+          "Disney+ Premium"
         ]
       }
     ],
