@@ -1,17 +1,6 @@
 {
-  "updatedAt": "2026-04-07T07:14:54.176Z",
+  "updatedAt": "2026-04-08T07:17:26.080Z",
   "matchesByDate": {
-    "2026-04-07": [
-      {
-        "time": "18:00",
-        "home": "Querétaro",
-        "away": "FC Juárez",
-        "channels": [
-          "FOX One",
-          "FOX+"
-        ]
-      }
-    ],
     "2026-04-10": [
       {
         "time": "19:00",
@@ -113,7 +102,8 @@
         "away": "Pumas UNAM",
         "channels": [
           "ESPN",
-          "Disney+ Premium"
+          "Disney+ Premium",
+          "ViX Premium"
         ]
       },
       {
@@ -122,7 +112,8 @@
         "away": "Querétaro",
         "channels": [
           "FOX One",
-          "TV Azteca"
+          "TV Azteca",
+          "Azteca Deportes Network"
         ]
       },
       {
@@ -135,7 +126,8 @@
           "ViX Premium",
           "Clarosports.com",
           "Claro Sports YouTube",
-          "Pluto TV"
+          "Pluto TV",
+          "Azteca Deportes Network"
         ]
       }
     ],
@@ -252,7 +244,8 @@
         "away": "Santos Laguna",
         "channels": [
           "ESPN",
-          "Disney+ Premium"
+          "Disney+ Premium",
+          "ViX Premium"
         ]
       },
       {
