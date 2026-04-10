@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-09T07:20:24.013Z",
+  "updatedAt": "2026-04-10T07:26:05.300Z",
   "matchesByDate": {
     "2026-04-10": [
       {
@@ -9,6 +9,7 @@
         "channels": [
           "FOX One",
           "Azteca Deportes Network",
+          "FOX",
           "Azteca 7"
         ]
       },
@@ -19,6 +20,7 @@
         "channels": [
           "FOX One",
           "Azteca Deportes Network",
+          "FOX",
           "Azteca 7"
         ]
       }
@@ -29,7 +31,8 @@
         "home": "Querétaro",
         "away": "Necaxa",
         "channels": [
-          "FOX One"
+          "FOX One",
+          "FOX+"
         ]
       },
       {
@@ -39,6 +42,8 @@
         "channels": [
           "FOX One",
           "Azteca Deportes Network",
+          "FOX",
+          "Tubi",
           "Azteca 7"
         ]
       },
@@ -58,7 +63,8 @@
         "home": "Pachuca",
         "away": "Santos Laguna",
         "channels": [
-          "FOX One"
+          "FOX One",
+          "FOX+"
         ]
       },
       {
