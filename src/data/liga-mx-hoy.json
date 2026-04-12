@@ -1,60 +1,6 @@
 {
-  "updatedAt": "2026-04-11T06:59:28.219Z",
+  "updatedAt": "2026-04-12T07:12:30.599Z",
   "matchesByDate": {
-    "2026-04-11": [
-      {
-        "time": "17:00",
-        "home": "Querétaro",
-        "away": "Necaxa",
-        "channels": [
-          "FOX One",
-          "FOX+"
-        ]
-      },
-      {
-        "time": "17:00",
-        "home": "Tigres UANL",
-        "away": "Chivas Guadalajara",
-        "channels": [
-          "FOX One",
-          "Azteca Deportes Network",
-          "FOX",
-          "Tubi",
-          "Azteca 7"
-        ]
-      },
-      {
-        "time": "19:00",
-        "home": "Atlas",
-        "away": "Monterrey",
-        "channels": [
-          "TUDN",
-          "ViX Premium",
-          "Layvtime YouTube",
-          "Canal 5"
-        ]
-      },
-      {
-        "time": "19:00",
-        "home": "Pachuca",
-        "away": "Santos Laguna",
-        "channels": [
-          "FOX One",
-          "FOX+"
-        ]
-      },
-      {
-        "time": "21:00",
-        "home": "América",
-        "away": "Cruz Azul",
-        "channels": [
-          "TUDN",
-          "ViX Premium",
-          "Layvtime YouTube",
-          "Canal 5"
-        ]
-      }
-    ],
     "2026-04-12": [
       {
         "time": "12:00",
@@ -179,7 +125,6 @@
         "home": "Pumas UNAM",
         "away": "FC Juárez",
         "channels": [
-          "TUDN",
           "ViX Premium"
         ]
       },
@@ -196,7 +141,6 @@
         "home": "Monterrey",
         "away": "Puebla",
         "channels": [
-          "TUDN",
           "ViX Premium"
         ]
       },
@@ -257,7 +201,8 @@
           "ViX Premium",
           "Clarosports.com",
           "Claro Sports YouTube",
-          "Pluto TV"
+          "Pluto TV",
+          "TUDN"
         ]
       }
     ],
@@ -295,7 +240,6 @@
         "home": "Toluca",
         "away": "Club León",
         "channels": [
-          "TUDN",
           "TV Azteca",
           "FOX One"
         ]
