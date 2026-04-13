@@ -1,28 +1,6 @@
 {
-  "updatedAt": "2026-04-12T07:12:30.599Z",
+  "updatedAt": "2026-04-13T08:01:19.940Z",
   "matchesByDate": {
-    "2026-04-12": [
-      {
-        "time": "12:00",
-        "home": "Pumas UNAM",
-        "away": "Mazatlán FC",
-        "channels": [
-          "TUDN",
-          "ViX Premium",
-          "Las Estrellas"
-        ]
-      },
-      {
-        "time": "19:00",
-        "home": "Toluca",
-        "away": "Atlético San Luis",
-        "channels": [
-          "TUDN",
-          "Canal 5",
-          "ViX Premium"
-        ]
-      }
-    ],
     "2026-04-17": [
       {
         "time": "19:00",
@@ -41,7 +19,8 @@
         "channels": [
           "FOX One",
           "TV Azteca",
-          "Azteca Deportes Network"
+          "Azteca Deportes Network",
+          "Azteca 7"
         ]
       },
       {
@@ -55,7 +34,8 @@
           "Clarosports.com",
           "Claro Sports YouTube",
           "Pluto TV",
-          "Azteca Deportes Network"
+          "Azteca Deportes Network",
+          "Azteca 7"
         ]
       }
     ],
@@ -280,7 +260,9 @@
         "channels": [
           "TUDN",
           "ViX Premium",
-          "Layvtime YouTube"
+          "Layvtime YouTube",
+          "Disney+ Premium",
+          "ESPN 2"
         ]
       },
       {
