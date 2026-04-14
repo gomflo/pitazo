@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-13T08:01:19.940Z",
+  "updatedAt": "2026-04-14T07:43:34.691Z",
   "matchesByDate": {
     "2026-04-17": [
       {
@@ -18,7 +18,6 @@
         "away": "Querétaro",
         "channels": [
           "FOX One",
-          "TV Azteca",
           "Azteca Deportes Network",
           "Azteca 7"
         ]
@@ -29,7 +28,6 @@
         "away": "Tigres UANL",
         "channels": [
           "Claro Sports",
-          "TV Azteca",
           "ViX Premium",
           "Clarosports.com",
           "Claro Sports YouTube",
@@ -47,7 +45,8 @@
         "channels": [
           "TUDN",
           "ViX Premium",
-          "Layvtime YouTube"
+          "Layvtime YouTube",
+          "Canal 5"
         ]
       },
       {
@@ -57,7 +56,8 @@
         "channels": [
           "TUDN",
           "ViX Premium",
-          "Layvtime YouTube"
+          "Layvtime YouTube",
+          "Canal 5"
         ]
       },
       {
@@ -75,7 +75,8 @@
         "channels": [
           "TUDN",
           "ViX Premium",
-          "Layvtime YouTube"
+          "Layvtime YouTube",
+          "Canal 5"
         ]
       },
       {
