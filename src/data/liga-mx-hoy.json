@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-14T07:43:34.691Z",
+  "updatedAt": "2026-04-15T07:43:29.334Z",
   "matchesByDate": {
     "2026-04-17": [
       {
@@ -183,7 +183,8 @@
           "Clarosports.com",
           "Claro Sports YouTube",
           "Pluto TV",
-          "TUDN"
+          "TUDN",
+          "Azteca Deportes Network"
         ]
       }
     ],
@@ -194,7 +195,8 @@
         "away": "Querétaro",
         "channels": [
           "FOX One",
-          "TV Azteca"
+          "TV Azteca",
+          "Azteca Deportes Network"
         ]
       }
     ],
@@ -213,7 +215,8 @@
         "away": "Mazatlán FC",
         "channels": [
           "FOX One",
-          "TV Azteca"
+          "TV Azteca",
+          "Azteca Deportes Network"
         ]
       },
       {
@@ -222,7 +225,8 @@
         "away": "Club León",
         "channels": [
           "TV Azteca",
-          "FOX One"
+          "FOX One",
+          "Azteca Deportes Network"
         ]
       },
       {
@@ -249,7 +253,8 @@
         "away": "Atlético San Luis",
         "channels": [
           "FOX One",
-          "TV Azteca"
+          "TV Azteca",
+          "Azteca Deportes Network"
         ]
       }
     ],
