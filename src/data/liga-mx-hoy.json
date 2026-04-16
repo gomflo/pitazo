@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-15T07:43:29.334Z",
+  "updatedAt": "2026-04-16T07:44:19.988Z",
   "matchesByDate": {
     "2026-04-17": [
       {
@@ -21,20 +21,6 @@
           "Azteca Deportes Network",
           "Azteca 7"
         ]
-      },
-      {
-        "time": "21:00",
-        "home": "Necaxa",
-        "away": "Tigres UANL",
-        "channels": [
-          "Claro Sports",
-          "ViX Premium",
-          "Clarosports.com",
-          "Claro Sports YouTube",
-          "Pluto TV",
-          "Azteca Deportes Network",
-          "Azteca 7"
-        ]
       }
     ],
     "2026-04-18": [
@@ -47,6 +33,20 @@
           "ViX Premium",
           "Layvtime YouTube",
           "Canal 5"
+        ]
+      },
+      {
+        "time": "17:00",
+        "home": "Necaxa",
+        "away": "Tigres UANL",
+        "channels": [
+          "Claro Sports",
+          "ViX Premium",
+          "Clarosports.com",
+          "Claro Sports YouTube",
+          "Pluto TV",
+          "Azteca Deportes Network",
+          "Azteca 7"
         ]
       },
       {
