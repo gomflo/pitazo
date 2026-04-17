@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-16T07:44:19.988Z",
+  "updatedAt": "2026-04-17T07:44:36.840Z",
   "matchesByDate": {
     "2026-04-17": [
       {
@@ -19,6 +19,8 @@
         "channels": [
           "FOX One",
           "Azteca Deportes Network",
+          "FOX",
+          "Tubi",
           "Azteca 7"
         ]
       }
@@ -84,7 +86,8 @@
         "home": "Club León",
         "away": "FC Juárez",
         "channels": [
-          "FOX One"
+          "FOX One",
+          "FOX"
         ]
       }
     ],
@@ -161,7 +164,8 @@
         "away": "Toluca",
         "channels": [
           "FOX One",
-          "TV Azteca"
+          "TV Azteca",
+          "Azteca Deportes Network"
         ]
       },
       {
