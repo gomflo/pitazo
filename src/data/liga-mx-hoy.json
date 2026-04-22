@@ -1,42 +1,6 @@
 {
-  "updatedAt": "2026-04-21T07:47:53.152Z",
+  "updatedAt": "2026-04-22T07:44:52.071Z",
   "matchesByDate": {
-    "2026-04-21": [
-      {
-        "time": "19:00",
-        "home": "Pumas UNAM",
-        "away": "FC Juárez",
-        "channels": [
-          "ViX Premium"
-        ]
-      },
-      {
-        "time": "19:00",
-        "home": "Querétaro",
-        "away": "Cruz Azul",
-        "channels": [
-          "FOX One",
-          "FOX+"
-        ]
-      },
-      {
-        "time": "21:00",
-        "home": "Monterrey",
-        "away": "Puebla",
-        "channels": [
-          "ViX Premium"
-        ]
-      },
-      {
-        "time": "21:06",
-        "home": "Club León",
-        "away": "América",
-        "channels": [
-          "FOX One",
-          "FOX+"
-        ]
-      }
-    ],
     "2026-04-22": [
       {
         "time": "19:00",
@@ -71,16 +35,7 @@
         ]
       },
       {
-        "time": "21:00",
-        "home": "Tijuana",
-        "away": "Pachuca",
-        "channels": [
-          "FOX One",
-          "FOX"
-        ]
-      },
-      {
-        "time": "21:00",
+        "time": "21:05",
         "home": "Necaxa",
         "away": "Chivas Guadalajara",
         "channels": [
@@ -93,6 +48,15 @@
           "Azteca Deportes Network",
           "Canal 5",
           "Azteca 7"
+        ]
+      },
+      {
+        "time": "21:06",
+        "home": "Tijuana",
+        "away": "Pachuca",
+        "channels": [
+          "FOX One",
+          "FOX"
         ]
       }
     ],
