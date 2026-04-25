@@ -1,27 +1,14 @@
 {
-  "updatedAt": "2026-04-24T08:01:34.996Z",
+  "updatedAt": "2026-04-25T07:14:01.935Z",
   "matchesByDate": {
-    "2026-04-24": [
-      {
-        "time": "21:00",
-        "home": "Puebla",
-        "away": "Querétaro",
-        "channels": [
-          "FOX One",
-          "TV Azteca",
-          "Azteca Deportes Network",
-          "Tubi",
-          "Azteca 7"
-        ]
-      }
-    ],
     "2026-04-25": [
       {
         "time": "17:00",
         "home": "Pachuca",
         "away": "Pumas UNAM",
         "channels": [
-          "FOX One"
+          "FOX One",
+          "FOX+"
         ]
       },
       {
@@ -30,7 +17,6 @@
         "away": "Mazatlán FC",
         "channels": [
           "FOX One",
-          "TV Azteca",
           "Azteca Deportes Network",
           "Tubi",
           "Azteca 7"
@@ -41,9 +27,10 @@
         "home": "Toluca",
         "away": "Club León",
         "channels": [
-          "TV Azteca",
           "FOX One",
           "Azteca Deportes Network",
+          "Tubi",
+          "FOX+",
           "Azteca 7"
         ]
       },
@@ -72,8 +59,8 @@
         "away": "Atlético San Luis",
         "channels": [
           "FOX One",
-          "TV Azteca",
           "Azteca Deportes Network",
+          "FOX",
           "Azteca 7"
         ]
       }
