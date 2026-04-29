@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-28T08:23:30.720Z",
+  "updatedAt": "2026-04-29T08:14:52.820Z",
   "matchesByDate": {
     "2026-05-02": [
       {
@@ -9,15 +9,19 @@
         "channels": [
           "FOX One",
           "FOX",
+          "aztecadeportes.com",
           "Azteca 7"
         ]
       },
       {
-        "time": "21:05",
+        "time": "21:15",
         "home": "Atlas",
         "away": "Cruz Azul",
         "channels": [
-          "ViX Premium"
+          "ViX Premium",
+          "Canal 5",
+          "TUDN",
+          "Layvtime YouTube"
         ]
       }
     ],
@@ -28,7 +32,9 @@
         "away": "Pumas UNAM",
         "channels": [
           "TUDN",
-          "ViX Premium"
+          "ViX Premium",
+          "Canal 5",
+          "Layvtime YouTube"
         ]
       },
       {
@@ -37,8 +43,13 @@
         "away": "Pachuca",
         "channels": [
           "FOX One",
+          "Canal 5",
+          "ViX Premium",
+          "aztecadeportes.com",
           "FOX",
-          "Tubi"
+          "Tubi",
+          "TUDN",
+          "Azteca 7"
         ]
       }
     ],
@@ -57,7 +68,9 @@
         "away": "Atlas",
         "channels": [
           "TUDN",
-          "ViX Premium"
+          "ViX Premium",
+          "Canal 5",
+          "Layvtime YouTube"
         ]
       }
     ],
@@ -77,7 +90,9 @@
         "away": "América",
         "channels": [
           "TUDN",
-          "ViX Premium"
+          "ViX Premium",
+          "Canal 5",
+          "Layvtime YouTube"
         ]
       }
     ]
