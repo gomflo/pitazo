@@ -1,30 +1,6 @@
 {
-  "updatedAt": "2026-05-02T07:42:08.318Z",
+  "updatedAt": "2026-05-03T07:59:31.692Z",
   "matchesByDate": {
-    "2026-05-02": [
-      {
-        "time": "19:00",
-        "home": "Tigres UANL",
-        "away": "Chivas Guadalajara",
-        "channels": [
-          "FOX One",
-          "FOX",
-          "aztecadeportes.com",
-          "Azteca 7"
-        ]
-      },
-      {
-        "time": "21:15",
-        "home": "Atlas",
-        "away": "Cruz Azul",
-        "channels": [
-          "ViX Premium",
-          "Canal 5",
-          "TUDN",
-          "Layvtime YouTube"
-        ]
-      }
-    ],
     "2026-05-03": [
       {
         "time": "17:00",
