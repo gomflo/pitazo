@@ -1,34 +1,6 @@
 {
-  "updatedAt": "2026-05-03T07:59:31.692Z",
+  "updatedAt": "2026-05-04T08:27:35.291Z",
   "matchesByDate": {
-    "2026-05-03": [
-      {
-        "time": "17:00",
-        "home": "América",
-        "away": "Pumas UNAM",
-        "channels": [
-          "TUDN",
-          "ViX Premium",
-          "Canal 5",
-          "Layvtime YouTube"
-        ]
-      },
-      {
-        "time": "19:15",
-        "home": "Toluca",
-        "away": "Pachuca",
-        "channels": [
-          "FOX One",
-          "Canal 5",
-          "ViX Premium",
-          "aztecadeportes.com",
-          "FOX",
-          "Tubi",
-          "TUDN",
-          "Azteca 7"
-        ]
-      }
-    ],
     "2026-05-09": [
       {
         "time": "19:07",
