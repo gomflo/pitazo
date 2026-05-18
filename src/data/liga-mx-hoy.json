@@ -1,18 +1,27 @@
 {
-  "updatedAt": "2026-05-17T08:19:27.337Z",
+  "updatedAt": "2026-05-18T10:00:21.381Z",
   "matchesByDate": {
-    "2026-05-17": [
+    "2026-05-21": [
       {
-        "time": "19:00",
-        "home": "Pumas UNAM",
-        "away": "Pachuca",
+        "time": "14:00",
+        "home": "Cruz Azul",
+        "away": "Pumas UNAM",
         "channels": [
-          "ViX Premium",
           "TUDN",
-          "Canal 5",
-          "aztecadeportes.com",
-          "Azteca Deportes Network",
-          "Azteca 7"
+          "ViX Premium",
+          "Canal 5"
+        ]
+      }
+    ],
+    "2026-05-24": [
+      {
+        "time": "14:00",
+        "home": "Pumas UNAM",
+        "away": "Cruz Azul",
+        "channels": [
+          "TUDN",
+          "ViX Premium",
+          "Canal 5"
         ]
       }
     ]
