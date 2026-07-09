@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-08T08:24:50.903Z",
+  "updatedAt": "2026-07-09T09:35:40.261Z",
   "matchesByDate": {
     "2026-07-16": [
       {
@@ -34,7 +34,8 @@
         "away": "Cruz Azul",
         "channels": [
           "Disney+ Premium",
-          "ESPN"
+          "ESPN",
+          "ViX Premium"
         ]
       },
       {
@@ -52,7 +53,9 @@
         "home": "Pumas UNAM",
         "away": "Pachuca",
         "channels": [
-          "Canal por confirmar"
+          "TUDN",
+          "Canal 5",
+          "ViX Premium"
         ]
       },
       {
@@ -60,7 +63,9 @@
         "home": "Monterrey",
         "away": "Santos Laguna",
         "channels": [
-          "Canal por confirmar"
+          "TUDN",
+          "Canal 5",
+          "ViX Premium"
         ]
       },
       {
