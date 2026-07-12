@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-11T07:52:45.378Z",
+  "updatedAt": "2026-07-12T08:13:49.971Z",
   "matchesByDate": {
     "2026-07-16": [
       {
@@ -86,6 +86,25 @@
         "away": "América",
         "channels": [
           "FOX One"
+        ]
+      }
+    ],
+    "2026-07-21": [
+      {
+        "time": "19:00",
+        "home": "Cruz Azul",
+        "away": "Puebla",
+        "channels": [
+          "TUDN",
+          "ViX Premium"
+        ]
+      },
+      {
+        "time": "21:00",
+        "home": "Toluca",
+        "away": "Pumas UNAM",
+        "channels": [
+          "Canal por confirmar"
         ]
       }
     ],
