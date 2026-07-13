@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-12T08:13:49.971Z",
+  "updatedAt": "2026-07-13T09:22:29.316Z",
   "matchesByDate": {
     "2026-07-16": [
       {
@@ -130,9 +130,10 @@
         "home": "Atlante",
         "away": "América",
         "channels": [
-          "Canal por confirmar",
           "Azteca Deportes Network",
           "Azteca Deportes App",
+          "Disney+ Premium",
+          "ESPN",
           "Azteca 7"
         ]
       }
@@ -152,7 +153,8 @@
         "away": "Atlas",
         "channels": [
           "Disney+ Premium",
-          "ViX Premium"
+          "ViX Premium",
+          "ESPN"
         ]
       }
     ],
