@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-14T08:00:44.199Z",
+  "updatedAt": "2026-07-15T08:06:06.155Z",
   "matchesByDate": {
     "2026-07-16": [
       {
@@ -7,7 +7,8 @@
         "home": "Necaxa",
         "away": "Atlante",
         "channels": [
-          "FOX One"
+          "FOX One",
+          "FOX"
         ]
       },
       {
@@ -15,7 +16,8 @@
         "home": "Tijuana",
         "away": "Tigres UANL",
         "channels": [
-          "FOX One"
+          "FOX One",
+          "FOX"
         ]
       }
     ],
@@ -25,7 +27,8 @@
         "home": "Club León",
         "away": "Atlas",
         "channels": [
-          "FOX One"
+          "FOX One",
+          "FOX"
         ]
       },
       {
@@ -47,6 +50,7 @@
           "aztecadeportes.com",
           "Azteca Deportes Network",
           "Azteca Deportes App",
+          "FOX",
           "Azteca 7"
         ]
       }
@@ -73,7 +77,7 @@
         ]
       },
       {
-        "time": "19:00",
+        "time": "19:07",
         "home": "Chivas Guadalajara",
         "away": "Toluca",
         "channels": [
@@ -104,7 +108,7 @@
         "home": "Toluca",
         "away": "Pumas UNAM",
         "channels": [
-          "Canal por confirmar"
+          "FOX One"
         ]
       }
     ],
@@ -140,7 +144,7 @@
     ],
     "2026-07-25": [
       {
-        "time": "17:00",
+        "time": "17:07",
         "home": "Chivas Guadalajara",
         "away": "FC Juárez",
         "channels": [
@@ -365,7 +369,7 @@
         ]
       },
       {
-        "time": "17:00",
+        "time": "17:07",
         "home": "Chivas Guadalajara",
         "away": "Tijuana",
         "channels": [
@@ -587,14 +591,6 @@
         ]
       },
       {
-        "time": "18:00",
-        "home": "Cruz Azul",
-        "away": "América",
-        "channels": [
-          "Canal por confirmar"
-        ]
-      },
-      {
         "time": "19:00",
         "home": "Necaxa",
         "away": "Puebla",
@@ -629,6 +625,14 @@
         "away": "Atlético San Luis",
         "channels": [
           "FOX One"
+        ]
+      },
+      {
+        "time": "18:00",
+        "home": "Cruz Azul",
+        "away": "América",
+        "channels": [
+          "Canal por confirmar"
         ]
       }
     ],
