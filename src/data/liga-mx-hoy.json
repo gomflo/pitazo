@@ -1,26 +1,6 @@
 {
-  "updatedAt": "2026-07-16T08:09:47.332Z",
+  "updatedAt": "2026-07-17T08:07:10.356Z",
   "matchesByDate": {
-    "2026-07-16": [
-      {
-        "time": "19:00",
-        "home": "Necaxa",
-        "away": "Atlante",
-        "channels": [
-          "FOX One",
-          "FOX"
-        ]
-      },
-      {
-        "time": "21:00",
-        "home": "Tijuana",
-        "away": "Tigres UANL",
-        "channels": [
-          "FOX One",
-          "FOX"
-        ]
-      }
-    ],
     "2026-07-17": [
       {
         "time": "19:00",
@@ -67,7 +47,7 @@
         ]
       },
       {
-        "time": "19:00",
+        "time": "19:05",
         "home": "Monterrey",
         "away": "Santos Laguna",
         "channels": [
@@ -85,7 +65,7 @@
         ]
       },
       {
-        "time": "21:00",
+        "time": "21:10",
         "home": "Querétaro",
         "away": "América",
         "channels": [
