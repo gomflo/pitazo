@@ -1,40 +1,6 @@
 {
-  "updatedAt": "2026-07-17T08:07:10.356Z",
+  "updatedAt": "2026-07-18T07:46:12.466Z",
   "matchesByDate": {
-    "2026-07-17": [
-      {
-        "time": "19:00",
-        "home": "Club León",
-        "away": "Atlas",
-        "channels": [
-          "FOX One",
-          "FOX"
-        ]
-      },
-      {
-        "time": "19:00",
-        "home": "Atlético San Luis",
-        "away": "Cruz Azul",
-        "channels": [
-          "Disney+ Premium",
-          "ESPN",
-          "ViX Premium"
-        ]
-      },
-      {
-        "time": "21:00",
-        "home": "FC Juárez",
-        "away": "Puebla",
-        "channels": [
-          "FOX One",
-          "aztecadeportes.com",
-          "Azteca Deportes Network",
-          "Azteca Deportes App",
-          "FOX",
-          "Azteca 7"
-        ]
-      }
-    ],
     "2026-07-18": [
       {
         "time": "17:00",
