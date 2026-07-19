@@ -1,44 +1,6 @@
 {
-  "updatedAt": "2026-07-18T07:46:12.466Z",
+  "updatedAt": "2026-07-19T08:13:24.782Z",
   "matchesByDate": {
-    "2026-07-18": [
-      {
-        "time": "17:00",
-        "home": "Pumas UNAM",
-        "away": "Pachuca",
-        "channels": [
-          "TUDN",
-          "Canal 5",
-          "ViX Premium"
-        ]
-      },
-      {
-        "time": "19:05",
-        "home": "Monterrey",
-        "away": "Santos Laguna",
-        "channels": [
-          "TUDN",
-          "Canal 5",
-          "ViX Premium"
-        ]
-      },
-      {
-        "time": "19:07",
-        "home": "Chivas Guadalajara",
-        "away": "Toluca",
-        "channels": [
-          "Amazon Prime Video (Míralo en vivo)"
-        ]
-      },
-      {
-        "time": "21:10",
-        "home": "Querétaro",
-        "away": "América",
-        "channels": [
-          "FOX One"
-        ]
-      }
-    ],
     "2026-07-21": [
       {
         "time": "19:00",
