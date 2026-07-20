@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-19T08:13:24.782Z",
+  "updatedAt": "2026-07-20T08:54:41.664Z",
   "matchesByDate": {
     "2026-07-21": [
       {
@@ -7,7 +7,6 @@
         "home": "Cruz Azul",
         "away": "Puebla",
         "channels": [
-          "TUDN",
           "ViX Premium"
         ]
       },
@@ -129,7 +128,8 @@
         "home": "Atlas",
         "away": "Monterrey",
         "channels": [
-          "ViX Premium"
+          "ViX Premium",
+          "TUDN"
         ]
       },
       {
@@ -145,7 +145,7 @@
         "home": "Cruz Azul",
         "away": "Atlante",
         "channels": [
-          "Canal por confirmar"
+          "TUDN"
         ]
       }
     ],
@@ -155,7 +155,8 @@
         "home": "América",
         "away": "Santos Laguna",
         "channels": [
-          "ViX Premium"
+          "ViX Premium",
+          "TUDN"
         ]
       },
       {
@@ -163,7 +164,7 @@
         "home": "Toluca",
         "away": "Necaxa",
         "channels": [
-          "Canal por confirmar"
+          "TUDN"
         ]
       }
     ],
