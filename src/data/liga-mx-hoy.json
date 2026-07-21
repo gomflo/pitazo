@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-20T08:54:41.664Z",
+  "updatedAt": "2026-07-21T08:24:53.643Z",
   "matchesByDate": {
     "2026-07-21": [
       {
@@ -11,23 +11,19 @@
         ]
       },
       {
-        "time": "21:00",
+        "time": "21:05",
         "home": "Toluca",
         "away": "Pumas UNAM",
         "channels": [
-          "FOX One"
+          "FOX One",
+          "Azteca Deportes Network",
+          "Azteca Deportes App",
+          "Disney+ Premium",
+          "Azteca 7"
         ]
       }
     ],
     "2026-07-24": [
-      {
-        "time": "19:00",
-        "home": "Tigres UANL",
-        "away": "Atlético San Luis",
-        "channels": [
-          "FOX One"
-        ]
-      },
       {
         "time": "21:00",
         "home": "Tijuana",
@@ -67,6 +63,18 @@
           "ViX Premium",
           "ESPN"
         ]
+      },
+      {
+        "time": "21:00",
+        "home": "Tigres UANL",
+        "away": "Atlético San Luis",
+        "channels": [
+          "FOX One",
+          "Azteca Deportes Network",
+          "Azteca Deportes App",
+          "Disney+ Premium",
+          "Azteca 7"
+        ]
       }
     ],
     "2026-07-26": [
@@ -102,7 +110,8 @@
         "away": "Tijuana",
         "channels": [
           "Disney+ Premium",
-          "ViX Premium"
+          "ViX Premium",
+          "ESPN"
         ]
       },
       {
@@ -177,6 +186,7 @@
           "Canal por confirmar",
           "Azteca Deportes Network",
           "Azteca Deportes App",
+          "Disney+ Premium",
           "Azteca 7"
         ]
       },
