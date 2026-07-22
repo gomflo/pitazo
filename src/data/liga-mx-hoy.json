@@ -1,35 +1,14 @@
 {
-  "updatedAt": "2026-07-21T08:24:53.643Z",
+  "updatedAt": "2026-07-22T08:25:39.251Z",
   "matchesByDate": {
-    "2026-07-21": [
-      {
-        "time": "19:00",
-        "home": "Cruz Azul",
-        "away": "Puebla",
-        "channels": [
-          "ViX Premium"
-        ]
-      },
-      {
-        "time": "21:05",
-        "home": "Toluca",
-        "away": "Pumas UNAM",
-        "channels": [
-          "FOX One",
-          "Azteca Deportes Network",
-          "Azteca Deportes App",
-          "Disney+ Premium",
-          "Azteca 7"
-        ]
-      }
-    ],
     "2026-07-24": [
       {
         "time": "21:00",
         "home": "Tijuana",
         "away": "Club León",
         "channels": [
-          "FOX One"
+          "FOX One",
+          "FOX"
         ]
       },
       {
@@ -73,6 +52,7 @@
           "Azteca Deportes Network",
           "Azteca Deportes App",
           "Disney+ Premium",
+          "FOX",
           "Azteca 7"
         ]
       }
@@ -83,7 +63,8 @@
         "home": "Necaxa",
         "away": "Monterrey",
         "channels": [
-          "FOX One"
+          "FOX One",
+          "FOX+"
         ]
       },
       {
@@ -91,7 +72,8 @@
         "home": "Pachuca",
         "away": "Querétaro",
         "channels": [
-          "FOX One"
+          "FOX One",
+          "FOX+"
         ]
       }
     ],
