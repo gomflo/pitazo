@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-22T08:25:39.251Z",
+  "updatedAt": "2026-07-23T08:26:38.074Z",
   "matchesByDate": {
     "2026-07-24": [
       {
@@ -165,10 +165,10 @@
         "home": "Atlante",
         "away": "Toluca",
         "channels": [
-          "Canal por confirmar",
           "Azteca Deportes Network",
           "Azteca Deportes App",
           "Disney+ Premium",
+          "aztecadeportes.com",
           "Azteca 7"
         ]
       },
@@ -290,7 +290,7 @@
         "home": "Cruz Azul",
         "away": "Atlas",
         "channels": [
-          "Canal por confirmar"
+          "ViX Premium"
         ]
       },
       {
@@ -327,9 +327,9 @@
         "home": "Atlante",
         "away": "Club León",
         "channels": [
-          "Canal por confirmar",
           "Azteca Deportes Network",
           "Azteca Deportes App",
+          "aztecadeportes.com",
           "Azteca 7"
         ]
       },
@@ -478,7 +478,7 @@
         "home": "Cruz Azul",
         "away": "Santos Laguna",
         "channels": [
-          "Canal por confirmar"
+          "ViX Premium"
         ]
       }
     ],
@@ -512,9 +512,9 @@
         "home": "Atlante",
         "away": "Pachuca",
         "channels": [
-          "Canal por confirmar",
           "Azteca Deportes Network",
           "Azteca Deportes App",
+          "aztecadeportes.com",
           "Azteca 7"
         ]
       }
@@ -533,7 +533,7 @@
         "home": "Cruz Azul",
         "away": "América",
         "channels": [
-          "Canal por confirmar"
+          "ViX Premium"
         ]
       }
     ],
@@ -649,9 +649,9 @@
         "home": "Atlante",
         "away": "Monterrey",
         "channels": [
-          "Canal por confirmar",
           "Azteca Deportes Network",
           "Azteca Deportes App",
+          "aztecadeportes.com",
           "Azteca 7"
         ]
       },
@@ -695,7 +695,7 @@
         "home": "Cruz Azul",
         "away": "Toluca",
         "channels": [
-          "Canal por confirmar"
+          "ViX Premium"
         ]
       }
     ],
@@ -826,9 +826,9 @@
         "home": "Atlante",
         "away": "Pumas UNAM",
         "channels": [
-          "Canal por confirmar",
           "Azteca Deportes Network",
           "Azteca Deportes App",
+          "aztecadeportes.com",
           "Azteca 7"
         ]
       }
@@ -872,7 +872,7 @@
         "home": "Cruz Azul",
         "away": "FC Juárez",
         "channels": [
-          "Canal por confirmar"
+          "ViX Premium"
         ]
       }
     ],
@@ -978,9 +978,9 @@
         "home": "Atlante",
         "away": "Atlético San Luis",
         "channels": [
-          "Canal por confirmar",
           "Azteca Deportes Network",
           "Azteca Deportes App",
+          "aztecadeportes.com",
           "Azteca 7"
         ]
       }
@@ -1121,7 +1121,7 @@
         "home": "Cruz Azul",
         "away": "Club León",
         "channels": [
-          "Canal por confirmar"
+          "ViX Premium"
         ]
       }
     ],
@@ -1148,9 +1148,9 @@
         "home": "Atlante",
         "away": "Santos Laguna",
         "channels": [
-          "Canal por confirmar",
           "Azteca Deportes Network",
           "Azteca Deportes App",
+          "aztecadeportes.com",
           "Azteca 7"
         ]
       }
