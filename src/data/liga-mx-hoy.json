@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23T08:26:38.074Z",
+  "updatedAt": "2026-07-24T08:24:17.707Z",
   "matchesByDate": {
     "2026-07-24": [
       {
@@ -83,7 +83,9 @@
         "home": "Puebla",
         "away": "Chivas Guadalajara",
         "channels": [
-          "FOX One"
+          "FOX One",
+          "Disney+ Premium",
+          "ESPN"
         ]
       },
       {
