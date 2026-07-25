@@ -1,29 +1,6 @@
 {
-  "updatedAt": "2026-07-24T08:24:17.707Z",
+  "updatedAt": "2026-07-25T08:03:27.790Z",
   "matchesByDate": {
-    "2026-07-24": [
-      {
-        "time": "21:00",
-        "home": "Tijuana",
-        "away": "Club León",
-        "channels": [
-          "FOX One",
-          "FOX"
-        ]
-      },
-      {
-        "time": "21:00",
-        "home": "Atlante",
-        "away": "América",
-        "channels": [
-          "Azteca Deportes Network",
-          "Azteca Deportes App",
-          "Disney+ Premium",
-          "ESPN",
-          "Azteca 7"
-        ]
-      }
-    ],
     "2026-07-25": [
       {
         "time": "17:07",
