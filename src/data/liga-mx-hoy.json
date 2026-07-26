@@ -1,39 +1,6 @@
 {
-  "updatedAt": "2026-07-25T08:03:27.790Z",
+  "updatedAt": "2026-07-26T08:23:15.663Z",
   "matchesByDate": {
-    "2026-07-25": [
-      {
-        "time": "17:07",
-        "home": "Chivas Guadalajara",
-        "away": "FC Juárez",
-        "channels": [
-          "Amazon Prime Video (Míralo en vivo)"
-        ]
-      },
-      {
-        "time": "21:00",
-        "home": "Santos Laguna",
-        "away": "Atlas",
-        "channels": [
-          "Disney+ Premium",
-          "ViX Premium",
-          "ESPN"
-        ]
-      },
-      {
-        "time": "21:00",
-        "home": "Tigres UANL",
-        "away": "Atlético San Luis",
-        "channels": [
-          "FOX One",
-          "Azteca Deportes Network",
-          "Azteca Deportes App",
-          "Disney+ Premium",
-          "FOX",
-          "Azteca 7"
-        ]
-      }
-    ],
     "2026-07-26": [
       {
         "time": "17:00",
@@ -115,7 +82,8 @@
         "home": "Cruz Azul",
         "away": "Atlante",
         "channels": [
-          "TUDN"
+          "TUDN",
+          "ViX Premium"
         ]
       }
     ],
