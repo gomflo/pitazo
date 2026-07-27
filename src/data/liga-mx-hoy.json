@@ -1,26 +1,6 @@
 {
-  "updatedAt": "2026-07-26T08:23:15.663Z",
+  "updatedAt": "2026-07-27T09:48:29.758Z",
   "matchesByDate": {
-    "2026-07-26": [
-      {
-        "time": "17:00",
-        "home": "Necaxa",
-        "away": "Monterrey",
-        "channels": [
-          "FOX One",
-          "FOX+"
-        ]
-      },
-      {
-        "time": "19:00",
-        "home": "Pachuca",
-        "away": "Querétaro",
-        "channels": [
-          "FOX One",
-          "FOX+"
-        ]
-      }
-    ],
     "2026-07-31": [
       {
         "time": "19:00",
@@ -29,7 +9,8 @@
         "channels": [
           "FOX One",
           "Disney+ Premium",
-          "ESPN"
+          "ESPN",
+          "Azteca 7"
         ]
       },
       {
@@ -47,7 +28,9 @@
         "home": "FC Juárez",
         "away": "Pumas UNAM",
         "channels": [
-          "FOX One"
+          "FOX One",
+          "FOX",
+          "Azteca 7"
         ]
       }
     ],
