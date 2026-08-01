@@ -1,38 +1,6 @@
 {
-  "updatedAt": "2026-07-31T08:46:23.441Z",
+  "updatedAt": "2026-08-01T08:17:10.932Z",
   "matchesByDate": {
-    "2026-07-31": [
-      {
-        "time": "19:00",
-        "home": "Puebla",
-        "away": "Chivas Guadalajara",
-        "channels": [
-          "Disney+ Premium",
-          "ESPN",
-          "Azteca 7"
-        ]
-      },
-      {
-        "time": "21:00",
-        "home": "Atlético San Luis",
-        "away": "Tijuana",
-        "channels": [
-          "Disney+ Premium",
-          "ViX Premium",
-          "ESPN"
-        ]
-      },
-      {
-        "time": "21:00",
-        "home": "FC Juárez",
-        "away": "Pumas UNAM",
-        "channels": [
-          "FOX One",
-          "FOX",
-          "Azteca 7"
-        ]
-      }
-    ],
     "2026-08-01": [
       {
         "time": "17:00",
