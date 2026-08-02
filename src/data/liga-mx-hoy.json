@@ -1,46 +1,6 @@
 {
-  "updatedAt": "2026-08-01T08:17:10.932Z",
+  "updatedAt": "2026-08-02T08:21:13.031Z",
   "matchesByDate": {
-    "2026-08-01": [
-      {
-        "time": "17:00",
-        "home": "Querétaro",
-        "away": "Tigres UANL",
-        "channels": [
-          "FOX One",
-          "FOX+"
-        ]
-      },
-      {
-        "time": "19:00",
-        "home": "Atlas",
-        "away": "Monterrey",
-        "channels": [
-          "ViX Premium",
-          "TUDN",
-          "Canal 5"
-        ]
-      },
-      {
-        "time": "19:00",
-        "home": "Club León",
-        "away": "Pachuca",
-        "channels": [
-          "FOX One",
-          "FOX+"
-        ]
-      },
-      {
-        "time": "21:00",
-        "home": "Cruz Azul",
-        "away": "Atlante",
-        "channels": [
-          "TUDN",
-          "ViX Premium",
-          "Canal 5"
-        ]
-      }
-    ],
     "2026-08-02": [
       {
         "time": "17:00",
@@ -49,17 +9,19 @@
         "channels": [
           "ViX Premium",
           "TUDN",
-          "Canal 5"
+          "Canal 5",
+          "Layvtime"
         ]
       },
       {
-        "time": "19:00",
+        "time": "19:05",
         "home": "Toluca",
         "away": "Necaxa",
         "channels": [
           "TUDN",
           "ViX Premium",
-          "Canal 5"
+          "Canal 5",
+          "Layvtime"
         ]
       }
     ],
@@ -81,7 +43,8 @@
         "home": "Monterrey",
         "away": "FC Juárez",
         "channels": [
-          "ViX Premium"
+          "ViX Premium",
+          "TUDN"
         ]
       },
       {
@@ -89,7 +52,8 @@
         "home": "Atlas",
         "away": "Tigres UANL",
         "channels": [
-          "ViX Premium"
+          "ViX Premium",
+          "TUDN"
         ]
       }
     ],
@@ -107,7 +71,8 @@
         "home": "América",
         "away": "Atlético San Luis",
         "channels": [
-          "ViX Premium"
+          "ViX Premium",
+          "TUDN"
         ]
       },
       {
@@ -116,7 +81,8 @@
         "away": "Chivas Guadalajara",
         "channels": [
           "Disney+ Premium",
-          "ViX Premium"
+          "ViX Premium",
+          "TUDN"
         ]
       },
       {
@@ -149,8 +115,8 @@
     "2026-08-21": [
       {
         "time": "19:00",
-        "home": "Puebla",
-        "away": "Santos Laguna",
+        "home": "Tigres UANL",
+        "away": "Atlante",
         "channels": [
           "FOX One"
         ]
@@ -183,6 +149,14 @@
       },
       {
         "time": "19:00",
+        "home": "Puebla",
+        "away": "Santos Laguna",
+        "channels": [
+          "FOX One"
+        ]
+      },
+      {
+        "time": "19:00",
         "home": "Club León",
         "away": "Monterrey",
         "channels": [
@@ -195,14 +169,6 @@
         "away": "Atlas",
         "channels": [
           "ViX Premium"
-        ]
-      },
-      {
-        "time": "21:00",
-        "home": "Tigres UANL",
-        "away": "Atlante",
-        "channels": [
-          "FOX One"
         ]
       }
     ],
