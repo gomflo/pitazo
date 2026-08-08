@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T07:12:05.759Z",
+  "updatedAt": "2026-08-08T06:49:42.015Z",
   "matchesByDate": {
     "2026-08-15": [
       {
@@ -146,7 +146,8 @@
         "home": "Cruz Azul",
         "away": "Atlas",
         "channels": [
-          "ViX Premium"
+          "ViX Premium",
+          "TUDN"
         ]
       }
     ],
@@ -165,7 +166,8 @@
         "home": "Pumas UNAM",
         "away": "Necaxa",
         "channels": [
-          "ViX Premium"
+          "ViX Premium",
+          "TUDN"
         ]
       }
     ],
