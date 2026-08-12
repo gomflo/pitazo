@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T07:03:36.648Z",
+  "updatedAt": "2026-08-12T07:21:04.003Z",
   "matchesByDate": {
     "2026-08-15": [
       {
@@ -22,7 +22,9 @@
         "channels": [
           "ViX Premium",
           "TUDN",
-          "Canal 5"
+          "Canal 5",
+          "Layvtime",
+          "Layvtime YouTube"
         ]
       },
       {
@@ -32,7 +34,9 @@
         "channels": [
           "ViX Premium",
           "TUDN",
-          "Canal 5"
+          "Canal 5",
+          "Layvtime",
+          "Layvtime YouTube"
         ]
       }
     ],
@@ -52,7 +56,9 @@
         "channels": [
           "ViX Premium",
           "TUDN",
-          "Canal 5"
+          "Canal 5",
+          "Layvtime",
+          "Layvtime YouTube"
         ]
       },
       {
@@ -64,7 +70,9 @@
           "ViX Premium",
           "TUDN",
           "ESPN",
-          "Canal 5"
+          "Canal 5",
+          "Layvtime",
+          "Layvtime YouTube"
         ]
       },
       {
@@ -154,7 +162,9 @@
         "away": "Atlas",
         "channels": [
           "ViX Premium",
-          "TUDN"
+          "TUDN",
+          "Layvtime",
+          "Layvtime YouTube"
         ]
       }
     ],
@@ -215,7 +225,9 @@
         "home": "Atlas",
         "away": "Querétaro",
         "channels": [
-          "ViX Premium"
+          "ViX Premium",
+          "Layvtime",
+          "Layvtime YouTube"
         ]
       },
       {
@@ -231,7 +243,9 @@
         "home": "América",
         "away": "Puebla",
         "channels": [
-          "ViX Premium"
+          "ViX Premium",
+          "Layvtime",
+          "Layvtime YouTube"
         ]
       },
       {
@@ -240,7 +254,9 @@
         "away": "Tigres UANL",
         "channels": [
           "Disney+ Premium",
-          "ViX Premium"
+          "ViX Premium",
+          "Layvtime",
+          "Layvtime YouTube"
         ]
       }
     ],
@@ -258,7 +274,9 @@
         "home": "Monterrey",
         "away": "Atlético San Luis",
         "channels": [
-          "ViX Premium"
+          "ViX Premium",
+          "Layvtime",
+          "Layvtime YouTube"
         ]
       }
     ],
