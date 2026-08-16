@@ -1,45 +1,6 @@
 {
-  "updatedAt": "2026-08-15T06:34:03.532Z",
+  "updatedAt": "2026-08-16T06:35:46.665Z",
   "matchesByDate": {
-    "2026-08-15": [
-      {
-        "time": "17:00",
-        "home": "Atlante",
-        "away": "Toluca",
-        "channels": [
-          "Azteca Deportes Network",
-          "Azteca Deportes App",
-          "Disney+ Premium",
-          "aztecadeportes.com",
-          "ESPN",
-          "Azteca 7"
-        ]
-      },
-      {
-        "time": "19:10",
-        "home": "Monterrey",
-        "away": "FC Juárez",
-        "channels": [
-          "ViX Premium",
-          "TUDN",
-          "Canal 5",
-          "Layvtime",
-          "Layvtime YouTube"
-        ]
-      },
-      {
-        "time": "21:10",
-        "home": "Atlas",
-        "away": "Tigres UANL",
-        "channels": [
-          "ViX Premium",
-          "TUDN",
-          "Canal 5",
-          "Layvtime",
-          "Layvtime YouTube"
-        ]
-      }
-    ],
     "2026-08-16": [
       {
         "time": "12:00",
@@ -247,7 +208,8 @@
         "channels": [
           "ViX Premium",
           "Layvtime",
-          "Layvtime YouTube"
+          "Layvtime YouTube",
+          "TUDN"
         ]
       },
       {
@@ -258,7 +220,8 @@
           "Disney+ Premium",
           "ViX Premium",
           "Layvtime",
-          "Layvtime YouTube"
+          "Layvtime YouTube",
+          "TUDN"
         ]
       }
     ],
