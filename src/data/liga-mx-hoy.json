@@ -1,51 +1,6 @@
 {
-  "updatedAt": "2026-08-16T06:35:46.665Z",
+  "updatedAt": "2026-08-17T06:50:47.540Z",
   "matchesByDate": {
-    "2026-08-16": [
-      {
-        "time": "12:00",
-        "home": "Pumas UNAM",
-        "away": "Querétaro",
-        "channels": [
-          "ViX Premium"
-        ]
-      },
-      {
-        "time": "17:00",
-        "home": "América",
-        "away": "Atlético San Luis",
-        "channels": [
-          "ViX Premium",
-          "TUDN",
-          "Canal 5",
-          "Layvtime",
-          "Layvtime YouTube"
-        ]
-      },
-      {
-        "time": "19:10",
-        "home": "Santos Laguna",
-        "away": "Chivas Guadalajara",
-        "channels": [
-          "Disney+ Premium",
-          "ViX Premium",
-          "TUDN",
-          "ESPN",
-          "Canal 5",
-          "Layvtime",
-          "Layvtime YouTube"
-        ]
-      },
-      {
-        "time": "21:00",
-        "home": "Tijuana",
-        "away": "Cruz Azul",
-        "channels": [
-          "FOX One",
-          "FOX+"
-        ]
-      }
-    ],
     "2026-08-17": [
       {
         "time": "19:00",
@@ -57,7 +12,7 @@
         ]
       },
       {
-        "time": "21:00",
+        "time": "21:06",
         "home": "Pachuca",
         "away": "Puebla",
         "channels": [
