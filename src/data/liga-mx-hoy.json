@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T06:50:47.540Z",
+  "updatedAt": "2026-08-18T06:38:56.736Z",
   "matchesByDate": {
     "2026-08-17": [
       {
@@ -27,7 +27,9 @@
         "home": "Tigres UANL",
         "away": "Atlante",
         "channels": [
-          "FOX One"
+          "FOX One",
+          "FOX",
+          "Azteca 7"
         ]
       },
       {
@@ -35,7 +37,9 @@
         "home": "FC Juárez",
         "away": "América",
         "channels": [
-          "FOX One"
+          "FOX One",
+          "FOX",
+          "Azteca 7"
         ]
       }
     ],
@@ -45,7 +49,8 @@
         "home": "Querétaro",
         "away": "Toluca",
         "channels": [
-          "FOX One"
+          "FOX One",
+          "FOX"
         ]
       },
       {
@@ -63,7 +68,8 @@
         "channels": [
           "FOX One",
           "Disney+ Premium",
-          "ESPN"
+          "ESPN",
+          "Azteca 7"
         ]
       },
       {
@@ -117,6 +123,7 @@
           "Azteca Deportes App",
           "aztecadeportes.com",
           "Disney+ Premium",
+          "ESPN",
           "Azteca 7"
         ]
       },
@@ -176,7 +183,8 @@
           "ViX Premium",
           "Layvtime",
           "Layvtime YouTube",
-          "TUDN"
+          "TUDN",
+          "ESPN"
         ]
       }
     ],
