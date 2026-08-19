@@ -1,26 +1,6 @@
 {
-  "updatedAt": "2026-08-18T06:38:56.736Z",
+  "updatedAt": "2026-08-19T06:39:29.188Z",
   "matchesByDate": {
-    "2026-08-17": [
-      {
-        "time": "19:00",
-        "home": "Necaxa",
-        "away": "Club León",
-        "channels": [
-          "FOX One",
-          "FOX"
-        ]
-      },
-      {
-        "time": "21:06",
-        "home": "Pachuca",
-        "away": "Puebla",
-        "channels": [
-          "FOX One",
-          "FOX"
-        ]
-      }
-    ],
     "2026-08-21": [
       {
         "time": "19:00",
