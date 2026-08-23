@@ -1,41 +1,6 @@
 {
-  "updatedAt": "2026-08-22T06:35:56.412Z",
+  "updatedAt": "2026-08-23T06:37:02.331Z",
   "matchesByDate": {
-    "2026-08-22": [
-      {
-        "time": "17:07",
-        "home": "Chivas Guadalajara",
-        "away": "Tijuana",
-        "channels": [
-          "Amazon Prime Video (Míralo en vivo)"
-        ]
-      },
-      {
-        "time": "19:00",
-        "home": "Puebla",
-        "away": "Santos Laguna",
-        "channels": [
-          "FOX One",
-          "Disney+ Premium",
-          "ESPN",
-          "Azteca Deportes Network",
-          "Azteca Deportes App",
-          "Azteca 7"
-        ]
-      },
-      {
-        "time": "21:00",
-        "home": "Cruz Azul",
-        "away": "Atlas",
-        "channels": [
-          "ViX Premium",
-          "TUDN",
-          "Layvtime",
-          "Layvtime YouTube",
-          "Canal 5"
-        ]
-      }
-    ],
     "2026-08-23": [
       {
         "time": "17:00",
@@ -139,7 +104,7 @@
         "home": "Toluca",
         "away": "FC Juárez",
         "channels": [
-          "Canal por confirmar"
+          "ViX Premium"
         ]
       },
       {
@@ -194,7 +159,8 @@
         "home": "América",
         "away": "Tijuana",
         "channels": [
-          "ViX Premium"
+          "ViX Premium",
+          "TUDN"
         ]
       },
       {
@@ -210,7 +176,8 @@
         "home": "Atlas",
         "away": "Atlante",
         "channels": [
-          "ViX Premium"
+          "ViX Premium",
+          "TUDN"
         ]
       }
     ],
@@ -220,7 +187,8 @@
         "home": "Pumas UNAM",
         "away": "Club León",
         "channels": [
-          "ViX Premium"
+          "ViX Premium",
+          "TUDN"
         ]
       },
       {
@@ -228,7 +196,8 @@
         "home": "Cruz Azul",
         "away": "Santos Laguna",
         "channels": [
-          "ViX Premium"
+          "ViX Premium",
+          "TUDN"
         ]
       }
     ],
