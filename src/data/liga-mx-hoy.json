@@ -1,28 +1,6 @@
 {
-  "updatedAt": "2026-08-23T06:37:02.331Z",
+  "updatedAt": "2026-08-24T06:53:48.276Z",
   "matchesByDate": {
-    "2026-08-23": [
-      {
-        "time": "17:00",
-        "home": "Atlético San Luis",
-        "away": "Pachuca",
-        "channels": [
-          "Disney+ Premium",
-          "ViX Premium",
-          "ESPN"
-        ]
-      },
-      {
-        "time": "19:00",
-        "home": "Pumas UNAM",
-        "away": "Necaxa",
-        "channels": [
-          "ViX Premium",
-          "TUDN",
-          "Canal 5"
-        ]
-      }
-    ],
     "2026-08-28": [
       {
         "time": "19:00",
