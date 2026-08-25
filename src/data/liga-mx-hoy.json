@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T06:53:48.276Z",
+  "updatedAt": "2026-08-25T06:41:43.604Z",
   "matchesByDate": {
     "2026-08-28": [
       {
@@ -102,7 +102,9 @@
         "home": "Puebla",
         "away": "Toluca",
         "channels": [
-          "FOX One"
+          "FOX One",
+          "Disney+ Premium",
+          "ESPN"
         ]
       },
       {
@@ -129,7 +131,8 @@
         "away": "Chivas Guadalajara",
         "channels": [
           "Disney+ Premium",
-          "ViX Premium"
+          "ViX Premium",
+          "ESPN"
         ]
       },
       {
