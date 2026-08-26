@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T06:41:43.604Z",
+  "updatedAt": "2026-08-26T06:44:01.824Z",
   "matchesByDate": {
     "2026-08-28": [
       {
@@ -20,7 +20,8 @@
         "home": "Necaxa",
         "away": "Cruz Azul",
         "channels": [
-          "FOX One"
+          "FOX One",
+          "FOX+"
         ]
       },
       {
@@ -28,7 +29,8 @@
         "home": "Tijuana",
         "away": "Pumas UNAM",
         "channels": [
-          "FOX One"
+          "FOX One",
+          "FOX+"
         ]
       }
     ],
@@ -48,7 +50,8 @@
         "home": "Pachuca",
         "away": "Chivas Guadalajara",
         "channels": [
-          "FOX One"
+          "FOX One",
+          "FOX"
         ]
       },
       {
@@ -59,7 +62,8 @@
           "ViX Premium",
           "Layvtime",
           "Layvtime YouTube",
-          "TUDN"
+          "TUDN",
+          "Canal 5"
         ]
       },
       {
@@ -72,7 +76,8 @@
           "Layvtime",
           "Layvtime YouTube",
           "TUDN",
-          "ESPN"
+          "ESPN",
+          "Canal 5"
         ]
       }
     ],
