@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T06:44:01.824Z",
+  "updatedAt": "2026-08-27T17:19:56.290Z",
   "matchesByDate": {
     "2026-08-28": [
       {
@@ -7,12 +7,8 @@
         "home": "Atlante",
         "away": "Club León",
         "channels": [
-          "Azteca Deportes Network",
-          "Azteca Deportes App",
-          "aztecadeportes.com",
           "Disney+ Premium",
-          "ESPN",
-          "Azteca 7"
+          "ESPN"
         ]
       },
       {
@@ -25,7 +21,7 @@
         ]
       },
       {
-        "time": "21:00",
+        "time": "21:10",
         "home": "Tijuana",
         "away": "Pumas UNAM",
         "channels": [
@@ -55,7 +51,7 @@
         ]
       },
       {
-        "time": "19:00",
+        "time": "19:05",
         "home": "América",
         "away": "Puebla",
         "channels": [
@@ -67,7 +63,7 @@
         ]
       },
       {
-        "time": "21:00",
+        "time": "21:10",
         "home": "Santos Laguna",
         "away": "Tigres UANL",
         "channels": [
@@ -91,7 +87,7 @@
         ]
       },
       {
-        "time": "20:00",
+        "time": "20:10",
         "home": "Monterrey",
         "away": "Atlético San Luis",
         "channels": [
