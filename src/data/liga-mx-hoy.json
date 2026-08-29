@@ -1,35 +1,6 @@
 {
-  "updatedAt": "2026-08-28T18:12:30.963Z",
+  "updatedAt": "2026-08-29T12:18:09.822Z",
   "matchesByDate": {
-    "2026-08-28": [
-      {
-        "time": "19:00",
-        "home": "Atlante",
-        "away": "Club León",
-        "channels": [
-          "Disney+ Premium",
-          "ESPN"
-        ]
-      },
-      {
-        "time": "19:00",
-        "home": "Necaxa",
-        "away": "Cruz Azul",
-        "channels": [
-          "FOX One",
-          "FOX+"
-        ]
-      },
-      {
-        "time": "21:10",
-        "home": "Tijuana",
-        "away": "Pumas UNAM",
-        "channels": [
-          "FOX One",
-          "FOX+"
-        ]
-      }
-    ],
     "2026-08-29": [
       {
         "time": "17:00",
@@ -83,7 +54,9 @@
         "home": "Toluca",
         "away": "FC Juárez",
         "channels": [
-          "ViX Premium"
+          "ViX Premium",
+          "Azteca Deportes Network",
+          "Azteca Deportes App"
         ]
       },
       {
