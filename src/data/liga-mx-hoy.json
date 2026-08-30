@@ -1,53 +1,6 @@
 {
-  "updatedAt": "2026-08-29T12:18:09.822Z",
+  "updatedAt": "2026-08-30T11:16:35.855Z",
   "matchesByDate": {
-    "2026-08-29": [
-      {
-        "time": "17:00",
-        "home": "Atlas",
-        "away": "Querétaro",
-        "channels": [
-          "ViX Premium",
-          "Layvtime",
-          "Layvtime YouTube"
-        ]
-      },
-      {
-        "time": "17:00",
-        "home": "Pachuca",
-        "away": "Chivas Guadalajara",
-        "channels": [
-          "FOX One",
-          "FOX"
-        ]
-      },
-      {
-        "time": "19:05",
-        "home": "América",
-        "away": "Puebla",
-        "channels": [
-          "ViX Premium",
-          "Layvtime",
-          "Layvtime YouTube",
-          "TUDN",
-          "Canal 5"
-        ]
-      },
-      {
-        "time": "21:10",
-        "home": "Santos Laguna",
-        "away": "Tigres UANL",
-        "channels": [
-          "Disney+ Premium",
-          "ViX Premium",
-          "Layvtime",
-          "Layvtime YouTube",
-          "TUDN",
-          "ESPN",
-          "Canal 5"
-        ]
-      }
-    ],
     "2026-08-30": [
       {
         "time": "18:00",
@@ -170,7 +123,8 @@
         "home": "Cruz Azul",
         "away": "América",
         "channels": [
-          "ViX Premium"
+          "ViX Premium",
+          "TUDN"
         ]
       },
       {
@@ -235,7 +189,8 @@
         "home": "Monterrey",
         "away": "Tigres UANL",
         "channels": [
-          "ViX Premium"
+          "ViX Premium",
+          "TUDN"
         ]
       }
     ],
