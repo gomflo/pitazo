@@ -1,28 +1,6 @@
 {
-  "updatedAt": "2026-08-30T11:16:35.855Z",
+  "updatedAt": "2026-08-31T12:43:45.777Z",
   "matchesByDate": {
-    "2026-08-30": [
-      {
-        "time": "18:00",
-        "home": "Toluca",
-        "away": "FC Juárez",
-        "channels": [
-          "ViX Premium",
-          "Azteca Deportes Network",
-          "Azteca Deportes App"
-        ]
-      },
-      {
-        "time": "20:10",
-        "home": "Monterrey",
-        "away": "Atlético San Luis",
-        "channels": [
-          "ViX Premium",
-          "Layvtime",
-          "Layvtime YouTube"
-        ]
-      }
-    ],
     "2026-09-04": [
       {
         "time": "19:00",
