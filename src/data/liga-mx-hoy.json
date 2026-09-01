@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T12:43:45.777Z",
+  "updatedAt": "2026-09-01T11:07:10.351Z",
   "matchesByDate": {
     "2026-09-04": [
       {
@@ -9,7 +9,8 @@
         "channels": [
           "FOX One",
           "Disney+ Premium",
-          "ESPN"
+          "ESPN",
+          "FOX+"
         ]
       },
       {
@@ -17,7 +18,8 @@
         "home": "FC Juárez",
         "away": "Pachuca",
         "channels": [
-          "FOX One"
+          "FOX One",
+          "FOX"
         ]
       }
     ],
@@ -27,7 +29,8 @@
         "home": "Querétaro",
         "away": "Monterrey",
         "channels": [
-          "FOX One"
+          "FOX One",
+          "FOX+"
         ]
       },
       {
@@ -54,7 +57,8 @@
         "home": "Tigres UANL",
         "away": "Necaxa",
         "channels": [
-          "FOX One"
+          "FOX One",
+          "FOX"
         ]
       },
       {
@@ -142,6 +146,15 @@
         "channels": [
           "FOX One"
         ]
+      },
+      {
+        "time": "19:00",
+        "home": "Monterrey",
+        "away": "Tigres UANL",
+        "channels": [
+          "ViX Premium",
+          "TUDN"
+        ]
       }
     ],
     "2026-09-13": [
@@ -160,15 +173,6 @@
         "away": "Pumas UNAM",
         "channels": [
           "Amazon Prime Video (Míralo en vivo)"
-        ]
-      },
-      {
-        "time": "20:00",
-        "home": "Monterrey",
-        "away": "Tigres UANL",
-        "channels": [
-          "ViX Premium",
-          "TUDN"
         ]
       }
     ],
