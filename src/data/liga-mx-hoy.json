@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T11:07:10.351Z",
+  "updatedAt": "2026-09-02T10:39:27.319Z",
   "matchesByDate": {
     "2026-09-04": [
       {
@@ -7,10 +7,8 @@
         "home": "Puebla",
         "away": "Toluca",
         "channels": [
-          "FOX One",
           "Disney+ Premium",
-          "ESPN",
-          "FOX+"
+          "ESPN"
         ]
       },
       {
