@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T10:39:27.319Z",
+  "updatedAt": "2026-09-03T10:41:27.168Z",
   "matchesByDate": {
     "2026-09-04": [
       {
@@ -47,7 +47,8 @@
         "away": "Tijuana",
         "channels": [
           "ViX Premium",
-          "TUDN"
+          "TUDN",
+          "Canal 5"
         ]
       },
       {
@@ -65,7 +66,8 @@
         "away": "Atlante",
         "channels": [
           "ViX Premium",
-          "TUDN"
+          "TUDN",
+          "Canal 5"
         ]
       }
     ],
@@ -85,7 +87,8 @@
         "away": "Santos Laguna",
         "channels": [
           "ViX Premium",
-          "TUDN"
+          "TUDN",
+          "Canal 5"
         ]
       }
     ],
