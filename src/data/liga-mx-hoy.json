@@ -1,36 +1,19 @@
 {
-  "updatedAt": "2026-09-03T10:41:27.168Z",
+  "updatedAt": "2026-09-04T10:36:58.675Z",
   "matchesByDate": {
     "2026-09-04": [
-      {
-        "time": "19:00",
-        "home": "Puebla",
-        "away": "Toluca",
-        "channels": [
-          "Disney+ Premium",
-          "ESPN"
-        ]
-      },
       {
         "time": "21:00",
         "home": "FC Juárez",
         "away": "Pachuca",
         "channels": [
           "FOX One",
-          "FOX"
+          "FOX",
+          "Azteca 7"
         ]
       }
     ],
     "2026-09-05": [
-      {
-        "time": "17:00",
-        "home": "Querétaro",
-        "away": "Monterrey",
-        "channels": [
-          "FOX One",
-          "FOX+"
-        ]
-      },
       {
         "time": "17:00",
         "home": "Atlético San Luis",
@@ -43,21 +26,12 @@
       },
       {
         "time": "19:00",
-        "home": "América",
-        "away": "Tijuana",
-        "channels": [
-          "ViX Premium",
-          "TUDN",
-          "Canal 5"
-        ]
-      },
-      {
-        "time": "19:00",
         "home": "Tigres UANL",
         "away": "Necaxa",
         "channels": [
           "FOX One",
-          "FOX"
+          "FOX",
+          "Azteca 7"
         ]
       },
       {
@@ -67,49 +41,38 @@
         "channels": [
           "ViX Premium",
           "TUDN",
-          "Canal 5"
+          "Canal 5",
+          "Layvtime",
+          "Layvtime YouTube"
         ]
       }
     ],
     "2026-09-06": [
       {
-        "time": "12:00",
+        "time": "17:00",
+        "home": "Cruz Azul",
+        "away": "Santos Laguna",
+        "channels": [
+          "ViX Premium",
+          "TUDN",
+          "Canal 5",
+          "Layvtime",
+          "Layvtime YouTube"
+        ]
+      }
+    ],
+    "2026-09-10": [
+      {
+        "time": "21:00",
         "home": "Pumas UNAM",
         "away": "Club León",
         "channels": [
           "ViX Premium",
           "TUDN"
         ]
-      },
-      {
-        "time": "20:00",
-        "home": "Cruz Azul",
-        "away": "Santos Laguna",
-        "channels": [
-          "ViX Premium",
-          "TUDN",
-          "Canal 5"
-        ]
       }
     ],
     "2026-09-11": [
-      {
-        "time": "18:00",
-        "home": "Toluca",
-        "away": "Atlas",
-        "channels": [
-          "Canal por confirmar"
-        ]
-      },
-      {
-        "time": "18:00",
-        "home": "Cruz Azul",
-        "away": "América",
-        "channels": [
-          "ViX Premium",
-          "TUDN"
-        ]
-      },
       {
         "time": "19:00",
         "home": "Necaxa",
@@ -135,6 +98,7 @@
           "Azteca Deportes App",
           "aztecadeportes.com",
           "Disney+ Premium",
+          "ESPN 2",
           "Azteca 7"
         ]
       }
@@ -142,16 +106,27 @@
     "2026-09-12": [
       {
         "time": "17:00",
-        "home": "Club León",
-        "away": "Atlético San Luis",
+        "home": "Toluca",
+        "away": "Atlas",
         "channels": [
-          "FOX One"
+          "Canal por confirmar"
         ]
       },
       {
         "time": "19:00",
         "home": "Monterrey",
         "away": "Tigres UANL",
+        "channels": [
+          "ViX Premium",
+          "TUDN",
+          "Layvtime",
+          "Layvtime YouTube"
+        ]
+      },
+      {
+        "time": "21:00",
+        "home": "Cruz Azul",
+        "away": "América",
         "channels": [
           "ViX Premium",
           "TUDN"
@@ -165,15 +140,39 @@
         "away": "FC Juárez",
         "channels": [
           "Disney+ Premium",
-          "ViX Premium"
+          "ViX Premium",
+          "ESPN",
+          "Layvtime",
+          "Layvtime YouTube"
         ]
       },
       {
-        "time": "18:07",
+        "time": "19:07",
         "home": "Chivas Guadalajara",
         "away": "Pumas UNAM",
         "channels": [
           "Amazon Prime Video (Míralo en vivo)"
+        ]
+      }
+    ],
+    "2026-09-14": [
+      {
+        "time": "19:00",
+        "home": "Club León",
+        "away": "Atlético San Luis",
+        "channels": [
+          "FOX One"
+        ]
+      }
+    ],
+    "2026-09-15": [
+      {
+        "time": "19:00",
+        "home": "Puebla",
+        "away": "Toluca",
+        "channels": [
+          "Disney+ Premium",
+          "ESPN"
         ]
       }
     ],
@@ -201,7 +200,9 @@
         "home": "Atlas",
         "away": "Pumas UNAM",
         "channels": [
-          "ViX Premium"
+          "ViX Premium",
+          "Layvtime",
+          "Layvtime YouTube"
         ]
       },
       {
@@ -218,7 +219,9 @@
         "home": "Monterrey",
         "away": "Cruz Azul",
         "channels": [
-          "ViX Premium"
+          "ViX Premium",
+          "Layvtime",
+          "Layvtime YouTube"
         ]
       },
       {
@@ -226,7 +229,9 @@
         "home": "América",
         "away": "Chivas Guadalajara",
         "channels": [
-          "ViX Premium"
+          "ViX Premium",
+          "Layvtime",
+          "Layvtime YouTube"
         ]
       }
     ],
@@ -280,6 +285,16 @@
     ],
     "2026-09-26": [
       {
+        "time": "17:00",
+        "home": "Cruz Azul",
+        "away": "Toluca",
+        "channels": [
+          "ViX Premium",
+          "Layvtime",
+          "Layvtime YouTube"
+        ]
+      },
+      {
         "time": "17:07",
         "home": "Chivas Guadalajara",
         "away": "Querétaro",
@@ -293,7 +308,9 @@
         "away": "Pachuca",
         "channels": [
           "Disney+ Premium",
-          "ViX Premium"
+          "ViX Premium",
+          "Layvtime",
+          "Layvtime YouTube"
         ]
       },
       {
@@ -302,14 +319,6 @@
         "away": "Puebla",
         "channels": [
           "FOX One"
-        ]
-      },
-      {
-        "time": "21:00",
-        "home": "Cruz Azul",
-        "away": "Toluca",
-        "channels": [
-          "ViX Premium"
         ]
       }
     ],
@@ -450,19 +459,19 @@
     "2026-10-17": [
       {
         "time": "17:00",
-        "home": "Chivas Guadalajara",
-        "away": "Tigres UANL",
-        "channels": [
-          "Amazon Prime Video (Míralo en vivo)"
-        ]
-      },
-      {
-        "time": "17:00",
         "home": "Santos Laguna",
         "away": "Querétaro",
         "channels": [
           "Disney+ Premium",
           "ViX Premium"
+        ]
+      },
+      {
+        "time": "17:07",
+        "home": "Chivas Guadalajara",
+        "away": "Tigres UANL",
+        "channels": [
+          "Amazon Prime Video (Míralo en vivo)"
         ]
       },
       {
@@ -502,6 +511,14 @@
     ],
     "2026-10-20": [
       {
+        "time": "18:07",
+        "home": "Chivas Guadalajara",
+        "away": "Necaxa",
+        "channels": [
+          "Amazon Prime Video (Míralo en vivo)"
+        ]
+      },
+      {
         "time": "19:00",
         "home": "Atlético San Luis",
         "away": "Querétaro",
@@ -516,14 +533,6 @@
         "away": "Atlante",
         "channels": [
           "FOX One"
-        ]
-      },
-      {
-        "time": "21:00",
-        "home": "Chivas Guadalajara",
-        "away": "Necaxa",
-        "channels": [
-          "Amazon Prime Video (Míralo en vivo)"
         ]
       },
       {
@@ -659,6 +668,18 @@
         ]
       }
     ],
+    "2026-10-28": [
+      {
+        "time": "20:00",
+        "home": "América",
+        "away": "Tijuana",
+        "channels": [
+          "ViX Premium",
+          "TUDN",
+          "Canal 5"
+        ]
+      }
+    ],
     "2026-10-30": [
       {
         "time": "18:00",
@@ -704,7 +725,7 @@
         ]
       },
       {
-        "time": "18:00",
+        "time": "18:07",
         "home": "Chivas Guadalajara",
         "away": "Atlante",
         "channels": [
@@ -813,11 +834,22 @@
         ]
       },
       {
-        "time": "18:00",
+        "time": "19:00",
         "home": "Club León",
         "away": "Chivas Guadalajara",
         "channels": [
           "FOX One"
+        ]
+      }
+    ],
+    "2026-11-14": [
+      {
+        "time": "16:00",
+        "home": "Querétaro",
+        "away": "Monterrey",
+        "channels": [
+          "FOX One",
+          "FOX+"
         ]
       }
     ],
@@ -884,7 +916,7 @@
     ],
     "2026-11-22": [
       {
-        "time": "16:00",
+        "time": "16:07",
         "home": "Chivas Guadalajara",
         "away": "Cruz Azul",
         "channels": [
