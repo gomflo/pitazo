@@ -1,40 +1,6 @@
 {
-  "updatedAt": "2026-09-05T09:58:28.555Z",
+  "updatedAt": "2026-09-06T10:16:33.188Z",
   "matchesByDate": {
-    "2026-09-05": [
-      {
-        "time": "17:00",
-        "home": "Atlético San Luis",
-        "away": "Chivas Guadalajara",
-        "channels": [
-          "Disney+ Premium",
-          "ViX Premium",
-          "ESPN"
-        ]
-      },
-      {
-        "time": "19:00",
-        "home": "Tigres UANL",
-        "away": "Necaxa",
-        "channels": [
-          "FOX One",
-          "FOX",
-          "Azteca 7"
-        ]
-      },
-      {
-        "time": "21:00",
-        "home": "Atlas",
-        "away": "Atlante",
-        "channels": [
-          "ViX Premium",
-          "TUDN",
-          "Canal 5",
-          "Layvtime",
-          "Layvtime YouTube"
-        ]
-      }
-    ],
     "2026-09-06": [
       {
         "time": "17:00",
@@ -55,8 +21,7 @@
         "home": "Pumas UNAM",
         "away": "Club León",
         "channels": [
-          "ViX Premium",
-          "TUDN"
+          "ViX Premium"
         ]
       }
     ],
@@ -97,7 +62,7 @@
         "home": "Toluca",
         "away": "Atlas",
         "channels": [
-          "Canal por confirmar"
+          "TUDN"
         ]
       },
       {
@@ -190,7 +155,8 @@
         "channels": [
           "ViX Premium",
           "Layvtime",
-          "Layvtime YouTube"
+          "Layvtime YouTube",
+          "TUDN"
         ]
       },
       {
@@ -209,7 +175,8 @@
         "channels": [
           "ViX Premium",
           "Layvtime",
-          "Layvtime YouTube"
+          "Layvtime YouTube",
+          "TUDN"
         ]
       },
       {
@@ -219,7 +186,8 @@
         "channels": [
           "ViX Premium",
           "Layvtime",
-          "Layvtime YouTube"
+          "Layvtime YouTube",
+          "TUDN"
         ]
       }
     ],
