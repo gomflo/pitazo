@@ -1,20 +1,6 @@
 {
-  "updatedAt": "2026-09-06T10:16:33.188Z",
+  "updatedAt": "2026-09-07T11:36:37.807Z",
   "matchesByDate": {
-    "2026-09-06": [
-      {
-        "time": "17:00",
-        "home": "Cruz Azul",
-        "away": "Santos Laguna",
-        "channels": [
-          "ViX Premium",
-          "TUDN",
-          "Canal 5",
-          "Layvtime",
-          "Layvtime YouTube"
-        ]
-      }
-    ],
     "2026-09-10": [
       {
         "time": "21:00",
@@ -135,7 +121,9 @@
         "home": "Puebla",
         "away": "Atlante",
         "channels": [
-          "FOX One"
+          "FOX One",
+          "ESPN",
+          "Disney+ Premium"
         ]
       },
       {
@@ -165,7 +153,8 @@
         "away": "Necaxa",
         "channels": [
           "Disney+ Premium",
-          "ViX Premium"
+          "ViX Premium",
+          "ESPN"
         ]
       },
       {
