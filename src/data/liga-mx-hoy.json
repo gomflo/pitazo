@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T10:46:39.094Z",
+  "updatedAt": "2026-09-10T10:38:17.771Z",
   "matchesByDate": {
     "2026-09-10": [
       {
@@ -50,7 +50,8 @@
         "home": "Toluca",
         "away": "Atlas",
         "channels": [
-          "TUDN"
+          "TUDN",
+          "Canal 5"
         ]
       },
       {
@@ -61,7 +62,8 @@
           "ViX Premium",
           "TUDN",
           "Layvtime",
-          "Layvtime YouTube"
+          "Layvtime YouTube",
+          "Canal 5"
         ]
       },
       {
@@ -70,7 +72,8 @@
         "away": "América",
         "channels": [
           "ViX Premium",
-          "TUDN"
+          "TUDN",
+          "Canal 5"
         ]
       }
     ],
