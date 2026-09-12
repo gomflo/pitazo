@@ -1,39 +1,6 @@
 {
-  "updatedAt": "2026-09-11T10:37:41.037Z",
+  "updatedAt": "2026-09-12T10:06:43.821Z",
   "matchesByDate": {
-    "2026-09-11": [
-      {
-        "time": "19:00",
-        "home": "Necaxa",
-        "away": "Puebla",
-        "channels": [
-          "FOX One",
-          "FOX"
-        ]
-      },
-      {
-        "time": "21:00",
-        "home": "Tijuana",
-        "away": "Querétaro",
-        "channels": [
-          "FOX One",
-          "FOX"
-        ]
-      },
-      {
-        "time": "21:00",
-        "home": "Atlante",
-        "away": "Pachuca",
-        "channels": [
-          "Azteca Deportes Network",
-          "Azteca Deportes App",
-          "aztecadeportes.com",
-          "Disney+ Premium",
-          "ESPN 2",
-          "Azteca 7"
-        ]
-      }
-    ],
     "2026-09-12": [
       {
         "time": "17:00",
@@ -64,13 +31,15 @@
         "channels": [
           "ViX Premium",
           "TUDN",
-          "Canal 5"
+          "Canal 5",
+          "Layvtime YouTube",
+          "Layvtime"
         ]
       }
     ],
     "2026-09-13": [
       {
-        "time": "18:00",
+        "time": "19:00",
         "home": "Santos Laguna",
         "away": "FC Juárez",
         "channels": [
@@ -671,7 +640,7 @@
         ]
       },
       {
-        "time": "18:07",
+        "time": "18:00",
         "home": "Chivas Guadalajara",
         "away": "Atlante",
         "channels": [
@@ -780,7 +749,7 @@
         ]
       },
       {
-        "time": "19:00",
+        "time": "18:00",
         "home": "Club León",
         "away": "Chivas Guadalajara",
         "channels": [
@@ -862,7 +831,7 @@
     ],
     "2026-11-22": [
       {
-        "time": "16:07",
+        "time": "16:00",
         "home": "Chivas Guadalajara",
         "away": "Cruz Azul",
         "channels": [
