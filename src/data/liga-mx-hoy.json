@@ -1,17 +1,6 @@
 {
-  "updatedAt": "2026-09-14T11:50:10.961Z",
+  "updatedAt": "2026-09-15T11:06:05.587Z",
   "matchesByDate": {
-    "2026-09-14": [
-      {
-        "time": "19:00",
-        "home": "Club León",
-        "away": "Atlético San Luis",
-        "channels": [
-          "FOX One",
-          "FOX"
-        ]
-      }
-    ],
     "2026-09-15": [
       {
         "time": "19:00",
@@ -34,6 +23,7 @@
           "Disney+ Premium",
           "Azteca Deportes Network",
           "Azteca Deportes App",
+          "FOX+",
           "Azteca 7"
         ]
       },
@@ -45,6 +35,7 @@
           "FOX One",
           "Azteca Deportes Network",
           "Azteca Deportes App",
+          "FOX+",
           "Azteca 7"
         ]
       }
@@ -108,7 +99,8 @@
         "home": "Pachuca",
         "away": "Tijuana",
         "channels": [
-          "FOX One"
+          "FOX One",
+          "FOX"
         ]
       },
       {
@@ -116,7 +108,8 @@
         "home": "Querétaro",
         "away": "Club León",
         "channels": [
-          "FOX One"
+          "FOX One",
+          "FOX"
         ]
       }
     ],
