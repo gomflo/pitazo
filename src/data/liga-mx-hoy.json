@@ -1,29 +1,16 @@
 {
-  "updatedAt": "2026-09-15T11:06:05.587Z",
+  "updatedAt": "2026-09-16T10:51:39.518Z",
   "matchesByDate": {
-    "2026-09-15": [
-      {
-        "time": "19:00",
-        "home": "Puebla",
-        "away": "Toluca",
-        "channels": [
-          "Disney+ Premium",
-          "ESPN"
-        ]
-      }
-    ],
     "2026-09-18": [
       {
         "time": "19:00",
         "home": "Puebla",
         "away": "Atlante",
         "channels": [
-          "FOX One",
           "ESPN",
           "Disney+ Premium",
           "Azteca Deportes Network",
           "Azteca Deportes App",
-          "FOX+",
           "Azteca 7"
         ]
       },
@@ -35,7 +22,7 @@
           "FOX One",
           "Azteca Deportes Network",
           "Azteca Deportes App",
-          "FOX+",
+          "FOX",
           "Azteca 7"
         ]
       }
@@ -49,7 +36,8 @@
           "ViX Premium",
           "Layvtime",
           "Layvtime YouTube",
-          "TUDN"
+          "TUDN",
+          "Canal 5"
         ]
       },
       {
@@ -70,7 +58,8 @@
           "ViX Premium",
           "Layvtime",
           "Layvtime YouTube",
-          "TUDN"
+          "TUDN",
+          "Canal 5"
         ]
       },
       {
@@ -81,19 +70,12 @@
           "ViX Premium",
           "Layvtime",
           "Layvtime YouTube",
-          "TUDN"
+          "TUDN",
+          "Canal 5"
         ]
       }
     ],
     "2026-09-20": [
-      {
-        "time": "18:00",
-        "home": "Toluca",
-        "away": "Santos Laguna",
-        "channels": [
-          "Canal por confirmar"
-        ]
-      },
       {
         "time": "18:00",
         "home": "Pachuca",
@@ -206,14 +188,6 @@
         "time": "19:00",
         "home": "Querétaro",
         "away": "Atlante",
-        "channels": [
-          "FOX One"
-        ]
-      },
-      {
-        "time": "19:00",
-        "home": "Puebla",
-        "away": "Club León",
         "channels": [
           "FOX One"
         ]
@@ -415,14 +389,6 @@
         ]
       },
       {
-        "time": "19:00",
-        "home": "Puebla",
-        "away": "Monterrey",
-        "channels": [
-          "FOX One"
-        ]
-      },
-      {
         "time": "21:00",
         "home": "Santos Laguna",
         "away": "Pumas UNAM",
@@ -547,14 +513,6 @@
         "time": "18:00",
         "home": "FC Juárez",
         "away": "Querétaro",
-        "channels": [
-          "FOX One"
-        ]
-      },
-      {
-        "time": "20:00",
-        "home": "Puebla",
-        "away": "Pumas UNAM",
         "channels": [
           "FOX One"
         ]
@@ -707,14 +665,6 @@
       }
     ],
     "2026-11-20": [
-      {
-        "time": "18:00",
-        "home": "Puebla",
-        "away": "Atlético San Luis",
-        "channels": [
-          "FOX One"
-        ]
-      },
       {
         "time": "20:00",
         "home": "Tijuana",
