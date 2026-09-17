@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T10:51:39.518Z",
+  "updatedAt": "2026-09-17T10:58:54.345Z",
   "matchesByDate": {
     "2026-09-18": [
       {
@@ -51,7 +51,7 @@
         ]
       },
       {
-        "time": "19:00",
+        "time": "19:10",
         "home": "Monterrey",
         "away": "Cruz Azul",
         "channels": [
@@ -63,7 +63,7 @@
         ]
       },
       {
-        "time": "21:00",
+        "time": "21:15",
         "home": "América",
         "away": "Chivas Guadalajara",
         "channels": [
@@ -86,7 +86,7 @@
         ]
       },
       {
-        "time": "20:00",
+        "time": "20:05",
         "home": "Querétaro",
         "away": "Club León",
         "channels": [
@@ -536,7 +536,7 @@
         ]
       },
       {
-        "time": "18:00",
+        "time": "18:07",
         "home": "Chivas Guadalajara",
         "away": "Atlante",
         "channels": [
@@ -645,7 +645,7 @@
         ]
       },
       {
-        "time": "18:00",
+        "time": "19:00",
         "home": "Club León",
         "away": "Chivas Guadalajara",
         "channels": [
@@ -719,7 +719,7 @@
     ],
     "2026-11-22": [
       {
-        "time": "16:00",
+        "time": "16:07",
         "home": "Chivas Guadalajara",
         "away": "Cruz Azul",
         "channels": [
