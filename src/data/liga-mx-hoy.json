@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T10:58:54.345Z",
+  "updatedAt": "2026-09-18T10:35:28.909Z",
   "matchesByDate": {
     "2026-09-18": [
       {
@@ -78,6 +78,14 @@
     "2026-09-20": [
       {
         "time": "18:00",
+        "home": "Toluca",
+        "away": "Santos Laguna",
+        "channels": [
+          "ViX Premium"
+        ]
+      },
+      {
+        "time": "18:00",
         "home": "Pachuca",
         "away": "Tijuana",
         "channels": [
@@ -105,6 +113,7 @@
           "Azteca Deportes App",
           "aztecadeportes.com",
           "Disney+ Premium",
+          "ESPN",
           "Azteca 7"
         ]
       },
@@ -145,7 +154,8 @@
           "Disney+ Premium",
           "ViX Premium",
           "Layvtime",
-          "Layvtime YouTube"
+          "Layvtime YouTube",
+          "ESPN"
         ]
       },
       {
