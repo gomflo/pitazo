@@ -1,32 +1,6 @@
 {
-  "updatedAt": "2026-09-18T10:35:28.909Z",
+  "updatedAt": "2026-09-19T10:19:55.980Z",
   "matchesByDate": {
-    "2026-09-18": [
-      {
-        "time": "19:00",
-        "home": "Puebla",
-        "away": "Atlante",
-        "channels": [
-          "ESPN",
-          "Disney+ Premium",
-          "Azteca Deportes Network",
-          "Azteca Deportes App",
-          "Azteca 7"
-        ]
-      },
-      {
-        "time": "21:00",
-        "home": "FC Juárez",
-        "away": "Tigres UANL",
-        "channels": [
-          "FOX One",
-          "Azteca Deportes Network",
-          "Azteca Deportes App",
-          "FOX",
-          "Azteca 7"
-        ]
-      }
-    ],
     "2026-09-19": [
       {
         "time": "17:00",
@@ -143,7 +117,8 @@
         "home": "Chivas Guadalajara",
         "away": "Querétaro",
         "channels": [
-          "Amazon Prime Video (Míralo en vivo)"
+          "Amazon Prime Video (Míralo en vivo)",
+          "FOX One"
         ]
       },
       {
