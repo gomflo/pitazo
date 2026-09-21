@@ -1,34 +1,6 @@
 {
-  "updatedAt": "2026-09-20T10:38:52.015Z",
+  "updatedAt": "2026-09-21T12:01:49.095Z",
   "matchesByDate": {
-    "2026-09-20": [
-      {
-        "time": "18:00",
-        "home": "Toluca",
-        "away": "Santos Laguna",
-        "channels": [
-          "ViX Premium"
-        ]
-      },
-      {
-        "time": "18:00",
-        "home": "Pachuca",
-        "away": "Tijuana",
-        "channels": [
-          "FOX One",
-          "FOX"
-        ]
-      },
-      {
-        "time": "20:05",
-        "home": "Querétaro",
-        "away": "Club León",
-        "channels": [
-          "FOX One",
-          "FOX"
-        ]
-      }
-    ],
     "2026-09-25": [
       {
         "time": "19:00",
@@ -48,7 +20,8 @@
         "home": "Tijuana",
         "away": "Atlas",
         "channels": [
-          "FOX One"
+          "FOX One",
+          "FOX"
         ]
       }
     ],
@@ -70,7 +43,8 @@
         "away": "Querétaro",
         "channels": [
           "Amazon Prime Video (Míralo en vivo)",
-          "FOX One"
+          "FOX One",
+          "FOX+"
         ]
       },
       {
@@ -90,7 +64,9 @@
         "home": "Tigres UANL",
         "away": "Puebla",
         "channels": [
-          "FOX One"
+          "FOX One",
+          "FOX",
+          "Azteca 7"
         ]
       }
     ],
@@ -108,7 +84,8 @@
         "home": "Club León",
         "away": "FC Juárez",
         "channels": [
-          "FOX One"
+          "FOX One",
+          "FOX+"
         ]
       },
       {
@@ -116,7 +93,8 @@
         "home": "Necaxa",
         "away": "América",
         "channels": [
-          "FOX One"
+          "FOX One",
+          "FOX+"
         ]
       }
     ],
