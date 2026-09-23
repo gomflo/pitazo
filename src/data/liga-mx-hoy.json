@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T10:58:45.540Z",
+  "updatedAt": "2026-09-23T10:47:25.280Z",
   "matchesByDate": {
     "2026-09-25": [
       {
@@ -7,12 +7,9 @@
         "home": "Atlante",
         "away": "Monterrey",
         "channels": [
-          "Azteca Deportes Network",
-          "Azteca Deportes App",
           "aztecadeportes.com",
           "Disney+ Premium",
-          "ESPN",
-          "Azteca 7"
+          "ESPN"
         ]
       },
       {
@@ -34,7 +31,8 @@
           "ViX Premium",
           "Layvtime",
           "Layvtime YouTube",
-          "TUDN"
+          "TUDN",
+          "Canal 5"
         ]
       },
       {
@@ -43,8 +41,7 @@
         "away": "Querétaro",
         "channels": [
           "Amazon Prime Video (Míralo en vivo)",
-          "FOX One",
-          "FOX+"
+          "FOX One"
         ]
       },
       {
