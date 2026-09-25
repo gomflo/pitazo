@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T11:07:51.596Z",
+  "updatedAt": "2026-09-25T11:10:48.942Z",
   "matchesByDate": {
     "2026-09-25": [
       {
@@ -46,6 +46,16 @@
       },
       {
         "time": "19:00",
+        "home": "Tigres UANL",
+        "away": "Puebla",
+        "channels": [
+          "FOX One",
+          "FOX",
+          "Azteca 7"
+        ]
+      },
+      {
+        "time": "21:05",
         "home": "Santos Laguna",
         "away": "Pachuca",
         "channels": [
@@ -54,16 +64,6 @@
           "Layvtime",
           "Layvtime YouTube",
           "ESPN"
-        ]
-      },
-      {
-        "time": "19:00",
-        "home": "Tigres UANL",
-        "away": "Puebla",
-        "channels": [
-          "FOX One",
-          "FOX",
-          "Azteca 7"
         ]
       }
     ],
