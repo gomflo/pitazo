@@ -1,30 +1,9 @@
 {
-  "updatedAt": "2026-09-25T11:10:48.942Z",
+  "updatedAt": "2026-09-26T10:50:06.551Z",
   "matchesByDate": {
-    "2026-09-25": [
-      {
-        "time": "19:00",
-        "home": "Atlante",
-        "away": "Monterrey",
-        "channels": [
-          "aztecadeportes.com",
-          "Disney+ Premium",
-          "ESPN"
-        ]
-      },
-      {
-        "time": "21:00",
-        "home": "Tijuana",
-        "away": "Atlas",
-        "channels": [
-          "FOX One",
-          "FOX"
-        ]
-      }
-    ],
     "2026-09-26": [
       {
-        "time": "17:00",
+        "time": "16:50",
         "home": "Cruz Azul",
         "away": "Toluca",
         "channels": [
@@ -45,16 +24,6 @@
         ]
       },
       {
-        "time": "19:00",
-        "home": "Tigres UANL",
-        "away": "Puebla",
-        "channels": [
-          "FOX One",
-          "FOX",
-          "Azteca 7"
-        ]
-      },
-      {
         "time": "21:05",
         "home": "Santos Laguna",
         "away": "Pachuca",
@@ -64,6 +33,16 @@
           "Layvtime",
           "Layvtime YouTube",
           "ESPN"
+        ]
+      },
+      {
+        "time": "21:10",
+        "home": "Tigres UANL",
+        "away": "Puebla",
+        "channels": [
+          "FOX One",
+          "FOX",
+          "Azteca 7"
         ]
       }
     ],
@@ -86,7 +65,7 @@
         ]
       },
       {
-        "time": "21:00",
+        "time": "21:10",
         "home": "Necaxa",
         "away": "América",
         "channels": [
@@ -97,14 +76,6 @@
     ],
     "2026-10-09": [
       {
-        "time": "19:00",
-        "home": "Querétaro",
-        "away": "Atlante",
-        "channels": [
-          "FOX One"
-        ]
-      },
-      {
         "time": "21:00",
         "home": "Tigres UANL",
         "away": "Toluca",
@@ -114,6 +85,14 @@
       }
     ],
     "2026-10-10": [
+      {
+        "time": "17:00",
+        "home": "Querétaro",
+        "away": "Atlante",
+        "channels": [
+          "FOX One"
+        ]
+      },
       {
         "time": "17:00",
         "home": "FC Juárez",
@@ -142,19 +121,19 @@
     "2026-10-11": [
       {
         "time": "17:00",
-        "home": "Pachuca",
-        "away": "Necaxa",
-        "channels": [
-          "FOX One"
-        ]
-      },
-      {
-        "time": "17:00",
         "home": "Atlético San Luis",
         "away": "Santos Laguna",
         "channels": [
           "Disney+ Premium",
           "ViX Premium"
+        ]
+      },
+      {
+        "time": "17:15",
+        "home": "Pachuca",
+        "away": "Necaxa",
+        "channels": [
+          "FOX One"
         ]
       },
       {
@@ -557,7 +536,7 @@
         ]
       },
       {
-        "time": "19:00",
+        "time": "18:00",
         "home": "Club León",
         "away": "Chivas Guadalajara",
         "channels": [
@@ -631,7 +610,7 @@
     ],
     "2026-11-22": [
       {
-        "time": "16:07",
+        "time": "16:00",
         "home": "Chivas Guadalajara",
         "away": "Cruz Azul",
         "channels": [
