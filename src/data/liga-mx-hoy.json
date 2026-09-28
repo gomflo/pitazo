@@ -1,34 +1,6 @@
 {
-  "updatedAt": "2026-09-27T11:25:25.856Z",
+  "updatedAt": "2026-09-28T12:56:29.828Z",
   "matchesByDate": {
-    "2026-09-27": [
-      {
-        "time": "12:00",
-        "home": "Pumas UNAM",
-        "away": "Atlético San Luis",
-        "channels": [
-          "ViX Premium"
-        ]
-      },
-      {
-        "time": "19:00",
-        "home": "Club León",
-        "away": "FC Juárez",
-        "channels": [
-          "FOX One",
-          "FOX+"
-        ]
-      },
-      {
-        "time": "21:10",
-        "home": "Necaxa",
-        "away": "América",
-        "channels": [
-          "FOX One",
-          "FOX+"
-        ]
-      }
-    ],
     "2026-10-09": [
       {
         "time": "19:00",
@@ -70,7 +42,8 @@
         "home": "Atlas",
         "away": "Chivas Guadalajara",
         "channels": [
-          "ViX Premium"
+          "ViX Premium",
+          "TUDN"
         ]
       },
       {
@@ -78,7 +51,8 @@
         "home": "América",
         "away": "Monterrey",
         "channels": [
-          "ViX Premium"
+          "ViX Premium",
+          "TUDN"
         ]
       }
     ],
@@ -105,7 +79,8 @@
         "home": "Pumas UNAM",
         "away": "Cruz Azul",
         "channels": [
-          "ViX Premium"
+          "ViX Premium",
+          "TUDN"
         ]
       }
     ],
