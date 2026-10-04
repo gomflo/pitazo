@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T11:07:11.746Z",
+  "updatedAt": "2026-10-04T11:47:56.018Z",
   "matchesByDate": {
     "2026-10-09": [
       {
@@ -137,7 +137,8 @@
         "home": "Toluca",
         "away": "Atlético San Luis",
         "channels": [
-          "Canal por confirmar"
+          "Canal por confirmar",
+          "TUDN"
         ]
       },
       {
@@ -153,7 +154,8 @@
         "home": "Cruz Azul",
         "away": "FC Juárez",
         "channels": [
-          "ViX Premium"
+          "ViX Premium",
+          "TUDN"
         ]
       }
     ],
