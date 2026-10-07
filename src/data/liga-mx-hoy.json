@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T12:46:01.374Z",
+  "updatedAt": "2026-10-07T12:40:14.746Z",
   "matchesByDate": {
     "2026-10-09": [
       {
@@ -17,6 +17,7 @@
         "away": "Toluca",
         "channels": [
           "FOX One",
+          "FOX",
           "Azteca 7"
         ]
       }
@@ -27,7 +28,8 @@
         "home": "Querétaro",
         "away": "Atlante",
         "channels": [
-          "FOX One"
+          "FOX One",
+          "FOX+"
         ]
       },
       {
@@ -36,6 +38,7 @@
         "away": "Tijuana",
         "channels": [
           "FOX One",
+          "FOX",
           "Azteca 7"
         ]
       },
@@ -45,7 +48,8 @@
         "away": "Chivas Guadalajara",
         "channels": [
           "ViX Premium",
-          "TUDN"
+          "TUDN",
+          "Canal 5"
         ]
       },
       {
@@ -54,7 +58,8 @@
         "away": "Monterrey",
         "channels": [
           "ViX Premium",
-          "TUDN"
+          "TUDN",
+          "Canal 5"
         ]
       }
     ],
@@ -74,7 +79,8 @@
         "home": "Pachuca",
         "away": "Necaxa",
         "channels": [
-          "FOX One"
+          "FOX One",
+          "FOX"
         ]
       },
       {
@@ -83,7 +89,8 @@
         "away": "Cruz Azul",
         "channels": [
           "ViX Premium",
-          "TUDN"
+          "TUDN",
+          "Canal 5"
         ]
       }
     ],
@@ -125,7 +132,8 @@
         "away": "Querétaro",
         "channels": [
           "Disney+ Premium",
-          "ViX Premium"
+          "ViX Premium",
+          "ESPN"
         ]
       },
       {
