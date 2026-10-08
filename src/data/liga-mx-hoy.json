@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T12:40:14.746Z",
+  "updatedAt": "2026-10-08T12:49:59.463Z",
   "matchesByDate": {
     "2026-10-09": [
       {
@@ -49,17 +49,21 @@
         "channels": [
           "ViX Premium",
           "TUDN",
-          "Canal 5"
+          "Canal 5",
+          "Layvtime",
+          "Layvtime YouTube"
         ]
       },
       {
-        "time": "21:00",
+        "time": "21:10",
         "home": "América",
         "away": "Monterrey",
         "channels": [
           "ViX Premium",
           "TUDN",
-          "Canal 5"
+          "Canal 5",
+          "Layvtime",
+          "Layvtime YouTube"
         ]
       }
     ],
@@ -84,7 +88,7 @@
         ]
       },
       {
-        "time": "19:00",
+        "time": "19:10",
         "home": "Pumas UNAM",
         "away": "Cruz Azul",
         "channels": [
@@ -133,7 +137,9 @@
         "channels": [
           "Disney+ Premium",
           "ViX Premium",
-          "ESPN"
+          "ESPN",
+          "Layvtime",
+          "Layvtime YouTube"
         ]
       },
       {
@@ -149,8 +155,8 @@
         "home": "Toluca",
         "away": "Atlético San Luis",
         "channels": [
-          "Canal por confirmar",
-          "TUDN"
+          "TUDN",
+          "ViX Premium"
         ]
       },
       {
@@ -167,7 +173,9 @@
         "away": "FC Juárez",
         "channels": [
           "ViX Premium",
-          "TUDN"
+          "TUDN",
+          "Layvtime",
+          "Layvtime YouTube"
         ]
       }
     ],
@@ -177,7 +185,9 @@
         "home": "Monterrey",
         "away": "Pachuca",
         "channels": [
-          "ViX Premium"
+          "ViX Premium",
+          "Layvtime",
+          "Layvtime YouTube"
         ]
       }
     ],
@@ -222,7 +232,7 @@
         "home": "Toluca",
         "away": "Tijuana",
         "channels": [
-          "Canal por confirmar"
+          "ViX Premium"
         ]
       },
       {
@@ -230,7 +240,9 @@
         "home": "Atlas",
         "away": "América",
         "channels": [
-          "ViX Premium"
+          "ViX Premium",
+          "Layvtime",
+          "Layvtime YouTube"
         ]
       },
       {
@@ -239,7 +251,9 @@
         "away": "Pumas UNAM",
         "channels": [
           "Disney+ Premium",
-          "ViX Premium"
+          "ViX Premium",
+          "Layvtime",
+          "Layvtime YouTube"
         ]
       },
       {
@@ -286,7 +300,9 @@
         "home": "Monterrey",
         "away": "Chivas Guadalajara",
         "channels": [
-          "ViX Premium"
+          "ViX Premium",
+          "Layvtime",
+          "Layvtime YouTube"
         ]
       },
       {
@@ -304,7 +320,9 @@
         "home": "América",
         "away": "Pachuca",
         "channels": [
-          "ViX Premium"
+          "ViX Premium",
+          "Layvtime",
+          "Layvtime YouTube"
         ]
       },
       {
@@ -312,7 +330,9 @@
         "home": "Atlas",
         "away": "Puebla",
         "channels": [
-          "ViX Premium"
+          "ViX Premium",
+          "Layvtime",
+          "Layvtime YouTube"
         ]
       },
       {
@@ -377,7 +397,9 @@
         "home": "Monterrey",
         "away": "Tijuana",
         "channels": [
-          "ViX Premium"
+          "ViX Premium",
+          "Layvtime",
+          "Layvtime YouTube"
         ]
       },
       {
@@ -393,7 +415,9 @@
         "home": "América",
         "away": "Toluca",
         "channels": [
-          "ViX Premium"
+          "ViX Premium",
+          "Layvtime",
+          "Layvtime YouTube"
         ]
       }
     ],
@@ -490,7 +514,7 @@
         ]
       },
       {
-        "time": "18:00",
+        "time": "19:00",
         "home": "Club León",
         "away": "Chivas Guadalajara",
         "channels": [
