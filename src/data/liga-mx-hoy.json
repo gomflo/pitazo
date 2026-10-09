@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T12:49:59.463Z",
+  "updatedAt": "2026-10-09T12:35:26.123Z",
   "matchesByDate": {
     "2026-10-09": [
       {
@@ -79,7 +79,7 @@
         ]
       },
       {
-        "time": "17:15",
+        "time": "17:10",
         "home": "Pachuca",
         "away": "Necaxa",
         "channels": [
@@ -88,7 +88,7 @@
         ]
       },
       {
-        "time": "19:10",
+        "time": "19:15",
         "home": "Pumas UNAM",
         "away": "Cruz Azul",
         "channels": [
@@ -246,6 +246,15 @@
         ]
       },
       {
+        "time": "19:00",
+        "home": "Puebla",
+        "away": "Monterrey",
+        "channels": [
+          "Disney+ Premium",
+          "ESPN"
+        ]
+      },
+      {
         "time": "21:00",
         "home": "Santos Laguna",
         "away": "Pumas UNAM",
@@ -253,7 +262,8 @@
           "Disney+ Premium",
           "ViX Premium",
           "Layvtime",
-          "Layvtime YouTube"
+          "Layvtime YouTube",
+          "ESPN"
         ]
       },
       {
