@@ -1,27 +1,6 @@
 {
-  "updatedAt": "2026-10-09T12:35:26.123Z",
+  "updatedAt": "2026-10-10T11:55:49.102Z",
   "matchesByDate": {
-    "2026-10-09": [
-      {
-        "time": "19:00",
-        "home": "Puebla",
-        "away": "Club León",
-        "channels": [
-          "ESPN",
-          "Disney+ Premium"
-        ]
-      },
-      {
-        "time": "21:00",
-        "home": "Tigres UANL",
-        "away": "Toluca",
-        "channels": [
-          "FOX One",
-          "FOX",
-          "Azteca 7"
-        ]
-      }
-    ],
     "2026-10-10": [
       {
         "time": "17:00",
@@ -39,6 +18,9 @@
         "channels": [
           "FOX One",
           "FOX",
+          "Azteca Deportes Network",
+          "Azteca Deportes App",
+          "Disney+ Premium",
           "Azteca 7"
         ]
       },
@@ -242,7 +224,8 @@
         "channels": [
           "ViX Premium",
           "Layvtime",
-          "Layvtime YouTube"
+          "Layvtime YouTube",
+          "TUDN"
         ]
       },
       {
@@ -263,7 +246,8 @@
           "ViX Premium",
           "Layvtime",
           "Layvtime YouTube",
-          "ESPN"
+          "ESPN",
+          "TUDN"
         ]
       },
       {
@@ -292,6 +276,7 @@
           "Azteca Deportes Network",
           "Azteca Deportes App",
           "aztecadeportes.com",
+          "Disney+ Premium",
           "Azteca 7"
         ]
       }
@@ -312,7 +297,8 @@
         "channels": [
           "ViX Premium",
           "Layvtime",
-          "Layvtime YouTube"
+          "Layvtime YouTube",
+          "TUDN"
         ]
       },
       {
@@ -320,7 +306,8 @@
         "home": "Pumas UNAM",
         "away": "Tigres UANL",
         "channels": [
-          "ViX Premium"
+          "ViX Premium",
+          "TUDN"
         ]
       }
     ],
@@ -332,7 +319,8 @@
         "channels": [
           "ViX Premium",
           "Layvtime",
-          "Layvtime YouTube"
+          "Layvtime YouTube",
+          "TUDN"
         ]
       },
       {
@@ -476,6 +464,7 @@
           "Azteca Deportes Network",
           "Azteca Deportes App",
           "aztecadeportes.com",
+          "Disney+ Premium",
           "Azteca 7"
         ]
       }
