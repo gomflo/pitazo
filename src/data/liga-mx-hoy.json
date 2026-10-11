@@ -1,54 +1,6 @@
 {
-  "updatedAt": "2026-10-10T11:55:49.102Z",
+  "updatedAt": "2026-10-11T12:07:33.916Z",
   "matchesByDate": {
-    "2026-10-10": [
-      {
-        "time": "17:00",
-        "home": "Querétaro",
-        "away": "Atlante",
-        "channels": [
-          "FOX One",
-          "FOX+"
-        ]
-      },
-      {
-        "time": "17:00",
-        "home": "FC Juárez",
-        "away": "Tijuana",
-        "channels": [
-          "FOX One",
-          "FOX",
-          "Azteca Deportes Network",
-          "Azteca Deportes App",
-          "Disney+ Premium",
-          "Azteca 7"
-        ]
-      },
-      {
-        "time": "19:00",
-        "home": "Atlas",
-        "away": "Chivas Guadalajara",
-        "channels": [
-          "ViX Premium",
-          "TUDN",
-          "Canal 5",
-          "Layvtime",
-          "Layvtime YouTube"
-        ]
-      },
-      {
-        "time": "21:10",
-        "home": "América",
-        "away": "Monterrey",
-        "channels": [
-          "ViX Premium",
-          "TUDN",
-          "Canal 5",
-          "Layvtime",
-          "Layvtime YouTube"
-        ]
-      }
-    ],
     "2026-10-11": [
       {
         "time": "17:00",
