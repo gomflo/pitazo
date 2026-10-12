@@ -1,37 +1,6 @@
 {
-  "updatedAt": "2026-10-11T12:07:33.916Z",
+  "updatedAt": "2026-10-12T14:27:23.087Z",
   "matchesByDate": {
-    "2026-10-11": [
-      {
-        "time": "17:00",
-        "home": "Atlético San Luis",
-        "away": "Santos Laguna",
-        "channels": [
-          "Disney+ Premium",
-          "ViX Premium",
-          "ESPN 2"
-        ]
-      },
-      {
-        "time": "17:10",
-        "home": "Pachuca",
-        "away": "Necaxa",
-        "channels": [
-          "FOX One",
-          "FOX"
-        ]
-      },
-      {
-        "time": "19:15",
-        "home": "Pumas UNAM",
-        "away": "Cruz Azul",
-        "channels": [
-          "ViX Premium",
-          "TUDN",
-          "Canal 5"
-        ]
-      }
-    ],
     "2026-10-16": [
       {
         "time": "19:00",
@@ -140,7 +109,8 @@
         "away": "Querétaro",
         "channels": [
           "Disney+ Premium",
-          "ViX Premium"
+          "ViX Premium",
+          "ESPN 2"
         ]
       },
       {
