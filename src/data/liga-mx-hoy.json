@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T13:35:28.992Z",
+  "updatedAt": "2026-10-14T11:12:24.174Z",
   "matchesByDate": {
     "2026-10-16": [
       {
@@ -44,7 +44,8 @@
           "ViX Premium",
           "ESPN",
           "Layvtime",
-          "Layvtime YouTube"
+          "Layvtime YouTube",
+          "ESPN 2"
         ]
       },
       {
@@ -61,7 +62,8 @@
         "away": "Atlético San Luis",
         "channels": [
           "TUDN",
-          "ViX Premium"
+          "ViX Premium",
+          "Canal 5"
         ]
       },
       {
@@ -81,7 +83,8 @@
           "ViX Premium",
           "TUDN",
           "Layvtime",
-          "Layvtime YouTube"
+          "Layvtime YouTube",
+          "Canal 5"
         ]
       }
     ],
