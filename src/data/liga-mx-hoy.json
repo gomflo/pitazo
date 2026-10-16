@@ -1,20 +1,11 @@
 {
-  "updatedAt": "2026-10-15T10:52:24.403Z",
+  "updatedAt": "2026-10-16T10:43:26.788Z",
   "matchesByDate": {
     "2026-10-16": [
       {
         "time": "19:00",
         "home": "Necaxa",
         "away": "Atlas",
-        "channels": [
-          "FOX One",
-          "FOX+"
-        ]
-      },
-      {
-        "time": "21:00",
-        "home": "Tijuana",
-        "away": "Puebla",
         "channels": [
           "FOX One",
           "FOX+"
@@ -31,6 +22,15 @@
           "Disney+ Premium",
           "ESPN",
           "Azteca 7"
+        ]
+      },
+      {
+        "time": "21:05",
+        "home": "Tijuana",
+        "away": "Puebla",
+        "channels": [
+          "FOX One",
+          "FOX+"
         ]
       }
     ],
@@ -76,7 +76,7 @@
         ]
       },
       {
-        "time": "21:00",
+        "time": "21:10",
         "home": "Cruz Azul",
         "away": "FC Juárez",
         "channels": [
@@ -167,6 +167,14 @@
       },
       {
         "time": "21:00",
+        "home": "Pachuca",
+        "away": "Cruz Azul",
+        "channels": [
+          "FOX One"
+        ]
+      },
+      {
+        "time": "21:10",
         "home": "Santos Laguna",
         "away": "Pumas UNAM",
         "channels": [
@@ -176,14 +184,6 @@
           "Layvtime YouTube",
           "ESPN",
           "TUDN"
-        ]
-      },
-      {
-        "time": "21:00",
-        "home": "Pachuca",
-        "away": "Cruz Azul",
-        "channels": [
-          "FOX One"
         ]
       }
     ],
@@ -242,6 +242,16 @@
     "2026-10-25": [
       {
         "time": "16:00",
+        "home": "Atlas",
+        "away": "Puebla",
+        "channels": [
+          "ViX Premium",
+          "Layvtime",
+          "Layvtime YouTube"
+        ]
+      },
+      {
+        "time": "18:00",
         "home": "América",
         "away": "Pachuca",
         "channels": [
@@ -249,16 +259,6 @@
           "Layvtime",
           "Layvtime YouTube",
           "TUDN"
-        ]
-      },
-      {
-        "time": "16:00",
-        "home": "Atlas",
-        "away": "Puebla",
-        "channels": [
-          "ViX Premium",
-          "Layvtime",
-          "Layvtime YouTube"
         ]
       },
       {
@@ -515,7 +515,7 @@
     ],
     "2026-11-22": [
       {
-        "time": "16:00",
+        "time": "16:07",
         "home": "Chivas Guadalajara",
         "away": "Cruz Azul",
         "channels": [
