@@ -1,39 +1,6 @@
 {
-  "updatedAt": "2026-10-16T10:43:26.788Z",
+  "updatedAt": "2026-10-17T10:09:41.863Z",
   "matchesByDate": {
-    "2026-10-16": [
-      {
-        "time": "19:00",
-        "home": "Necaxa",
-        "away": "Atlas",
-        "channels": [
-          "FOX One",
-          "FOX+"
-        ]
-      },
-      {
-        "time": "21:00",
-        "home": "Atlante",
-        "away": "Pumas UNAM",
-        "channels": [
-          "Azteca Deportes Network",
-          "Azteca Deportes App",
-          "aztecadeportes.com",
-          "Disney+ Premium",
-          "ESPN",
-          "Azteca 7"
-        ]
-      },
-      {
-        "time": "21:05",
-        "home": "Tijuana",
-        "away": "Puebla",
-        "channels": [
-          "FOX One",
-          "FOX+"
-        ]
-      }
-    ],
     "2026-10-17": [
       {
         "time": "17:00",
@@ -124,7 +91,10 @@
         "home": "FC Juárez",
         "away": "Atlante",
         "channels": [
-          "FOX One"
+          "FOX One",
+          "Azteca Deportes Network",
+          "Azteca Deportes App",
+          "FOX"
         ]
       },
       {
@@ -132,7 +102,10 @@
         "home": "Tigres UANL",
         "away": "Club León",
         "channels": [
-          "FOX One"
+          "FOX One",
+          "Azteca Deportes Network",
+          "Azteca Deportes App",
+          "FOX"
         ]
       }
     ],
@@ -142,7 +115,11 @@
         "home": "Toluca",
         "away": "Tijuana",
         "channels": [
-          "ViX Premium"
+          "ViX Premium",
+          "Azteca Deportes Network",
+          "Azteca Deportes App",
+          "FOX",
+          "FOX One"
         ]
       },
       {
