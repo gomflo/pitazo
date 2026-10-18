@@ -1,60 +1,6 @@
 {
-  "updatedAt": "2026-10-17T10:09:41.863Z",
+  "updatedAt": "2026-10-18T10:24:49.483Z",
   "matchesByDate": {
-    "2026-10-17": [
-      {
-        "time": "17:00",
-        "home": "Santos Laguna",
-        "away": "Querétaro",
-        "channels": [
-          "Disney+ Premium",
-          "ViX Premium",
-          "ESPN",
-          "Layvtime",
-          "Layvtime YouTube",
-          "ESPN 2"
-        ]
-      },
-      {
-        "time": "17:07",
-        "home": "Chivas Guadalajara",
-        "away": "Tigres UANL",
-        "channels": [
-          "Amazon Prime Video (Míralo en vivo)"
-        ]
-      },
-      {
-        "time": "19:00",
-        "home": "Toluca",
-        "away": "Atlético San Luis",
-        "channels": [
-          "TUDN",
-          "ViX Premium",
-          "Canal 5"
-        ]
-      },
-      {
-        "time": "19:00",
-        "home": "Club León",
-        "away": "América",
-        "channels": [
-          "FOX One",
-          "FOX+"
-        ]
-      },
-      {
-        "time": "21:10",
-        "home": "Cruz Azul",
-        "away": "FC Juárez",
-        "channels": [
-          "ViX Premium",
-          "TUDN",
-          "Layvtime",
-          "Layvtime YouTube",
-          "Canal 5"
-        ]
-      }
-    ],
     "2026-10-18": [
       {
         "time": "19:00",
@@ -302,7 +248,8 @@
         "channels": [
           "ViX Premium",
           "Layvtime",
-          "Layvtime YouTube"
+          "Layvtime YouTube",
+          "TUDN"
         ]
       },
       {
@@ -320,7 +267,8 @@
         "channels": [
           "ViX Premium",
           "Layvtime",
-          "Layvtime YouTube"
+          "Layvtime YouTube",
+          "TUDN"
         ]
       }
     ],
@@ -339,7 +287,8 @@
         "home": "Cruz Azul",
         "away": "Club León",
         "channels": [
-          "ViX Premium"
+          "ViX Premium",
+          "TUDN"
         ]
       }
     ],
