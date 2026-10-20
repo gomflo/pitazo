@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T12:09:45.179Z",
+  "updatedAt": "2026-10-20T10:56:30.320Z",
   "matchesByDate": {
     "2026-10-20": [
       {
@@ -67,7 +67,8 @@
           "ViX Premium",
           "Layvtime",
           "Layvtime YouTube",
-          "TUDN"
+          "TUDN",
+          "Canal 5"
         ]
       },
       {
@@ -84,7 +85,8 @@
         "home": "Pachuca",
         "away": "Cruz Azul",
         "channels": [
-          "FOX One"
+          "FOX One",
+          "FOX+"
         ]
       },
       {
@@ -97,7 +99,8 @@
           "Layvtime",
           "Layvtime YouTube",
           "ESPN",
-          "TUDN"
+          "TUDN",
+          "Canal 5"
         ]
       }
     ],
@@ -140,7 +143,8 @@
           "ViX Premium",
           "Layvtime",
           "Layvtime YouTube",
-          "TUDN"
+          "TUDN",
+          "Canal 5"
         ]
       },
       {
@@ -149,7 +153,8 @@
         "away": "Tigres UANL",
         "channels": [
           "ViX Premium",
-          "TUDN"
+          "TUDN",
+          "Canal 5"
         ]
       }
     ],
@@ -172,7 +177,8 @@
           "ViX Premium",
           "Layvtime",
           "Layvtime YouTube",
-          "TUDN"
+          "TUDN",
+          "Canal 5"
         ]
       },
       {
