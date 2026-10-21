@@ -1,50 +1,6 @@
 {
-  "updatedAt": "2026-10-20T10:56:30.320Z",
+  "updatedAt": "2026-10-21T11:10:41.997Z",
   "matchesByDate": {
-    "2026-10-20": [
-      {
-        "time": "18:07",
-        "home": "Chivas Guadalajara",
-        "away": "Necaxa",
-        "channels": [
-          "Amazon Prime Video (Míralo en vivo)"
-        ]
-      },
-      {
-        "time": "19:00",
-        "home": "Atlético San Luis",
-        "away": "Querétaro",
-        "channels": [
-          "Disney+ Premium",
-          "ViX Premium",
-          "ESPN 2"
-        ]
-      },
-      {
-        "time": "19:00",
-        "home": "FC Juárez",
-        "away": "Atlante",
-        "channels": [
-          "FOX One",
-          "Azteca Deportes Network",
-          "Azteca Deportes App",
-          "FOX",
-          "Azteca 7"
-        ]
-      },
-      {
-        "time": "21:00",
-        "home": "Tigres UANL",
-        "away": "Club León",
-        "channels": [
-          "FOX One",
-          "Azteca Deportes Network",
-          "Azteca Deportes App",
-          "FOX",
-          "Azteca 7"
-        ]
-      }
-    ],
     "2026-10-21": [
       {
         "time": "19:00",
@@ -122,6 +78,7 @@
           "Azteca Deportes App",
           "aztecadeportes.com",
           "Disney+ Premium",
+          "ESPN 2",
           "Azteca 7"
         ]
       }
@@ -227,6 +184,15 @@
         "channels": [
           "FOX One"
         ]
+      },
+      {
+        "time": "20:00",
+        "home": "Puebla",
+        "away": "Pumas UNAM",
+        "channels": [
+          "Disney+ Premium",
+          "ESPN 2"
+        ]
       }
     ],
     "2026-10-31": [
@@ -276,7 +242,8 @@
         "away": "Necaxa",
         "channels": [
           "Disney+ Premium",
-          "ViX Premium"
+          "ViX Premium",
+          "ESPN 2"
         ]
       },
       {
