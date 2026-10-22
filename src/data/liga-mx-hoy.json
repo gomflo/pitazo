@@ -1,65 +1,6 @@
 {
-  "updatedAt": "2026-10-21T11:10:41.997Z",
+  "updatedAt": "2026-10-22T11:10:17.382Z",
   "matchesByDate": {
-    "2026-10-21": [
-      {
-        "time": "19:00",
-        "home": "Toluca",
-        "away": "Tijuana",
-        "channels": [
-          "ViX Premium",
-          "Azteca Deportes Network",
-          "Azteca Deportes App",
-          "FOX",
-          "FOX One",
-          "Azteca 7"
-        ]
-      },
-      {
-        "time": "19:00",
-        "home": "Atlas",
-        "away": "América",
-        "channels": [
-          "ViX Premium",
-          "Layvtime",
-          "Layvtime YouTube",
-          "TUDN",
-          "Canal 5"
-        ]
-      },
-      {
-        "time": "19:00",
-        "home": "Puebla",
-        "away": "Monterrey",
-        "channels": [
-          "Disney+ Premium",
-          "ESPN"
-        ]
-      },
-      {
-        "time": "21:00",
-        "home": "Pachuca",
-        "away": "Cruz Azul",
-        "channels": [
-          "FOX One",
-          "FOX+"
-        ]
-      },
-      {
-        "time": "21:10",
-        "home": "Santos Laguna",
-        "away": "Pumas UNAM",
-        "channels": [
-          "Disney+ Premium",
-          "ViX Premium",
-          "Layvtime",
-          "Layvtime YouTube",
-          "ESPN",
-          "TUDN",
-          "Canal 5"
-        ]
-      }
-    ],
     "2026-10-23": [
       {
         "time": "19:00",
