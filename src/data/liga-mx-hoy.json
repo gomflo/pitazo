@@ -1,46 +1,6 @@
 {
-  "updatedAt": "2026-10-25T10:44:39.752Z",
+  "updatedAt": "2026-10-26T12:16:32.417Z",
   "matchesByDate": {
-    "2026-10-25": [
-      {
-        "time": "17:00",
-        "home": "Atlas",
-        "away": "Puebla",
-        "channels": [
-          "ViX Premium",
-          "Layvtime",
-          "Layvtime YouTube"
-        ]
-      },
-      {
-        "time": "19:00",
-        "home": "Querétaro",
-        "away": "Cruz Azul",
-        "channels": [
-          "FOX One"
-        ]
-      },
-      {
-        "time": "19:05",
-        "home": "América",
-        "away": "Pachuca",
-        "channels": [
-          "ViX Premium",
-          "Layvtime",
-          "Layvtime YouTube",
-          "TUDN",
-          "Canal 5"
-        ]
-      },
-      {
-        "time": "21:10",
-        "home": "Tijuana",
-        "away": "Santos Laguna",
-        "channels": [
-          "FOX One"
-        ]
-      }
-    ],
     "2026-10-28": [
       {
         "time": "21:00",
@@ -60,7 +20,8 @@
         "away": "Atlas",
         "channels": [
           "Disney+ Premium",
-          "ViX Premium"
+          "ViX Premium",
+          "ESPN 2"
         ]
       },
       {
@@ -68,7 +29,8 @@
         "home": "FC Juárez",
         "away": "Querétaro",
         "channels": [
-          "FOX One"
+          "FOX One",
+          "Azteca 7"
         ]
       },
       {
@@ -77,7 +39,8 @@
         "away": "Pumas UNAM",
         "channels": [
           "Disney+ Premium",
-          "ESPN 2"
+          "ESPN 2",
+          "Azteca 7"
         ]
       }
     ],
@@ -149,7 +112,8 @@
         "away": "FC Juárez",
         "channels": [
           "Disney+ Premium",
-          "ViX Premium"
+          "ViX Premium",
+          "ESPN"
         ]
       },
       {
@@ -169,6 +133,7 @@
           "Azteca Deportes App",
           "aztecadeportes.com",
           "Disney+ Premium",
+          "ESPN",
           "Azteca 7"
         ]
       }
@@ -195,7 +160,7 @@
         "home": "Toluca",
         "away": "Monterrey",
         "channels": [
-          "Canal por confirmar"
+          "TUDN"
         ]
       },
       {
@@ -203,7 +168,8 @@
         "home": "Pumas UNAM",
         "away": "América",
         "channels": [
-          "ViX Premium"
+          "ViX Premium",
+          "TUDN"
         ]
       }
     ],
