@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T12:16:32.417Z",
+  "updatedAt": "2026-10-27T11:36:52.669Z",
   "matchesByDate": {
     "2026-10-28": [
       {
@@ -30,6 +30,9 @@
         "away": "Querétaro",
         "channels": [
           "FOX One",
+          "FOX+",
+          "Azteca Deportes Network",
+          "Azteca Deportes App",
           "Azteca 7"
         ]
       },
@@ -39,6 +42,8 @@
         "away": "Pumas UNAM",
         "channels": [
           "Disney+ Premium",
+          "Azteca Deportes Network",
+          "Azteca Deportes App",
           "ESPN 2",
           "Azteca 7"
         ]
@@ -50,7 +55,8 @@
         "home": "Pachuca",
         "away": "Tigres UANL",
         "channels": [
-          "FOX One"
+          "FOX One",
+          "FOX+"
         ]
       },
       {
@@ -121,7 +127,8 @@
         "home": "Necaxa",
         "away": "Tijuana",
         "channels": [
-          "FOX One"
+          "FOX One",
+          "FOX"
         ]
       },
       {
@@ -152,7 +159,8 @@
         "home": "Tigres UANL",
         "away": "Cruz Azul",
         "channels": [
-          "FOX One"
+          "FOX One",
+          "FOX"
         ]
       },
       {
@@ -179,7 +187,8 @@
         "home": "Querétaro",
         "away": "Puebla",
         "channels": [
-          "FOX One"
+          "FOX One",
+          "FOX"
         ]
       },
       {
