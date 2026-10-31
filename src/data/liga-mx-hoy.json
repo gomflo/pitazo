@@ -1,44 +1,6 @@
 {
-  "updatedAt": "2026-10-30T12:08:58.806Z",
+  "updatedAt": "2026-10-31T11:41:59.818Z",
   "matchesByDate": {
-    "2026-10-30": [
-      {
-        "time": "19:00",
-        "home": "Atlético San Luis",
-        "away": "Atlas",
-        "channels": [
-          "Disney+ Premium",
-          "ViX Premium",
-          "ESPN",
-          "ESPN 2"
-        ]
-      },
-      {
-        "time": "19:00",
-        "home": "FC Juárez",
-        "away": "Querétaro",
-        "channels": [
-          "FOX One",
-          "FOX+",
-          "Azteca Deportes Network",
-          "Azteca Deportes App",
-          "Azteca 7"
-        ]
-      },
-      {
-        "time": "21:00",
-        "home": "Puebla",
-        "away": "Pumas UNAM",
-        "channels": [
-          "Disney+ Premium",
-          "Azteca Deportes Network",
-          "Azteca Deportes App",
-          "ESPN",
-          "ESPN 2",
-          "Azteca 7"
-        ]
-      }
-    ],
     "2026-10-31": [
       {
         "time": "17:00",
