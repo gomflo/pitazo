@@ -1,49 +1,6 @@
 {
-  "updatedAt": "2026-10-31T11:41:59.818Z",
+  "updatedAt": "2026-11-01T12:41:08.585Z",
   "matchesByDate": {
-    "2026-10-31": [
-      {
-        "time": "17:00",
-        "home": "Pachuca",
-        "away": "Tigres UANL",
-        "channels": [
-          "FOX One",
-          "FOX+"
-        ]
-      },
-      {
-        "time": "19:00",
-        "home": "Monterrey",
-        "away": "Tijuana",
-        "channels": [
-          "ViX Premium",
-          "Layvtime",
-          "Layvtime YouTube",
-          "TUDN",
-          "Canal 5"
-        ]
-      },
-      {
-        "time": "19:07",
-        "home": "Chivas Guadalajara",
-        "away": "Atlante",
-        "channels": [
-          "Amazon Prime Video (Míralo en vivo)"
-        ]
-      },
-      {
-        "time": "21:00",
-        "home": "América",
-        "away": "Toluca",
-        "channels": [
-          "ViX Premium",
-          "Layvtime",
-          "Layvtime YouTube",
-          "TUDN",
-          "Canal 5"
-        ]
-      }
-    ],
     "2026-11-01": [
       {
         "time": "17:00",
@@ -56,7 +13,7 @@
         ]
       },
       {
-        "time": "19:00",
+        "time": "19:10",
         "home": "Cruz Azul",
         "away": "Club León",
         "channels": [
