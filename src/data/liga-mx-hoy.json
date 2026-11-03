@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T14:46:49.823Z",
+  "updatedAt": "2026-11-03T13:38:58.118Z",
   "matchesByDate": {
     "2026-11-06": [
       {
@@ -60,7 +60,8 @@
         "away": "Monterrey",
         "channels": [
           "TUDN",
-          "ViX Premium"
+          "ViX Premium",
+          "Canal 5"
         ]
       },
       {
@@ -69,7 +70,8 @@
         "away": "América",
         "channels": [
           "ViX Premium",
-          "TUDN"
+          "TUDN",
+          "Canal 5"
         ]
       }
     ],
