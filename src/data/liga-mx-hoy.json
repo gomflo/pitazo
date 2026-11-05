@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T13:47:00.500Z",
+  "updatedAt": "2026-11-05T13:59:43.676Z",
   "matchesByDate": {
     "2026-11-06": [
       {
@@ -18,7 +18,7 @@
         "away": "Tijuana",
         "channels": [
           "FOX One",
-          "FOX"
+          "FOX+"
         ]
       },
       {
@@ -81,8 +81,7 @@
         "home": "Querétaro",
         "away": "Puebla",
         "channels": [
-          "FOX One",
-          "FOX"
+          "FOX One"
         ]
       },
       {
@@ -90,7 +89,8 @@
         "home": "Club León",
         "away": "Chivas Guadalajara",
         "channels": [
-          "FOX One"
+          "FOX One",
+          "FOX+"
         ]
       }
     ],
