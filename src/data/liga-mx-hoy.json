@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T13:59:43.676Z",
+  "updatedAt": "2026-11-06T13:45:03.111Z",
   "matchesByDate": {
     "2026-11-06": [
       {
@@ -30,8 +30,7 @@
           "Azteca Deportes App",
           "aztecadeportes.com",
           "Disney+ Premium",
-          "ESPN",
-          "Azteca 7"
+          "ESPN"
         ]
       }
     ],
@@ -41,17 +40,9 @@
         "home": "Atlas",
         "away": "Pachuca",
         "channels": [
-          "ViX Premium"
-        ]
-      },
-      {
-        "time": "17:00",
-        "home": "Tigres UANL",
-        "away": "Cruz Azul",
-        "channels": [
-          "FOX One",
-          "FOX",
-          "Azteca 7"
+          "ViX Premium",
+          "Layvtime",
+          "Layvtime YouTube"
         ]
       },
       {
@@ -65,7 +56,17 @@
         ]
       },
       {
-        "time": "21:00",
+        "time": "19:00",
+        "home": "Tigres UANL",
+        "away": "Cruz Azul",
+        "channels": [
+          "FOX One",
+          "FOX",
+          "Azteca 7"
+        ]
+      },
+      {
+        "time": "21:10",
         "home": "Pumas UNAM",
         "away": "América",
         "channels": [
@@ -81,11 +82,12 @@
         "home": "Querétaro",
         "away": "Puebla",
         "channels": [
-          "FOX One"
+          "FOX One",
+          "FOX"
         ]
       },
       {
-        "time": "20:00",
+        "time": "20:10",
         "home": "Club León",
         "away": "Chivas Guadalajara",
         "channels": [
@@ -130,7 +132,9 @@
         "away": "Club León",
         "channels": [
           "Disney+ Premium",
-          "ViX Premium"
+          "ViX Premium",
+          "Layvtime",
+          "Layvtime YouTube"
         ]
       },
       {
