@@ -1,39 +1,6 @@
 {
-  "updatedAt": "2026-11-06T13:45:03.111Z",
+  "updatedAt": "2026-11-07T12:28:07.326Z",
   "matchesByDate": {
-    "2026-11-06": [
-      {
-        "time": "19:00",
-        "home": "Atlético San Luis",
-        "away": "FC Juárez",
-        "channels": [
-          "Disney+ Premium",
-          "ViX Premium",
-          "ESPN"
-        ]
-      },
-      {
-        "time": "19:00",
-        "home": "Necaxa",
-        "away": "Tijuana",
-        "channels": [
-          "FOX One",
-          "FOX+"
-        ]
-      },
-      {
-        "time": "21:00",
-        "home": "Atlante",
-        "away": "Santos Laguna",
-        "channels": [
-          "Azteca Deportes Network",
-          "Azteca Deportes App",
-          "aztecadeportes.com",
-          "Disney+ Premium",
-          "ESPN"
-        ]
-      }
-    ],
     "2026-11-07": [
       {
         "time": "17:00",
