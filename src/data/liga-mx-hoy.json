@@ -1,48 +1,6 @@
 {
-  "updatedAt": "2026-11-07T12:28:07.326Z",
+  "updatedAt": "2026-11-08T12:46:04.773Z",
   "matchesByDate": {
-    "2026-11-07": [
-      {
-        "time": "17:00",
-        "home": "Atlas",
-        "away": "Pachuca",
-        "channels": [
-          "ViX Premium",
-          "Layvtime",
-          "Layvtime YouTube"
-        ]
-      },
-      {
-        "time": "19:00",
-        "home": "Toluca",
-        "away": "Monterrey",
-        "channels": [
-          "TUDN",
-          "ViX Premium",
-          "Canal 5"
-        ]
-      },
-      {
-        "time": "19:00",
-        "home": "Tigres UANL",
-        "away": "Cruz Azul",
-        "channels": [
-          "FOX One",
-          "FOX",
-          "Azteca 7"
-        ]
-      },
-      {
-        "time": "21:10",
-        "home": "Pumas UNAM",
-        "away": "América",
-        "channels": [
-          "ViX Premium",
-          "TUDN",
-          "Canal 5"
-        ]
-      }
-    ],
     "2026-11-08": [
       {
         "time": "18:00",
