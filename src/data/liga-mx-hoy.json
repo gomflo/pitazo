@@ -1,26 +1,6 @@
 {
-  "updatedAt": "2026-11-08T12:46:04.773Z",
+  "updatedAt": "2026-11-09T15:12:20.580Z",
   "matchesByDate": {
-    "2026-11-08": [
-      {
-        "time": "18:00",
-        "home": "Querétaro",
-        "away": "Puebla",
-        "channels": [
-          "FOX One",
-          "FOX"
-        ]
-      },
-      {
-        "time": "20:10",
-        "home": "Club León",
-        "away": "Chivas Guadalajara",
-        "channels": [
-          "FOX One",
-          "FOX+"
-        ]
-      }
-    ],
     "2026-11-14": [
       {
         "time": "17:00",
@@ -33,6 +13,15 @@
       }
     ],
     "2026-11-20": [
+      {
+        "time": "19:00",
+        "home": "Puebla",
+        "away": "Atlético San Luis",
+        "channels": [
+          "ESPN",
+          "Disney+ Premium"
+        ]
+      },
       {
         "time": "21:00",
         "home": "Tijuana",
@@ -59,7 +48,8 @@
           "Disney+ Premium",
           "ViX Premium",
           "Layvtime",
-          "Layvtime YouTube"
+          "Layvtime YouTube",
+          "ESPN"
         ]
       },
       {
@@ -75,7 +65,8 @@
         "home": "Pumas UNAM",
         "away": "Monterrey",
         "channels": [
-          "ViX Premium"
+          "ViX Premium",
+          "TUDN"
         ]
       },
       {
