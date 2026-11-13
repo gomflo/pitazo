@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T14:38:37.440Z",
+  "updatedAt": "2026-11-13T13:56:26.951Z",
   "matchesByDate": {
     "2026-11-14": [
       {
@@ -27,7 +27,8 @@
         "home": "Tijuana",
         "away": "Atlante",
         "channels": [
-          "FOX One"
+          "FOX One",
+          "FOX+"
         ]
       },
       {
@@ -35,7 +36,8 @@
         "home": "FC Juárez",
         "away": "Atlas",
         "channels": [
-          "FOX One"
+          "FOX One",
+          "FOX"
         ]
       }
     ],
@@ -57,7 +59,8 @@
         "home": "Pachuca",
         "away": "Toluca",
         "channels": [
-          "FOX One"
+          "FOX One",
+          "FOX+"
         ]
       },
       {
