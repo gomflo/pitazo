@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T15:07:18.771Z",
+  "updatedAt": "2026-11-19T15:16:00.563Z",
   "matchesByDate": {
     "2026-11-20": [
       {
@@ -13,15 +13,6 @@
       },
       {
         "time": "21:00",
-        "home": "Tijuana",
-        "away": "Atlante",
-        "channels": [
-          "FOX One",
-          "FOX+"
-        ]
-      },
-      {
-        "time": "21:00",
         "home": "FC Juárez",
         "away": "Atlas",
         "channels": [
@@ -31,9 +22,27 @@
           "Azteca Deportes App",
           "Azteca 7"
         ]
+      },
+      {
+        "time": "21:10",
+        "home": "Tijuana",
+        "away": "Atlante",
+        "channels": [
+          "FOX One",
+          "FOX+"
+        ]
       }
     ],
     "2026-11-21": [
+      {
+        "time": "16:50",
+        "home": "Pachuca",
+        "away": "Toluca",
+        "channels": [
+          "FOX One",
+          "FOX+"
+        ]
+      },
       {
         "time": "17:00",
         "home": "Santos Laguna",
@@ -47,21 +56,13 @@
         ]
       },
       {
-        "time": "17:00",
-        "home": "Pachuca",
-        "away": "Toluca",
-        "channels": [
-          "FOX One",
-          "FOX+"
-        ]
-      },
-      {
         "time": "19:00",
         "home": "Pumas UNAM",
         "away": "Monterrey",
         "channels": [
           "ViX Premium",
-          "TUDN"
+          "TUDN",
+          "Canal 5"
         ]
       },
       {
@@ -72,6 +73,7 @@
           "FOX One",
           "Azteca Deportes Network",
           "Azteca Deportes App",
+          "FOX",
           "Azteca 7"
         ]
       }
@@ -86,11 +88,12 @@
         ]
       },
       {
-        "time": "19:00",
+        "time": "19:10",
         "home": "Querétaro",
         "away": "Necaxa",
         "channels": [
-          "FOX One"
+          "FOX One",
+          "FOX"
         ]
       }
     ]
