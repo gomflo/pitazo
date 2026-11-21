@@ -1,38 +1,6 @@
 {
-  "updatedAt": "2026-11-20T14:54:13.424Z",
+  "updatedAt": "2026-11-21T14:13:17.570Z",
   "matchesByDate": {
-    "2026-11-20": [
-      {
-        "time": "19:00",
-        "home": "Puebla",
-        "away": "Atlético San Luis",
-        "channels": [
-          "ESPN",
-          "Disney+ Premium"
-        ]
-      },
-      {
-        "time": "21:00",
-        "home": "FC Juárez",
-        "away": "Atlas",
-        "channels": [
-          "FOX One",
-          "FOX",
-          "Azteca Deportes Network",
-          "Azteca Deportes App",
-          "Azteca 7"
-        ]
-      },
-      {
-        "time": "21:10",
-        "home": "Tijuana",
-        "away": "Atlante",
-        "channels": [
-          "FOX One",
-          "FOX+"
-        ]
-      }
-    ],
     "2026-11-21": [
       {
         "time": "16:50",
