@@ -1,51 +1,6 @@
 {
-  "updatedAt": "2026-11-21T14:13:17.570Z",
+  "updatedAt": "2026-11-22T14:03:07.511Z",
   "matchesByDate": {
-    "2026-11-21": [
-      {
-        "time": "16:50",
-        "home": "Pachuca",
-        "away": "Toluca",
-        "channels": [
-          "FOX One",
-          "FOX+"
-        ]
-      },
-      {
-        "time": "17:00",
-        "home": "Santos Laguna",
-        "away": "Club León",
-        "channels": [
-          "Disney+ Premium",
-          "ViX Premium",
-          "Layvtime",
-          "Layvtime YouTube",
-          "ESPN"
-        ]
-      },
-      {
-        "time": "19:00",
-        "home": "Pumas UNAM",
-        "away": "Monterrey",
-        "channels": [
-          "ViX Premium",
-          "TUDN",
-          "Canal 5"
-        ]
-      },
-      {
-        "time": "21:00",
-        "home": "Tigres UANL",
-        "away": "América",
-        "channels": [
-          "FOX One",
-          "Azteca Deportes Network",
-          "Azteca Deportes App",
-          "FOX",
-          "Azteca 7"
-        ]
-      }
-    ],
     "2026-11-22": [
       {
         "time": "17:07",
