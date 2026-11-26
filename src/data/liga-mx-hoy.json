@@ -1,33 +1,6 @@
 {
-  "updatedAt": "2026-11-25T16:47:55.145Z",
+  "updatedAt": "2026-11-26T16:24:23.264Z",
   "matchesByDate": {
-    "2026-11-25": [
-      {
-        "time": "19:00",
-        "home": "Toluca",
-        "away": "Atlas",
-        "channels": [
-          "FOX One",
-          "FOX",
-          "TUDN",
-          "ViX Premium",
-          "Canal 5",
-          "Azteca 7"
-        ]
-      },
-      {
-        "time": "21:10",
-        "home": "Monterrey",
-        "away": "América",
-        "channels": [
-          "TUDN",
-          "ViX Premium",
-          "Canal 5",
-          "Layvtime",
-          "Layvtime YouTube"
-        ]
-      }
-    ],
     "2026-11-26": [
       {
         "time": "19:00",
@@ -70,7 +43,8 @@
           "TUDN",
           "ViX Premium",
           "Layvtime",
-          "Layvtime YouTube"
+          "Layvtime YouTube",
+          "Azteca 7"
         ]
       }
     ],
