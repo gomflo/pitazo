@@ -1,26 +1,6 @@
 {
-  "updatedAt": "2026-11-26T16:24:23.264Z",
+  "updatedAt": "2026-11-27T16:09:04.218Z",
   "matchesByDate": {
-    "2026-11-26": [
-      {
-        "time": "19:00",
-        "home": "Pachuca",
-        "away": "Chivas Guadalajara",
-        "channels": [
-          "FOX One",
-          "FOX+"
-        ]
-      },
-      {
-        "time": "21:10",
-        "home": "Club León",
-        "away": "Cruz Azul",
-        "channels": [
-          "FOX One",
-          "FOX+"
-        ]
-      }
-    ],
     "2026-11-28": [
       {
         "time": "19:00",
@@ -31,7 +11,8 @@
           "TUDN",
           "ViX Premium",
           "Layvtime",
-          "Layvtime YouTube"
+          "Layvtime YouTube",
+          "Azteca 7"
         ]
       },
       {
